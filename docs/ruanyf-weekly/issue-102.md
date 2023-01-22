@@ -376,6 +376,6 @@ Netflix 公司的 CEO 海斯汀（Reed Hastings）2009年曾经发表过一份�
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 
-![](http://www.ruanyieng.com/blogimg/asset/2018/bg2018042311.jpg)
+ruanyieng.com/blogimg/asset/2018/bg2018042311.jpg)
 
 （完）

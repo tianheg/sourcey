@@ -445,7 +445,7 @@ Vue 3 的一个 Hook，用来制作表单。（[@beizhedenglong](https://github.
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 
-![](http://www.ruanyieng.com/blogimg/asset/2018/bg2018042311.jpg)
+ruanyieng.com/blogimg/asset/2018/bg2018042311.jpg)
 
 （完）
 

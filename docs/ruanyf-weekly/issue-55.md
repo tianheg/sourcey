@@ -336,7 +336,7 @@ Stack Overflow 已经成立11年了，现在，世界上每个开发者实际上
 
 去年的本周：[《每周分享第 3 期》](http://www.ruanyifeng.com/blog/2018/05/weekly-issue-3.html)
 
-[![](http://www.ruanyieng.com/blogimg/asset/2018/bg2018050401.jpg)](http://www.ruanyifeng.com/blog/2018/05/weekly-issue-3.html)
+[ruanyieng.com/blogimg/asset/2018/bg2018050401.jpg)](http://www.ruanyifeng.com/blog/2018/05/weekly-issue-3.html)
 
 ## 保险公众号推荐
 
@@ -358,7 +358,7 @@ Stack Overflow 已经成立11年了，现在，世界上每个开发者实际上
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 
-![](http://www.ruanyieng.com/blogimg/asset/2018/bg2018042311.jpg)
+ruanyieng.com/blogimg/asset/2018/bg2018042311.jpg)
 
 （完）
 

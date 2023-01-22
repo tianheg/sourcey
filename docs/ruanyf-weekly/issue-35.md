@@ -367,6 +367,6 @@ ISH 通过使用一个 x86 模拟器，在iOS 设备上面模拟 Linux Shell。
 
 微信搜索“__阮一峰的网络日志__”或者扫描二维码，即可订阅。
 
-![](http://www.ruanyieng.com/blogimg/asset/2018/bg2018042311.jpg)
+ruanyieng.com/blogimg/asset/2018/bg2018042311.jpg)
 
 （完）

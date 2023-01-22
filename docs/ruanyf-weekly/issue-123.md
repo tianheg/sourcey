@@ -394,7 +394,7 @@ fast.ai 公司推出的深度学习教程。
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 
-![](http://www.ruanyieng.com/blogimg/asset/2018/bg2018042311.jpg)
+ruanyieng.com/blogimg/asset/2018/bg2018042311.jpg)
 
 （完）
 

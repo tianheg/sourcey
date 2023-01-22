@@ -402,7 +402,7 @@ Webpack 有巨大的可配置性和可扩展性，复杂度非常高。使用 We
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 
-![](http://www.ruanyieng.com/blogimg/asset/2018/bg2018042311.jpg)
+ruanyieng.com/blogimg/asset/2018/bg2018042311.jpg)
 
 （完）
 

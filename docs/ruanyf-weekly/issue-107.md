@@ -402,6 +402,6 @@ JamStack 指的是使用 JavaScript 构建的 Serverless 项目，这个网站�
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 
-![](http://www.ruanyieng.com/blogimg/asset/2018/bg2018042311.jpg)
+ruanyieng.com/blogimg/asset/2018/bg2018042311.jpg)
 
 （完）

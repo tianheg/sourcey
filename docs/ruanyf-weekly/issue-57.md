@@ -368,7 +368,7 @@ Microsoft 公司的 Edge 浏览器发布第一个 MacOS 的版本。（@[sedgwic
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 
-![](http://www.ruanyieng.com/blogimg/asset/2018/bg2018042311.jpg)
+ruanyieng.com/blogimg/asset/2018/bg2018042311.jpg)
 
 （完）
 

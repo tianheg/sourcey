@@ -342,7 +342,7 @@ D21 的最后一次飞行是1971年3月20日，用于对中国进行高空侦察
 
 去年的本周：[《每周分享第 2 期》](./issue-2.md)
 
-[![](http://www.ruanyieng.com/blogimg/asset/2018/bg2018042801.jpg)](./issue-2.md)
+[ruanyieng.com/blogimg/asset/2018/bg2018042801.jpg)](./issue-2.md)
 
 ## 订阅
 
@@ -350,7 +350,7 @@ D21 的最后一次飞行是1971年3月20日，用于对中国进行高空侦察
 
 微信搜索“**阮一峰的网络日志**”或者扫描二维码，即可订阅。
 
-![](http://www.ruanyieng.com/blogimg/asset/2018/bg2018042311.jpg)
+ruanyieng.com/blogimg/asset/2018/bg2018042311.jpg)
 
 （完）
 
