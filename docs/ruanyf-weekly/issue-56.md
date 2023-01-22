@@ -332,7 +332,7 @@ Mozilla 基金会为了开发语音识别技术， 做了一个开源语音数�
 
 去年的本周：[《每周分享第 4 期》](http://www.ruanyifeng.com/blog/2018/05/weekly-issue-4.html)
 
-[![](http://img1.gtimg.com/cul/pics/hv1/148/24/2275/147938143.jpg)](http://www.ruanyifeng.com/blog/2018/05/weekly-issue-4.html)
+[/cul/pics/hv1/148/24/2275/147938143.jpg)](http://www.ruanyifeng.com/blog/2018/05/weekly-issue-4.html)
 
 ## 订阅
 

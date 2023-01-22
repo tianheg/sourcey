@@ -394,7 +394,7 @@ JamStack 指的是使用 JavaScript 构建的 Serverless 项目，这个网站�
 
 2018年的本周：[第 4 期](http://www.ruanyifeng.com/blog/2018/05/weekly-issue-4.html)
 
-![](http://img1.gtimg.com/cul/pics/hv1/148/24/2275/147938143.jpg)
+/cul/pics/hv1/148/24/2275/147938143.jpg)
 
 ## 订阅
 
