@@ -313,7 +313,7 @@ Bernd Boettge 不死心，决心第二次偷渡。为了能在水下呼吸，他
 
 微信搜索"__阮一峰的网络日志__"或者扫描二维码，即可订阅。
 
-![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042311.jpg)
+![](http://www.ruanyieng.com/blogimg/asset/2018/bg2018042311.jpg)
 
 （完）
 

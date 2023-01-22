@@ -318,7 +318,7 @@ Wes Cherry 是上班时间在微软办公室开发这个游戏，因此知识产
 
 微信搜索"__阮一峰的网络日志__"或者扫描二维码，即可订阅。
 
-![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042311.jpg)
+![](http://www.ruanyieng.com/blogimg/asset/2018/bg2018042311.jpg)
 
 （完）
 

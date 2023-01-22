@@ -8,7 +8,7 @@
 
 ## 封面图
 
-![](https://cdn.beekka.com/blogimg/asset/202103/bg2021030103.jpg)
+![](https://cdn.beea.com/blogimg/asset/202103/bg2021030103.jpg)
 
 太原市建成国内首座全透明气膜体育馆。白天，自然光作为照明；夜晚，原有场地照明灯直接成为室内光源，抬头即可看到夜空。（[via](http://www.tynews.com.cn/system/2021/01/31/030302700.shtml)）
 
@@ -52,7 +52,7 @@
 
 人口趋势恐怕很难改变，但是，技术突破是可以追踪的，这也是我做这个周刊的一个目的， **尽可能追踪和理解新技术，丰富自己的技能，寻找新的机会，避免被微增长时代埋葬，做一个[未来世界的幸存者](http://www.ruanyifeng.com/survivor/)。**
 
-![](https://cdn.beekka.com/blogimg/asset/202103/bg2021030315.jpg)
+![](https://cdn.beea.com/blogimg/asset/202103/bg2021030315.jpg)
 
 ## Vue.js + Element UI 实战
 
@@ -64,27 +64,27 @@
 
 本周的课程资料就是 **《Vue + Element UI 管理平台开发》** ，教大家学会使用 Vue.js + Element UI，快速开发一个管理后台。
 
-![](https://cdn.beekka.com/blogimg/asset/202103/bg2021030205.jpg)
+![](https://cdn.beea.com/blogimg/asset/202103/bg2021030205.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202103/bg2021030206.jpg)
+![](https://cdn.beea.com/blogimg/asset/202103/bg2021030206.jpg)
 
 课程内容包括，从零开始搭建页面和路由，根据设计稿加入 Element 组件，然后编写业务逻辑，组成一个个模块，完成一个初步的、但可用的管理后台。
 
 该课程由[金渡教育](https://jindu.ke.qq.com/)提供，他们是腾讯课堂大V机构，专门培养中高端的 IT 技术人才。本次由创始人亲自授课，理论和实战都会涉及，同时还会讲解大厂的前端面试技巧及高频面试点。
 
-![](https://cdn.beekka.com/blogimg/asset/202103/bg2021030316.jpg)
+![](https://cdn.beea.com/blogimg/asset/202103/bg2021030316.jpg)
 
 课程原价299元，现在有99个免费学习名额。微信扫描下面二维码，添加小助理，加入学习群，就可获得讲课视频和源码。
 
-![](https://cdn.beekka.com/blogimg/asset/202103/bg2021030317.jpg)
+![](https://cdn.beea.com/blogimg/asset/202103/bg2021030317.jpg)
 
 ## 科技动态
 
 1、[火星样本](https://www.bbc.com/zhongwen/simp/science-56113297)
 
-![](https://cdn.beekka.com/blogimg/asset/202102/bg2021021913.jpg)
+![](https://cdn.beea.com/blogimg/asset/202102/bg2021021913.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202102/bg2021021914.jpg)
+![](https://cdn.beea.com/blogimg/asset/202102/bg2021021914.jpg)
 
 2月18日，美国毅力号探测车登陆火星。它的任务是取出火星的土壤样本，但是要等到2031年，这些样本才会送到地球，这是为什么？
 
@@ -98,35 +98,35 @@
 
 2、[火星降落伞](https://github.com/tanyafish/parachute)
 
-![](https://cdn.beekka.com/blogimg/asset/202102/bg202102501.jpg)
+![](https://cdn.beea.com/blogimg/asset/202102/bg202102501.jpg)
 
 毅力号火星探测车的降落伞是特别设计的，内嵌了信息编码，可以用于摄像机校准。
 
-![](https://cdn.beekka.com/blogimg/asset/202102/bg202102502.jpg)
+![](https://cdn.beea.com/blogimg/asset/202102/bg202102502.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202102/bg202102505.jpg)
+![](https://cdn.beea.com/blogimg/asset/202102/bg202102505.jpg)
 
 橙色条纹为1，白色条纹为0，七个条纹为一组，对应的英语字母为“DARE MIGHTY THINGS”（挑战不可思议的事情）。这是研发单位“美国宇航局喷气推进实验室”（JPL） 刻在墙上的格言。另外，降落伞的最外圈为 JPL 的坐标。
 
-![](https://cdn.beekka.com/blogimg/asset/202102/bg202102504.jpg)
+![](https://cdn.beea.com/blogimg/asset/202102/bg202102504.jpg)
 
 3、[停车地锁](https://mp.weixin.qq.com/s/WNpQkNQq5WCV-5NvB8LhPQ)
 
-![](https://cdn.beekka.com/blogimg/asset/202101/bg2021012903.jpg)
+![](https://cdn.beea.com/blogimg/asset/202101/bg2021012903.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202101/bg2021012904.jpg)
+![](https://cdn.beea.com/blogimg/asset/202101/bg2021012904.jpg)
 
 上海闵行区新设了45个智能停车位，配有智能地锁，不需要人员看管。车辆停入7分钟以后，地面会自动升起一个金属桩，最高可到30厘米，车主只有扫描二维码支付停车费以后，金属桩才会降下。如果强行开动，会造成车辆底盘损坏。
 
-![](https://cdn.beekka.com/blogimg/asset/202101/bg2021012905.jpg)
+![](https://cdn.beea.com/blogimg/asset/202101/bg2021012905.jpg)
 
 停车位还配有摄像头，能够识别车牌号码，可以随时上网查询停车状态和费用情况。车主们对这种停车方式还不适应，许多人不知道怎么操作，意见最大的一点是，付费后不能立刻把车开走，因为金属桩的降下需要一两分钟，如果忘了这点，很容易造成底盘刮擦。
 
 4、[波浪发电装置](https://www.theguardian.com/australia-news/2021/feb/02/remote-tasmanian-island-to-be-powered-by-blowhole-energy-that-harnesses-waves)
 
-![](https://cdn.beekka.com/blogimg/asset/202102/bg2021020404.jpg)
+![](https://cdn.beea.com/blogimg/asset/202102/bg2021020404.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202102/bg2021020405.jpg)
+![](https://cdn.beea.com/blogimg/asset/202102/bg2021020405.jpg)
 
 澳大利亚塔斯马尼亚岛正在测试一个波浪发电装置。这个装置漂浮在海上，水下面对波浪的一面是敞开的。水涌入舱室时，会推动空气向上升，从而带动发电机发电。发明人形容，“它的结构很像人造的气孔，推动空气往复运动，使涡轮旋转并产生电能的空气运动。”
 
@@ -134,7 +134,7 @@
 
 5、[斑马条纹的作用](https://www.zmescience.com/ecology/animals-ecology/how-zebra-stripes-insects-04232/)
 
-![](https://cdn.beekka.com/blogimg/asset/202101/bg2021012505.jpg)
+![](https://cdn.beea.com/blogimg/asset/202101/bg2021012505.jpg)
 
 大部分科学家认为，斑马进化出条纹，是为了避免蚊虫叮咬。条纹使得蚊虫感到眩晕，无法停在皮肤上。美国加州大学戴维斯分校为了证实这个假说，做了一个实验，同时找了马和斑马，让马穿上条纹外套，看看蚊虫能不能区分。
 
@@ -144,47 +144,47 @@
 
 > - [国内无人机厂商亿航](https://space.bilibili.com/353270645)在广东和北京开始载人试航（[视频](https://v.qq.com/x/page/y3230nidmtp.html)）。不过，这个飞行器很可能飞不了多远，而且是遥控的，不免让人担心，如果通讯断了或信号被劫持怎么办。
 
-![](https://cdn.beekka.com/blogimg/asset/202102/bg2021022704.jpg)
+![](https://cdn.beea.com/blogimg/asset/202102/bg2021022704.jpg)
 
 <iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=y3230nidmtp" allowFullScreen="true" width="600" height="400"></iframe>
 
 > - [一个 Youtube 用户](https://www.news18.com/news/buzz/youtube-ai-blocked-chess-channel-after-confusing-black-and-white-for-racist-slurs-3454316.html)披露，他的国际象棋频道被封，理由是“内容有害”，但是国际象棋怎么可能有害呢？后来，他明白了，因为视频标题总是出现 black（黑方）和 white（白方），被算法识别为种族仇恨内容。
 
-![](https://cdn.beekka.com/blogimg/asset/202102/bg2021022204.jpg)
+![](https://cdn.beea.com/blogimg/asset/202102/bg2021022204.jpg)
 
 > - [日本](https://news.mydrivers.com/1/741/741993.htm)培育出一种可以连皮一起吃的香蕉，每根售价高达1080日元，约合66元人民币。为了改善香蕉皮的口感，这种香蕉的含糖量是普通香蕉的1.5倍。
 
-![](https://cdn.beekka.com/blogimg/asset/202102/bg2021022705.jpg)
+![](https://cdn.beea.com/blogimg/asset/202102/bg2021022705.jpg)
 
 > - [俄罗斯西伯利亚](https://siberiantimes.com/other/others/news/scientists-call-for-urgent-increase-in-monitoring-potentially-explosive-permafrost-heave-mounds/)由于冻土层解冻，地下的大量沼气开始释放，引发爆炸，形成许多巨大的地洞。
 
-![](https://cdn.beekka.com/blogimg/asset/202102/bg2021021503.jpg)
+![](https://cdn.beea.com/blogimg/asset/202102/bg2021021503.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202102/bg2021021504.jpg)
+![](https://cdn.beea.com/blogimg/asset/202102/bg2021021504.jpg)
 
 > - [伦敦玛丽女王大学](https://venturebeat.com/2021/02/13/thought-detection-ai-has-infiltrated-our-last-bastion-of-privacy/)发表了一份不可思议的研究报告，向人体发射无线电信号，通过反射回来的信号形态，可以判断这个人的情绪状态。研究人员发现，人在不同情绪状态下，反射的无线电电波形态是不一样的。
 
-![](https://cdn.beekka.com/blogimg/asset/202102/bg2021021505.jpg)
+![](https://cdn.beea.com/blogimg/asset/202102/bg2021021505.jpg)
 
 ## 文章
 
 1、[在北极挖比特币](https://mp.weixin.qq.com/s/-G8YBnKbiVVODQ4I5zBIsg)（中文）
 
-![](https://cdn.beekka.com/blogimg/asset/202102/bg2021021915.jpg)
+![](https://cdn.beea.com/blogimg/asset/202102/bg2021021915.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202102/bg2021021916.jpg)
+![](https://cdn.beea.com/blogimg/asset/202102/bg2021021916.jpg)
 
 一家名为 BitCluster 的俄国公司，建立了世界上第一个位于北极圈内的比特币矿场。那里电费便宜，而且气温有助于散热。本文使用大量图片，介绍这个矿场的情况。
 
 2、[实体的元素周期表](https://www.mobile01.com/topicdetail.php?f=181&t=6304317)（中文）
 
-![](https://cdn.beekka.com/blogimg/asset/202102/bg2021021920.jpg)
+![](https://cdn.beea.com/blogimg/asset/202102/bg2021021920.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202102/bg2021021921.jpg)
+![](https://cdn.beea.com/blogimg/asset/202102/bg2021021921.jpg)
 
 淘宝有出售高纯度的金属元素立方体，一个台湾网友就买来做了实体的元素周期表。
 
-![](https://cdn.beekka.com/blogimg/asset/202102/bg2021021922.jpg)
+![](https://cdn.beea.com/blogimg/asset/202102/bg2021021922.jpg)
 
 3、[esbuild 为什么这么快？](https://esbuild.github.io/faq/#why-is-esbuild-fast)（英文）
 
@@ -196,15 +196,15 @@ Nginx 是最常见的 Web 服务器，本文介绍四个常见的配置错误，
 
 5、[我作为独立开发者的第三年](https://mtlynch.io/solo-developer-year-3/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202102/bg2021020210.jpg)
+![](https://cdn.beea.com/blogimg/asset/202102/bg2021020210.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202102/bg2021020211.jpg)
+![](https://cdn.beea.com/blogimg/asset/202102/bg2021020211.jpg)
 
 作者辞职作为独立开发者，头两年的总收入不到1万美元，第三年的目标是2万美元。但是一天他偶然在网上发了一个帖子，讲述自己用树莓派做了一个服务器管理设备（上图），居然为他带来了6.3万美元的收入，而且还可以成立公司。
 
 6、[OpenJDK 是如何移植到64位 ARM 架构的？](https://developers.redhat.com/blog/2021/02/01/how-red-hat-ported-openjdk-to-64-bit-arm-a-community-history/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202102/bg2021020212.jpg)
+![](https://cdn.beea.com/blogimg/asset/202102/bg2021020212.jpg)
 
 这篇是回忆文章。2011年，ARM 公司准备推出64位的 CPU，用于服务器，应用软件需要跟上，但是当时 OpenJDK 只能在 x86 架构运行。作者在 RedHat 和 Oracle 公司的支持下，开始从事将 OpenJDK 移植到 AArch64 架构的工作，一开始非常困难，因为硬件还没生产出来，只能在虚拟机上模拟开发。
 
@@ -218,7 +218,7 @@ Nginx 是最常见的 Web 服务器，本文介绍四个常见的配置错误，
 
 9、[什么是霍夫曼编码？](https://www.baseclass.io/huffman-coding/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202102/bg2021022202.jpg)
+![](https://cdn.beea.com/blogimg/asset/202102/bg2021022202.jpg)
 
 霍夫曼编码是经典的压缩算法，[GZIP](https://jvns.ca/blog/2015/02/22/how-gzip-uses-huffman-coding/) 就使用它。本文是我见过最简单的解释，可以在五分钟内理解这个算法的实现原理。
 
@@ -226,43 +226,43 @@ Nginx 是最常见的 Web 服务器，本文介绍四个常见的配置错误，
 
 1、[GitHub Skyline](https://skyline.github.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202102/bg2021021907.jpg)
+![](https://cdn.beea.com/blogimg/asset/202102/bg2021021907.jpg)
 
 GitHub 官方出品，将你过去一年的提交统计转成一个三维的直方图，并且提供 stl 文件下载，进行 3D 打印。
 
 2、[Stockfish 12](https://stockfishchess.org/)
 
-![](https://cdn.beekka.com/blogimg/asset/202102/bg2021021910.jpg)
+![](https://cdn.beea.com/blogimg/asset/202102/bg2021021910.jpg)
 
 开源的国际象棋引擎，号称比人类的世界冠军还要强大。官方提供 Mac App 下载，并且有许多其他操作系统的第三方 App。
 
 3、[Ray.so](https://ray.so/)
 
-![](https://cdn.beekka.com/blogimg/asset/202102/bg2021021923.jpg)
+![](https://cdn.beea.com/blogimg/asset/202102/bg2021021923.jpg)
 
 这个网站可以生成漂亮的代码截图，颜色、阴影、背景都可以调整。
 
 4、[Cockpit](https://cockpit-project.org/)
 
-![](https://cdn.beekka.com/blogimg/asset/202102/bg2021022002.jpg)
+![](https://cdn.beea.com/blogimg/asset/202102/bg2021022002.jpg)
 
 Linux 服务器的 Web 控制台。
 
 5、[Finger Pool](https://github.com/victorqribeiro/fingerPool)
 
-![](https://cdn.beekka.com/blogimg/asset/202102/bg2021022003.jpg)
+![](https://cdn.beea.com/blogimg/asset/202102/bg2021022003.jpg)
 
 开源的 2D 网页桌球游戏，撞击效果做得很好。
 
 6、[UTM](https://mac.getutm.app/)
 
-![](https://cdn.beekka.com/blogimg/asset/202102/bg2021022701.jpg)
+![](https://cdn.beea.com/blogimg/asset/202102/bg2021022701.jpg)
 
 MacOS 的虚拟机应用，可以很轻松地在苹果电脑上运行 Windows 和 Linux，属于 qemu 的 UI 封装，另有 [iOS 的虚拟机](https://github.com/utmapp/UTM)，在 iPhone 和 iPad 上运行 Windows。
 
 7、[Deep Nostalgia](https://www.myheritage.com/deep-nostalgia)
 
-![](https://cdn.beekka.com/blogimg/asset/202102/bg2021022702.jpg)
+![](https://cdn.beea.com/blogimg/asset/202102/bg2021022702.jpg)
 
 这个在线服务，只要上传一张老照片（需要免费注册），就能将里面的人物转成一段短视频，不仅提高了分辨率，而且有着各种脸部表情。（[@dbazhihui](https://github.com/ruanyf/weekly/issues/1662) 投稿）
 
@@ -276,7 +276,7 @@ MacOS 的虚拟机应用，可以很轻松地在苹果电脑上运行 Windows �
 
 10、[Bing Wallpaper](https://github.com/niumoo/bing-wallpaper)
 
-![](https://cdn.beekka.com/blogimg/asset/202103/bg2021030307.jpg)
+![](https://cdn.beea.com/blogimg/asset/202103/bg2021030307.jpg)
 
 这个项目使用 GitHub Actions，收集 Bing 搜索引擎每天的壁纸，提供下载，详见[这篇说明文章](https://www.wdbyte.com/2021/03/bing-wallpaper-github-action/)。（[@niumoo](https://github.com/ruanyf/weekly/issues/1656) 投稿）
 
@@ -284,37 +284,37 @@ MacOS 的虚拟机应用，可以很轻松地在苹果电脑上运行 Windows �
 
 1、[Python 初学者教程](https://learnbyexample.github.io/100_page_python_intro/introduction.html)（100 Page Python Intro）
 
-![](https://cdn.beekka.com/blogimg/asset/202102/bg2021021002.jpg)
+![](https://cdn.beea.com/blogimg/asset/202102/bg2021021002.jpg)
 
 一个面向初学者的 Python 英文教程，免费在线阅读，打印出来长度100页左右。
 
 2、[10万亿像素的夜空](https://viewer.legacysurvey.org/#IC%202800)
 
-![](https://cdn.beekka.com/blogimg/asset/202102/bg2021020916.jpg)
+![](https://cdn.beea.com/blogimg/asset/202102/bg2021020916.jpg)
 
 全球多个天文台合作，经过6年的1405个夜晚的观测，将天文望远镜拍摄到的照片，合并成一张10万亿像素的图片，包含超过十亿个星系，覆盖整个天空的三分之一。这里就是这张巨型图片的在线浏览，另有[介绍文章](https://kottke.org/21/02/10-terapixel-image-of-the-night-sky)。
 
 3、[Frinkiac](https://frinkiac.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202102/bg2021021402.jpg)
+![](https://cdn.beea.com/blogimg/asset/202102/bg2021021402.jpg)
 
 这个网站收集了300万张动画片《辛普森一家》的截图，可以按照主题搜索。类似的网站还有 [Futurama 的图片搜索](https://morbotron.com/)。
 
 4、[计算机网络：系统方法](https://book.systemsapproach.org/)
 
-![](https://cdn.beekka.com/blogimg/asset/202102/bg2021021406.jpg)
+![](https://cdn.beea.com/blogimg/asset/202102/bg2021021406.jpg)
 
 《计算机网络：系统方法》（Computer Networks: A Systems Approach）一书的在线阅读。
 
 5、[故宫博物院藏品总目](https://zm-digicol.dpm.org.cn/)
 
-![](https://cdn.beekka.com/blogimg/asset/202102/bg2021021407.jpg)
+![](https://cdn.beea.com/blogimg/asset/202102/bg2021021407.jpg)
 
 故宫博物院官方的藏品目录，共收入180多万件，可以在线搜索，部分藏品带有彩色照片和文字介绍。
 
 6、[React 资源库搜索](https://bestofreactjs.com/search)
 
-![](https://cdn.beekka.com/blogimg/asset/202103/bg2021030310.jpg)
+![](https://cdn.beea.com/blogimg/asset/202103/bg2021030310.jpg)
 
 这个网站收集各种 React 相关的开源库，按照用途进行分类，相关的还有 [Vue.js 资源库搜索](https://bestofvue.com/search)。（[@ctolib](https://github.com/ruanyf/weekly/issues/1658) 投稿）
 
@@ -326,33 +326,33 @@ MacOS 的虚拟机应用，可以很轻松地在苹果电脑上运行 Windows �
 
 一千年的风沙，都留在了佛像上。
 
-![](https://cdn.beekka.com/blogimg/asset/202102/bg2021020706.jpg)
+![](https://cdn.beea.com/blogimg/asset/202102/bg2021020706.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202102/bg2021020707.jpg)
+![](https://cdn.beea.com/blogimg/asset/202102/bg2021020707.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202102/bg2021020708.jpg)
+![](https://cdn.beea.com/blogimg/asset/202102/bg2021020708.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202102/bg2021020709.jpg)
+![](https://cdn.beea.com/blogimg/asset/202102/bg2021020709.jpg)
 
 2、[LackRack](https://web.archive.org/web/20210205010435/https://wiki.eth0.nl/index.php/LackRack)
 
 宜家商场出售的 LackRack 小桌子，长 x 宽 x 高为 55cm x 55cm x 45cm。
 
-![](https://cdn.beekka.com/blogimg/asset/202102/bg2021021201.jpg)
+![](https://cdn.beea.com/blogimg/asset/202102/bg2021021201.jpg)
 
 由于它跟19寸服务器的大小很适配，常常被程序员用作简易机柜。
 
-![](https://cdn.beekka.com/blogimg/asset/202102/bg2021021202.jpg)
+![](https://cdn.beea.com/blogimg/asset/202102/bg2021021202.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202102/bg2021021203.jpg)
+![](https://cdn.beea.com/blogimg/asset/202102/bg2021021203.jpg)
 
 它还可以多个组合在一起。
 
-![](https://cdn.beekka.com/blogimg/asset/202102/bg2021021204.jpg)
+![](https://cdn.beea.com/blogimg/asset/202102/bg2021021204.jpg)
 
 不用的时候，它可以多个叠在一起节省空间。
 
-![](https://cdn.beekka.com/blogimg/asset/202102/bg2021021205.jpg)
+![](https://cdn.beea.com/blogimg/asset/202102/bg2021021205.jpg)
 
 它在中国的售价是每个39元人民币。
 
@@ -360,7 +360,7 @@ MacOS 的虚拟机应用，可以很轻松地在苹果电脑上运行 Windows �
 
 1、[被导弹击中的感觉](https://www.rd.com/article/the-stranger-who-changed-my-life-my-enemy-my-friend/)
 
-![](https://cdn.beekka.com/blogimg/asset/202102/bg2021020802.jpg)
+![](https://cdn.beea.com/blogimg/asset/202102/bg2021020802.jpg)
 
 1999年塞尔维亚战争时，我在美国空军服役，驾驶 F-117 隐形战斗机。
 
@@ -427,6 +427,6 @@ SVG 是一个非常臃肿的文件格式，规格文档厚达826页。如果要�
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 
-![](https://cdn.beekka.com/blogimg/asset/202103/bg2021030402.jpg)
+![](https://cdn.beea.com/blogimg/asset/202103/bg2021030402.jpg)
 
 （完）

@@ -8,7 +8,7 @@
 
 ## 封面图
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022031706.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022031706.webp)
 
 2021年世界自然摄影大赛，有一张神奇的得奖照片。一队蚂蚁过水塘，其中一只趴在水面上作为桥梁，让其他蚂蚁踩在自己身上过河。（[via](https://www.worldnaturephotographyawards.com/winners-2021)）
 
@@ -18,7 +18,7 @@
 
 上周，我看到[一条新闻](https://ein.org.uk/blog/what-you-need-know-about-new-high-potential-individual-visa-route)，英国即将出台“名校签证”。世界顶尖大学的应届本科生，可以直接申请该签证，到英国找工作。
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022041304.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022041304.webp)
 
 英国政府对“世界顶尖大学”的定义是，该大学在以下三个高校排行榜里面，至少有两个排名前50位。
 
@@ -40,19 +40,19 @@
 
 查看世界大学排行榜的时候，我无意中点进了加州大学伯克利分校的官网。
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022041305.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022041305.webp)
 
 伯克利是一所非常有名的大学，单单在[计算机领域](https://www.sohu.com/a/307134208_99979179)，就涌现了众多的发明（比如 Unix BSD 系统）和杰出人物。
 
 但是，我在[计算机系](https://eecs.berkeley.edu/about/by-the-numbers)（全名为电气工程与计算机科学系，Electrical Engineering and Computer Sciences）的网页上，看到了一个难以想象的数字：**去年的2021届，伯克利应届计算机系本科毕业生有1300多人！**
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022041309.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022041309.webp)
 
 一个系一年有1300多个毕业生，这也太多了吧。怎么培养呢？
 
 小班课就算40个人一个班，那也要几十个班，系里需要多少老师啊。大班课在阶梯教室上课，最多坐200个人，再多就只能去礼堂上课了。大家都知道，班级规模越大，教学效果越差。
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022041310.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022041310.webp)
 
 上图是[网上找到](https://www.bradford-delong.com/2017/09/highlighted-for-september-18-2017-largest-classes-at-berkeley.html)的图片，伯克利最大的报告厅可以坐1098人，但是上编程入门课 CS61A 时，还坐不下，来晚了都得站着听。
 
@@ -62,7 +62,7 @@
 
 到了今年，它还要扩招，连法官都看不下去了，[命令](https://www.sohu.com/a/522972127_99975769)全校缩招5100个学生。不过，州长最后[没同意](https://www.sohu.com/a/530962170_543744)，如果真要缩招，学校财政会出问题。
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022041307.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022041307.webp)
 
 我还看到了一位伯克利计算机系老师的[公开信](https://www.dailycal.org/2022/04/08/a-personal-view-of-uc-berkeleys-eecs-crisis/)。他公开说，计算机系学生太多、学校给的经费太少，人员不足，处于崩溃边缘。（the department is still in danger of shattering just due to demand.）他对现状感到绝望，宣布辞职，并且在可预见的未来，不愿意再次在伯克利任教。
 
@@ -74,13 +74,13 @@
 
 周刊一直以来，都在推广国产软件和开源软件，向大家介绍好用的工具。今天的主角就是一款国产的研发协同工具 [Apipost](https://www.apipost.cn/?utm_source=10031)。
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022032702.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022032702.webp)
 
 互联网软件现在主要采用 REST 模式（后端提供数据接口，前端消费接口），优点是前后端分离，可以各自独立开发，缺点是项目越大，前后端协同越困难。
 
 [Apipost](https://www.apipost.cn/?utm_source=10031) 的定位就是，**基于协作的 API 研发协同工具**，为开发者提供不止于 API 文档、调试、Mock 等大量功能。你可以把它看成 Postman + Swagger + Mock 的集成体。
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022041207.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022041207.webp)
 
 它在 Postman 的基础上，加强团队协作和项目管理。团队的所有角色，都可以使用这个工具进行协同。
 
@@ -93,9 +93,9 @@
 
 **（1）一键快速生成文档。** 接口文档的撰写非常麻烦，很多属于重复工作，效率低下。接口参数填写完毕后，只要在 Apipost 按下“分享文档”按钮（下图），就会一键自动生成漂亮、规范的文档，并且可以自定义分享有效期及权限。
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022041208.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022041208.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022041209.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022041209.webp)
 
 **（2）团队成员间可实时协作。** 针对团队成员间协作不同步，数据保存有冲突，无法追溯变更记录的情况，多人在线协作时，Apipost 支持数据实时同步，有冲突解决机制，并且可以追溯协作日志。
 
@@ -107,7 +107,7 @@
 
 Apipost 现提供跨平台的[客户端](https://www.apipost.cn/download.html?utm_source=10031)和 [Web 版](https://console.apipost.cn/register?utm_source=10031)。**所有功能都免费使用**，新建项目和接口不限数量。只有商业项目的团队超过15人，或者需要私有部署时，才会收费。
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022041210.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022041210.webp)
 
 欢迎大家[试用](https://www.apipost.cn/?utm_source=10031)，相信肯定会提高你的接口开发效率。进一步了解，可以访问他们的[问答社区](https://qa.apipost.cn/?utm_source=10031)，也可以[加入微信群](https://wiki.apipost.cn/document/00091641-1e36-490d-9caf-3e47cd38bcde/063ef304-6a5d-45b5-b909-cce5e573e640)。
 
@@ -115,63 +115,63 @@ Apipost 现提供跨平台的[客户端](https://www.apipost.cn/download.html?ut
 
 1、[会开枪的机器狗](https://www.theverge.com/2021/10/14/22726111/robot-dogs-with-guns-sword-international-ghost-robotics)
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022031902.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022031902.webp)
 
 美国最近举行的一次陆军武器展览会上，出现了具有射击能力的机器狗。它配备了30倍光学变焦的热像仪，一旦发现红外线发热物体，可以1,200米以外射击。
 
 它是波士顿动力公司公开发售的机器狗，再配上一把自动瞄准的无人步枪。
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022031903.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022031903.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202111/bg2021110404.jpg)
+![](https://cdn.beea.com/blogimg/asset/202111/bg2021110404.jpg)
 
 可以预料，只要机器狗之类的智能行驶装置出现，就一定会有人为它装上武器。而且，这类无人武器将在未来的战场得到大量应用，未来的战争很可能都是无人机、无人战车、机器狗、机器士兵之类的装置在打。
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022031904.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022031904.webp)
 
 2、[指纹破解](https://blog.kraken.com/post/11905/your-fingerprint-can-be-hacked-for-5-heres-how/)
 
-![](https://cdn.beekka.com/blogimg/asset/202111/bg2021112305.jpg)
+![](https://cdn.beea.com/blogimg/asset/202111/bg2021112305.jpg)
 
 很多手机都使用指纹认证，美国的一个安全团队展示了快速破解技术。他们可以提取出租车门、iPhone 屏幕、酒杯等处留下的指纹，甚至还可以从高分辨率照片上提取指纹。
 
 拿到指纹后，先在 PhotoShop 里面生成图片。
 
-![](https://cdn.beekka.com/blogimg/asset/202111/bg2021112306.jpg)
+![](https://cdn.beea.com/blogimg/asset/202111/bg2021112306.jpg)
 
 接着，使用激光打印机将其打印到纤维纸上，打印机的碳粉会在纸上形成指纹的 3D 结构。 
 
-![](https://cdn.beekka.com/blogimg/asset/202111/bg2021112308.jpg)
+![](https://cdn.beea.com/blogimg/asset/202111/bg2021112308.jpg)
 
 最后，将这些碳粉原样粘在树脂胶水上面，就可以还原他人的指纹了。
 
-![](https://cdn.beekka.com/blogimg/asset/202111/bg2021112309.jpg)
+![](https://cdn.beea.com/blogimg/asset/202111/bg2021112309.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202111/bg2021112310.jpg)
+![](https://cdn.beea.com/blogimg/asset/202111/bg2021112310.jpg)
 
 经过测试，这种方法的成功率非常高，能通过大多数设备的指纹认证，而且实施成本很低，只要5美元。
 
 3、[公路拉链](https://www.lindsay.com/usca/en/infrastructure/brands/road-zipper/)
 
-![](https://cdn.beekka.com/blogimg/asset/202201/bg2022010206.webp)
+![](https://cdn.beea.com/blogimg/asset/202201/bg2022010206.webp)
 
 高速公路一般是左右各三个或四个车道，有时两边会不平衡，一边很堵，一边很空。为了解决这个问题，一家美国公司发明了“公路拉链”技术，可以动态调整车道。
 
 这家公司使用特殊车辆，可以根据车流情况，自动收起和布置车道之间的隔离块，比如将四车道从“二上二下”变成“三上一下”。旧金山的金门大桥已经将它投入日常使用了。此外，它还可以快速布置路障。
 
-![](https://cdn.beekka.com/blogimg/asset/202201/bg2022010207.webp)
+![](https://cdn.beea.com/blogimg/asset/202201/bg2022010207.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202201/bg2022010208.webp)
+![](https://cdn.beea.com/blogimg/asset/202201/bg2022010208.webp)
 
 4、[人造闪电](https://arpa-e.energy.gov/news-and-media/blog-posts/playing-zeus)
 
-![](https://cdn.beekka.com/blogimg/asset/202112/bg2021122008.webp)
+![](https://cdn.beea.com/blogimg/asset/202112/bg2021122008.webp)
 
 闪电对人类至关重要。没有闪电，植物就会因为缺少氮肥而无法生长。
 
 因为闪电可以使空气发生电离，将氮分子裂解成氮离子，再与氧结合形成二氧化氮，溶解于水中形成硝酸，最终在土壤里面变成硝酸盐，为植物施肥。
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022041308.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022041308.webp)
 
 一家美国的创业公司，发明了一种容器，可以生成人工闪电，将氮气变成硝酸盐。它使用太阳能，因此很省电，可以部署在农田旁边，方便农民就近施肥。美国政府已经决定推广这项技术。
 
@@ -179,19 +179,19 @@ Apipost 现提供跨平台的[客户端](https://www.apipost.cn/download.html?ut
 
 1、[浅谈不规范使用汉字](http://www.lindapatent.com/cn/info/insights_trademark/2022/0130/1436.html)（中文）
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022040705.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022040705.webp)
 
 国家新闻出版署最近开展了[“不规范使用汉字问题专项整治工作”](http://www.xinhuanet.com/culture/20220406/6915ee61fa744817b2df6abb039d3ce8/c.html)。本文给出了实例解释，什么叫做不规范使用汉字（比如上图）。
 
 2、[如何架设一个石油钻井平台](https://mp.weixin.qq.com/s/atAiSpkNyWte0MSoJ6TFzw)（中文）
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022040903.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022040903.webp)
 
 本文使用大量图片，介绍石油钻井平台如何架设在大陆架上。中国最深的钻井平台，距海底有3000多米，这是怎么做到的。
 
 3、[芯片工厂是怎么建设的](https://www.nytimes.com/2022/04/08/technology/intel-chip-shortage.html)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022041105.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022041105.webp)
 
 《纽约时报》的长篇图文报道，通过英特尔公司在亚利桑那州的新工厂，介绍建设一个芯片工厂为什么耗资巨大。
 
@@ -201,7 +201,7 @@ Apipost 现提供跨平台的[客户端](https://www.apipost.cn/download.html?ut
 
 5、[找出泄漏的 JavaScript 全局变量](https://mmazzarolo.com/blog/2022-02-14-find-what-javascript-variables-are-leaking-into-the-global-scope/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202202/bg2022021910.webp)
+![](https://cdn.beea.com/blogimg/asset/202202/bg2022021910.webp)
 
 本文给出了一种方法，可以用脚本自动列出所有泄露到全局的 JavaScript 变量。
 
@@ -215,7 +215,7 @@ HTTP 的 GET 方法没有数据体，查询参数必须放在 URL。如果参数
 
 8、[Linux 信号知识](https://devopedia.org/linux-signals)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022041303.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022041303.webp)
 
 本文是一篇科普文章，介绍什么是 Linux 信号，以及它的基本用法。（[@lyhellcat](https://github.com/ruanyf/weekly/issues/2329) 投稿）
 
@@ -223,39 +223,39 @@ HTTP 的 GET 方法没有数据体，查询参数必须放在 URL。如果参数
 
 1、[Lexical](https://lexical.dev/)
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022041311.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022041311.webp)
 
 脸书开源了最新的文本编辑器，目前脸书和 Instagram 官网用的都是它。它替代了脸书原来的 Draftjs，跟 Prosemirror 相比，更轻量、可配置性更高，缺点是文档目前不全。
 
 2、[Orion 浏览器](https://browser.kagi.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022031407.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022031407.webp)
 
 一种基于 Webkit 的新浏览器，只能用于 MacOS 和 iOS，但是能安装 Chrome 的插件，目前还是测试版。据说体验非常好，胜过 Safari。
 
 3、[密码生成器](http://www.icosaedro.it/PasswordGenerator.htm)
 
-![](https://cdn.beekka.com/blogimg/asset/202112/bg2021121305.webp)
+![](https://cdn.beea.com/blogimg/asset/202112/bg2021121305.webp)
 
 一个在线的随机密码生成器。
 
 4、[Portmaster](https://safing.io/portmaster/)
 
-![](https://cdn.beekka.com/blogimg/asset/202201/bg2022010205.webp)
+![](https://cdn.beea.com/blogimg/asset/202201/bg2022010205.webp)
 
 一个跨平台的桌面软件，可以监控本机的所有网络通信。
 
 5、[东京地铁实时 3D 地图](https://minitokyo3d.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202201/bg2022010210.webp)
+![](https://cdn.beea.com/blogimg/asset/202201/bg2022010210.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202201/bg2022010211.webp)
+![](https://cdn.beea.com/blogimg/asset/202201/bg2022010211.webp)
 
 这是一个 3D 地图，实时显示每一部地铁列车的位置。它的源码看[这里](https://github.com/nagix/mini-tokyo-3d)。
 
 6、[SQLite Online IDE](https://sqliteonline.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022031202.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022031202.webp)
 
 一个数据库在线管理工具，通过上传或在线连接，在网页上进行数据库管理和查询，支持 SQLite、MySQL、PostgreSQL 等数据库。
 
@@ -265,13 +265,13 @@ HTTP 的 GET 方法没有数据体，查询参数必须放在 URL。如果参数
 
 8、[HubFS](https://github.com/winfsp/hubfs)
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022031204.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022031204.webp)
 
 这个工具支持把 Git 仓库挂载到文件系统，然后就能像常规目录那样访问该仓库，包括读取各个分支和历史提交。它同时支持 Windows、Mac 和 Linux。
 
 9、[cz-git](https://cz-git.qbenben.com/zh/)
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022041302.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022041302.webp)
 
 一款可以定制 Git 提交信息的工具。（[@Zhengqbbb](https://github.com/ruanyf/weekly/issues/2326) 投稿）
 
@@ -279,7 +279,7 @@ HTTP 的 GET 方法没有数据体，查询参数必须放在 URL。如果参数
 
 1、[抖音背后的音视频技术](https://www.bagevent.com/event/8134656?bag_track=1)
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022041211.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022041211.webp)
 
 抖音作为短视频王者，如何处理音视频？面对超大规模并发，如何满足清晰、流畅、实时的核心要求，让用户即便在弱网环境、低端设备上，也能有满意的观看效果？
 
@@ -289,25 +289,25 @@ HTTP 的 GET 方法没有数据体，查询参数必须放在 URL。如果参数
 
 1、[OEC.world](https://oec.world/en)
 
-![](https://cdn.beekka.com/blogimg/asset/202202/bg2022022201.webp)
+![](https://cdn.beea.com/blogimg/asset/202202/bg2022022201.webp)
 
 这个网站可以查询每个国家或地区的贸易数据，并用图文进行通俗解释。
 
 2、[Monorepo](https://monorepo.tools/)
 
-![](https://cdn.beekka.com/blogimg/asset/202202/bg2022022203.webp)
+![](https://cdn.beea.com/blogimg/asset/202202/bg2022022203.webp)
 
 Monorepo 指的是多个相关项目放在同一个代码仓库里面。这个网站介绍了 Monorepo 的相关知识和工具。
 
 3、[Linux 系统管理入门](https://abarrak.gitbook.io/linux-sysops-handbook)
 
-![](https://cdn.beekka.com/blogimg/asset/202202/bg2022022304.webp)
+![](https://cdn.beea.com/blogimg/asset/202202/bg2022022304.webp)
 
 长篇的学习笔记，介绍 Linux 系统管理入门操作。
 
 4、[Try Clojure](https://tryclojure.org/)
 
-![](https://cdn.beekka.com/blogimg/asset/202202/bg2022022311.webp)
+![](https://cdn.beea.com/blogimg/asset/202202/bg2022022311.webp)
 
 Clojure 语言入门教程，提供了一个网页执行环境。你跟着提示，动手在网页输入代码，边做边学。
 
@@ -317,29 +317,29 @@ Clojure 语言入门教程，提供了一个网页执行环境。你跟着提示
 
 亚马逊公司的西雅图总部园区内，有三个巨大的球形温室，高达三四层楼（24米到29米），作为员工休息室和办公区。
 
-![](https://cdn.beekka.com/blogimg/asset/202111/bg2021110306.jpg)
+![](https://cdn.beea.com/blogimg/asset/202111/bg2021110306.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202111/bg2021110307.jpg)
+![](https://cdn.beea.com/blogimg/asset/202111/bg2021110307.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202111/bg2021110308.jpg)
+![](https://cdn.beea.com/blogimg/asset/202111/bg2021110308.jpg)
 
 温室里面有各种热带植物，还设置了会议室和零售商店，每个球体可容纳800人，主要供员工使用，每周固定时间免费开放给公众参观。
 
-![](https://cdn.beekka.com/blogimg/asset/202111/bg2021110312.jpg)
+![](https://cdn.beea.com/blogimg/asset/202111/bg2021110312.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202111/bg2021110315.jpg)
+![](https://cdn.beea.com/blogimg/asset/202111/bg2021110315.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202111/bg2021110317.jpg)
+![](https://cdn.beea.com/blogimg/asset/202111/bg2021110317.jpg)
 
 球形温室于2015年正式动工。2018年1月29日落成，总共耗资40亿美元。
 
-![](https://cdn.beekka.com/blogimg/asset/202111/bg2021110310.jpg)
+![](https://cdn.beea.com/blogimg/asset/202111/bg2021110310.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202111/bg2021110316.jpg)
+![](https://cdn.beea.com/blogimg/asset/202111/bg2021110316.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202111/bg2021110313.jpg)
+![](https://cdn.beea.com/blogimg/asset/202111/bg2021110313.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202111/bg2021110314.jpg)
+![](https://cdn.beea.com/blogimg/asset/202111/bg2021110314.jpg)
 
 ## 文摘
 
@@ -347,7 +347,7 @@ Clojure 语言入门教程，提供了一个网页执行环境。你跟着提示
 
 2005年2月份，我们推出了谷歌地图。到了夏天，我们加入了卫星图像功能，取名为“卫星图层”，只要通过高层的审核，就可以发布了。
 
-![](https://cdn.beekka.com/blogimg/asset/202112/bg2021122904.webp)
+![](https://cdn.beea.com/blogimg/asset/202112/bg2021122904.webp)
 
 这时，团队内部发生了一场令人啼笑皆非的争论。有人发现这些卫星照片，很多不是卫星拍摄的，而是在飞机上拍摄的，所以“卫星图层”不是正确的名称，他建议改为“航空摄影图层”。
 
@@ -421,7 +421,7 @@ Clojure 语言入门教程，提供了一个网页执行环境。你跟着提示
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 
-![](https://cdn.beekka.com/blogimg/asset/202103/bg2021030402.jpg)
+![](https://cdn.beea.com/blogimg/asset/202103/bg2021030402.jpg)
 
 （完）
 

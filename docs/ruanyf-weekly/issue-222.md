@@ -8,7 +8,7 @@
 
 ## 封面图
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090809.webp)
+![](https://cdn.beea.com/blogimg/asset/202209/bg2022090809.webp)
 
 8月12日是今年最后一次“超级月亮”，摄影师在德国法兰克福拍到了一个超级大的月亮，在公寓楼之间出现。“超级月亮”指的是，满月正好发生在月球轨道的近地点。（[via](https://www.nature.com/immersive/d41586-022-02330-6/index.html)）
 
@@ -20,7 +20,7 @@
 
 我觉得说得挺好，发人深思。他的文章很长，我摘录一些重点内容，与大家分享。
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090607.webp)
+![](https://cdn.beea.com/blogimg/asset/202209/bg2022090607.webp)
 
 **（1）编程是长期职业**
 
@@ -70,45 +70,45 @@
 
 如何保证货物没有拆封过？
 
-![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072202.webp)
+![](https://cdn.beea.com/blogimg/asset/202207/bg2022072202.webp)
 
 一位德国程序员提出一个简单的方法：你把东西放在密封袋里面，里面再装入彩色的豌豆或大米。
 
 这些彩色颗粒会形成随机分布，一旦拆封就很难复原。
 
-![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072203.webp)
+![](https://cdn.beea.com/blogimg/asset/202207/bg2022072203.webp)
 
 你在密封后，拍下照片发给收件人，对方收到货物后，再用软件甚至肉眼，检查一下彩色颗粒的分布是否跟图片一致，就可以确定有没有被拆开过。
 
 2、[密码硬币](https://www.abc.net.au/news/2022-09-01/act-spy-agency-releases-coin-with-secret-code/101391964)
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090102.webp)
+![](https://cdn.beea.com/blogimg/asset/202209/bg2022090102.webp)
 
 澳大利亚发行了一枚五角硬币，纪念澳大利亚信号局成立75周年。
 
 该局主要工作是维护和破解密码，所以硬币上印了四个密码，一个比一个难。负责人说，如果有人可以破解这四个密码，就可以申请到信号局工作。
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090517.webp)
+![](https://cdn.beea.com/blogimg/asset/202209/bg2022090517.webp)
 
 结果，硬币发售当天，四个密码就全被破解了，具体的密码和解码详见[这篇文章](http://senwerks.com/hacktheplanet/Solving-the-Australian-Signals-Directorate-cryptography-challenge-coin.html)。
 
 3、[最小的游戏机](https://www.tindie.com/products/ampersand/asterisk/)
 
-![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072306.webp)
+![](https://cdn.beea.com/blogimg/asset/202207/bg2022072306.webp)
 
 一位英国程序员自己动手，制作了一个世界最小的俄罗斯方块游戏机。它的大小跟大拇指差不多，就是一块芯片加上四个按钮。
 
-![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072307.webp)
+![](https://cdn.beea.com/blogimg/asset/202207/bg2022072307.webp)
 
 芯片的正面是0.91吋的液晶屏幕，背面是一个纽扣电池，所有代码都是开源的。他制作好的成品在网上出售，价格20美元。
 
 4、[无人机公路](https://www.economist.com/britain/2022/07/21/a-superhighway-for-drones-to-fly-between-british-cities)
 
-![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072901.webp)
+![](https://cdn.beea.com/blogimg/asset/202207/bg2022072901.webp)
 
 英国政府决定大力发展无人机送货，在英格兰主要城市之间建立了一条265公里长的“无人机高速公路”，这条路专门供无人机飞行。
 
-![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072902.webp)
+![](https://cdn.beea.com/blogimg/asset/202207/bg2022072902.webp)
 
 无人机登记后，就可以上路，一路上都要跟地面传感器报告方位，并接受指挥，防止碰撞。
 
@@ -118,51 +118,51 @@
 
 1、[知乎水印事件](https://mp.weixin.qq.com/s/EykLVZA6MQ3kgKvZFKfR9g)（中文）
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090705.webp)
+![](https://cdn.beea.com/blogimg/asset/202209/bg2022090705.webp)
 
 网友发现，知乎网页暗藏水印，用来发现是谁截图。这个事件曝光以后，知乎又把这个功能下线了。
 
 2、[太阳能无人机有什么用？](https://mil.huanqiu.com/article/49XMBNllT4H)（中文）
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090706.webp)
+![](https://cdn.beea.com/blogimg/asset/202209/bg2022090706.webp)
 
 本月，中国航空工业集团研制的“启明星50”大型太阳能无人机首飞成功。本文介绍这种完全依靠太阳能供电的无人机有什么用。
 
 3、[我国两种长臂猿野外灭绝](https://news.sciencenet.cn/htmlnews/2022/9/485754.shtm)（中文）
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090704.webp)
+![](https://cdn.beea.com/blogimg/asset/202209/bg2022090704.webp)
 
 过去几十年，中国分布的白掌长臂猿、北白颊长臂猿在野外均没有被监测到，可以认为已经野外灭绝了。
 
 4、[CSS Grid 在 Figma 的应用](https://ishadeed.com/article/figma-css/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072401.webp)
+![](https://cdn.beea.com/blogimg/asset/202207/bg2022072401.webp)
 
 Figma 操作面板使用 CSS 网格来实现，作者详细介绍它的实现，网格原来还能这样用。
 
 5、[99美元的 Chromebook 是什么体验？](https://threadreaderapp.com/thread/1550598445248811008.html)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072301.webp)
+![](https://cdn.beea.com/blogimg/asset/202207/bg2022072301.webp)
 
 作者为了测试 Flutter 应用在低端设备的表现，花99美元买了一台全新的联想 Chromebook 笔记本。他原本预期会很糟糕，结果完全出乎他的意料。
 
-![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072302.webp)
+![](https://cdn.beea.com/blogimg/asset/202207/bg2022072302.webp)
 
 6、[软件工程师如何成为全职“创作者”？](https://blog.pragmaticengineer.com/how-to-become-a-full-time-creator/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072706.webp)
+![](https://cdn.beea.com/blogimg/asset/202207/bg2022072706.webp)
 
 作者是一个软件工程师，从 Uber 辞职以后，全职依靠创作（写文章、卖课程、做视频等等）为生。他写了对这种商业模式的思考。
 
 7、[美国需要大量机器人](https://noahpinion.substack.com/p/american-workers-need-lots-and-lots)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090514.webp)
+![](https://cdn.beea.com/blogimg/asset/202209/bg2022090514.webp)
 
 一个美国人给美国政府写的政策建议。这篇文章有价值的地方是提出了一个观点：机器人越多，创造的就业岗位越多。作者认为，传统看法是错的，机器人实际上有助于创造人类就业。
 
 8、[Python 星号`*`的用途总结](https://bas.codes/posts/python-asterisks)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022060303.webp)
+![](https://cdn.beea.com/blogimg/asset/202206/bg2022060303.webp)
 
 一篇面向 Python 初学者的科普文章，介绍星号`*`在这门语言的各种含义。
 
@@ -170,55 +170,55 @@ Figma 操作面板使用 CSS 网格来实现，作者详细介绍它的实现，
 
 1、[lldap](https://github.com/nitnelave/lldap)
 
-![](https://cdn.beekka.com/blogimg/asset/202207/bg2022071108.webp)
+![](https://cdn.beea.com/blogimg/asset/202207/bg2022071108.webp)
 
 一个轻量级的 LDAP（一种用户认证协议）开源实现，简化了使用方法。它自带前端，可以跟很多后端应用结合，为这些应用提供身份验证服务。
 
 2、[NESBox](https://nesbox.xianqiao.wang/)
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090801.webp)
+![](https://cdn.beea.com/blogimg/asset/202209/bg2022090801.webp)
 
 一个开源的游戏平台，支持多人在线，一起玩 NES（俗称 FC 红白机） 游戏，有 web 版和桌面版。目前已经有很多游戏，预计有 1000+ 游戏，参考这篇[介绍文章](https://juejin.cn/post/7136883410819088397)。（[@mantou132](https://github.com/ruanyf/weekly/issues/2600) 投稿）
 
 3、[JuiceFS](https://github.com/juicedata/juicefs)
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090803.webp)
+![](https://cdn.beea.com/blogimg/asset/202209/bg2022090803.webp)
 
 一个面向云原生设计的文件系统，可以挂载各种云存储，当作本地磁盘使用。（[@DASWU](https://github.com/ruanyf/weekly/issues/2601) 投稿）
 
 4、[Urara](https://urara-docs.netlify.app/)
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090804.webp)
+![](https://cdn.beea.com/blogimg/asset/202209/bg2022090804.webp)
 
 一个静态博客生成器，基于 SvelteKit。（[@kwaa](https://github.com/ruanyf/weekly/issues/2605) 投稿）
 
 5、[Cleanup Photos](https://cleanupphotos.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202207/bg2022071405.webp)
+![](https://cdn.beea.com/blogimg/asset/202207/bg2022071405.webp)
 
 这个网页工具可以清除照片上不要的物体。用户上传照片以后，框选不需要的物体，系统会自动清除这些物体，用背景填充照片。
 
 6、[OurBoard](https://www.ourboard.io/)
 
-![](https://cdn.beekka.com/blogimg/asset/202207/bg2022071425.webp)
+![](https://cdn.beea.com/blogimg/asset/202207/bg2022071425.webp)
 
 一个在线白板，你创建一个房间，把网址分享给其他人，大家就可以在一块网页白板上共同涂写。
 
 7、[gh-dash](https://github.com/dlvhdr/gh-dash)
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022040201.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022040201.webp)
 
 GitHub 官方命令行客户端`gh`的插件，可以在命令行以面板形式，显示仓库的 PR 和 issue。
 
 8、[Rectangles](https://rectangles.app/)
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022040204.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022040204.webp)
 
 这个网页上，一个方块代表10分钟，一天24小时就是144个方块。可以一眼看到，当天还有多少个方块空着。
 
 9、[Nginx Proxy Manager](https://nginxproxymanager.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022052106.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022052106.webp)
 
 Nginx 经常用作反向代理，这个工具为反向代理提供一个 Web 管理界面。
 
@@ -228,23 +228,23 @@ Nginx 经常用作反向代理，这个工具为反向代理提供一个 Web 管
 
 他在每张牌的牌边印上了条形码，旁人根本意识不到，但是使用扫码器可以分辨是什么牌。
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022063018.webp)
+![](https://cdn.beea.com/blogimg/asset/202206/bg2022063018.webp)
 
 为了进一步增加隐蔽性，他还用特殊墨水，将条形码隐藏起来，人眼看不见，只有在红外线下才会显示。
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022063019.webp)
+![](https://cdn.beea.com/blogimg/asset/202206/bg2022063019.webp)
 
 他买了一台带有摄像头的树莓派，在摄影头上装了红外滤光片，将其改装为条码扫描器。
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022063020.webp)
+![](https://cdn.beea.com/blogimg/asset/202206/bg2022063020.webp)
 
 最后，他写了一个 iOS 客户端，将树莓派的扫描结果显示出来，每张牌是什么。下面就是实际的效果。
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022063021.webp)
+![](https://cdn.beea.com/blogimg/asset/202206/bg2022063021.webp)
 
 墨水也可以改成紫外线荧光墨水，在紫外线下会发光，这会比红外线更容易识别。
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022063022.webp)
+![](https://cdn.beea.com/blogimg/asset/202206/bg2022063022.webp)
 
 这个项目的完整代码，公布在 [GitHub](https://github.com/nettlep/magic)。
 
@@ -252,25 +252,25 @@ Nginx 经常用作反向代理，这个工具为反向代理提供一个 Web 管
 
 1、[乔布斯档案](https://stevejobsarchive.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090807.webp)
+![](https://cdn.beea.com/blogimg/asset/202209/bg2022090807.webp)
 
 乔布斯家人建立的网站，用来为后人保存史蒂夫·乔布斯的各种材料。目前刚刚建立，内容还比较少。
 
 2、[从零开始的神经网络](https://aegeorge42.github.io/)（Neural Networks from Scratch）
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022063025.webp)
+![](https://cdn.beea.com/blogimg/asset/202206/bg2022063025.webp)
 
 一个英文的图文互动教程，使用简单的语言和图片，解释什么是神经网络。
 
 3、[随机的谷歌街景](https://randomstreetview.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090113.webp)
+![](https://cdn.beea.com/blogimg/asset/202209/bg2022090113.webp)
 
 这个网站随机展示谷歌街景的照片，世界各地都有。（[@shenzhw](https://github.com/ruanyf/weekly/issues/2604) 投稿）
 
 4、[中华遗嘱网](https://www.will.org.cn/)
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090515.webp)
+![](https://cdn.beea.com/blogimg/asset/202209/bg2022090515.webp)
 
 这个网站提供遗嘱的知识和服务，属于半官方组织，收费不低，但是比自己去找专业服务还是方便和便宜一点。
 
@@ -280,21 +280,21 @@ Nginx 经常用作反向代理，这个工具为反向代理提供一个 Web 管
 
 日本宫崎县的猴子，有一种奇特的行为，会在海里洗红薯，洗了以后再吃。
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022042702.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022042702.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022042703.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022042703.webp)
 
 传说是当地人冬天生火，猴子们也喜欢待在火堆旁取暖。有人用火烤红薯，顺手就给了猴子一个。猴子们拿到递给它们的热乎乎的红薯，马上就要吃，但是觉得很烫。
 
 有一个猴子开始在水中冷却红薯。这种习惯逐渐蔓延到整个猴群，几乎所有猴子都学会了这种行为。
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022042704.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022042704.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022042705.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022042705.webp)
 
 但是，科学家认为，这个传说是无稽之谈。猴子在海水中红薯，只是为了增加一点盐分。
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022042701.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022042701.webp)
 
 2、[逃出埃及的车流](https://www.thestar.com/entertainment/2022/09/07/burning-man-festival-goers-stuck-in-traffic-jam-for-over-9-hours-leaving-nevada-desert.html)
 
@@ -302,7 +302,7 @@ Nginx 经常用作反向代理，这个工具为反向代理提供一个 Web 管
 
 今年的活动本周结束，上万辆车从沙漠里面的举办地离开，驶向最近的一个高速公路路口。结果造成了大堵车，整整堵了10个小时。
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090808.webp)
+![](https://cdn.beea.com/blogimg/asset/202209/bg2022090808.webp)
 
 有人从空中拍下了这个罕见的“沙漠大堵车”，戏称就像传说中的“逃出埃及”。
 
@@ -336,7 +336,7 @@ Foo 大师站了起来，开始在办公室里不断踱步。
 
 -- [Paul Graham](http://www.paulgraham.com/todo.html)
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090805.webp)
+![](https://cdn.beea.com/blogimg/asset/202209/bg2022090805.webp)
 
 2、
 
@@ -382,7 +382,7 @@ Foo 大师站了起来，开始在办公室里不断踱步。
 
 国产软件 [FlowUs](https://flowus.cn?promotionChannel=GW_RYF_01) 提供个人专栏服务（查看[周刊专栏](https://ruanyf-weekly.flowus.cn/?code=FLOWUS&promotionChannel=WX_RYF_00)），集成了“文档+表格+网盘”，适合知识库、数据管理、文件存储多种用途。
 
-![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072108.webp)
+![](https://cdn.beea.com/blogimg/asset/202207/bg2022072108.webp)
 
 （完）
 

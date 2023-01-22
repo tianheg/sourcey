@@ -8,7 +8,7 @@
 
 ## 封面图
 
-![](https://cdn.beekka.com/blogimg/asset/202107/bg2021072902.jpg)
+![](https://cdn.beea.com/blogimg/asset/202107/bg2021072902.jpg)
 
 上海中环的一根高架柱子上面，画着一匹巨大的斑马。（[via](https://www.facebook.com/groups/alashanghaining/permalink/10160047667453465)）
 
@@ -18,23 +18,23 @@
 
 当年，它很不起眼，主要生产面包车。据说，模仿的是日本三菱面包车，连牌子和名字都模仿了人家。
 
-![](https://cdn.beekka.com/blogimg/asset/202107/bg2021072601.jpg)
+![](https://cdn.beea.com/blogimg/asset/202107/bg2021072601.jpg)
 
 但是后来，这家公司逐渐摆脱了模仿，开始生产原创的家用轿车，发展得越来越好，成了全国知名品牌。尤其是近两年的几个车型，简直令人刮目相看。
 
 宝骏 E300。
 
-![](https://cdn.beekka.com/blogimg/asset/202107/bg2021072602.jpg)
+![](https://cdn.beea.com/blogimg/asset/202107/bg2021072602.jpg)
 
 宏光 Mini EV。
 
-![](https://cdn.beekka.com/blogimg/asset/202107/bg2021072603.jpg)
+![](https://cdn.beea.com/blogimg/asset/202107/bg2021072603.jpg)
 
 皮卡和房车。
 
-![](https://cdn.beekka.com/blogimg/asset/202107/bg2021072606.jpg)
+![](https://cdn.beea.com/blogimg/asset/202107/bg2021072606.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202107/bg2021072605.jpg)
+![](https://cdn.beea.com/blogimg/asset/202107/bg2021072605.jpg)
 
 这些车的造型和外观设计，十分新颖和别致，完全原创，明显有一套自己的设计语言，非常吸引眼球。
 
@@ -42,7 +42,7 @@
 
 举例来说，很多年轻人，尤其是女性，购买五菱宏光 Mini EV，作为代步车。但它的配置和价格，跟有一些四轮的老年代步车差不多。那些老年代步车让人觉得很简陋，年轻人几乎不可能购买，但是五菱重新设计和包装以后，就打开了市场。这就是厉害的产品设计。
 
-![](https://cdn.beekka.com/blogimg/asset/202107/bg2021072812.jpg)
+![](https://cdn.beea.com/blogimg/asset/202107/bg2021072812.jpg)
 
 **把廉价的东西做得很廉价，那不叫本事； 把廉价的东西做得很轻盈，那才叫本事。**  
 
@@ -71,7 +71,7 @@ React 和 Vue 是国内最流行的两个前端框架，孰优孰劣的争论，
 
 下面就是资料包的主要内容。
 
-![](https://cdn.beekka.com/blogimg/asset/202107/bg2021072814.jpg)
+![](https://cdn.beea.com/blogimg/asset/202107/bg2021072814.jpg)
 
 它比较适合前端入门不久、对主流框架还不够熟悉的同学。可以帮助学习者掌握 Vue3 和 React17 设计思路和面试技巧，也能对比框架生态，了解技术选型方法论，探究框架原理。
 
@@ -79,9 +79,9 @@ React 和 Vue 是国内最流行的两个前端框架，孰优孰劣的争论，
 
 主办方为了推广品牌，现在向周刊读者赠送这个资料包。微信扫描下方二维码，就可以免​费领取。
 
-![](https://cdn.beekka.com/blogimg/asset/202107/bg2021072815.jpg)
+![](https://cdn.beea.com/blogimg/asset/202107/bg2021072815.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202107/bg2021072816.jpg)
+![](https://cdn.beea.com/blogimg/asset/202107/bg2021072816.jpg)
 
 扫描后，记得添加助​教老师微信。当天，老师就会把资料包发给你，数量不多，欢迎扫码领取。
 
@@ -91,9 +91,9 @@ React 和 Vue 是国内最流行的两个前端框架，孰优孰劣的争论，
 
 有人发现，2020年发布的游戏 Alyx，里面地下室的闪烁灯光，跟1998年发售的《半条命》是一样的，说明它们使用的是同样的代码。
 
-![](https://cdn.beekka.com/blogimg/asset/202107/bg2021070306.jpg)
+![](https://cdn.beea.com/blogimg/asset/202107/bg2021070306.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202107/bg2021070307.jpg)
+![](https://cdn.beea.com/blogimg/asset/202107/bg2021070307.jpg)
 
 大家仔细看下面的[游戏视频](https://v.qq.com/page/p/i/v/p3256qp06iv.html)，两者闪烁灯光的模式和频率完全一样。
 
@@ -105,41 +105,41 @@ React 和 Vue 是国内最流行的两个前端框架，孰优孰劣的争论，
 
 加拿大网球运动员来到东京参加奥运会，住进奥运村后，就遇到了麻烦。空调遥控器竟然只有日文，完全看不懂，她只好在网上发文求助。
 
-![](https://cdn.beekka.com/blogimg/asset/202107/bg2021072402.jpg)
+![](https://cdn.beea.com/blogimg/asset/202107/bg2021072402.jpg)
 
 网友纷纷给她出主意，用手机翻译软件拍照就可以了。但是，这件事反映了组委会的疏漏，以及空调厂家的设计完全没有考虑外国用户。
 
 3、[沼气摩托车](https://www.notechmagazine.com/2021/07/inventor-harvests-methane-gas-from-ditches-and-ponds-to-power-his-moped.html)
 
-![](https://cdn.beekka.com/blogimg/asset/202107/bg2021071407.jpg)
+![](https://cdn.beea.com/blogimg/asset/202107/bg2021071407.jpg)
 
 一个荷兰艺术家将一辆二手摩托车，改建成使用沼气（主要成分甲烷）作为燃料。摩托车的尾部挂了一个大瓶子，用来存储沼气。
 
 加气时，需要使用一个特殊装置，到池塘和沟渠去收集有机物质分解或腐烂所释放的甲烷。
 
-![](https://cdn.beekka.com/blogimg/asset/202107/bg2021071408.jpg)
+![](https://cdn.beea.com/blogimg/asset/202107/bg2021071408.jpg)
 
 收集8个小时的沼气，可以行驶20公里。这个项目的主要目的，是为了提醒公众环境保护。
 
-![](https://cdn.beekka.com/blogimg/asset/202107/bg2021071409.jpg)
+![](https://cdn.beea.com/blogimg/asset/202107/bg2021071409.jpg)
 
 4、[交通信号灯](https://www.fastcompany.com/90655753/the-traffic-light-gets-a-dazzling-21st-century-makeover)
 
 1914年，美国城市克利夫兰安装了人类第一个交通信号灯，从那时到现在，基本样子没变过。一家俄罗斯设计公司，最近提出了新的信号灯设计。
 
-![](https://cdn.beekka.com/blogimg/asset/202107/bg2021072101.jpg)
+![](https://cdn.beea.com/blogimg/asset/202107/bg2021072101.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202107/bg2021072102.jpg)
+![](https://cdn.beea.com/blogimg/asset/202107/bg2021072102.jpg)
 
 这种信号灯就是一整块液晶面板，通过背景色的变化，来提示红灯、黄灯和绿灯，并用勾、叉和感叹号等辅助符号，加强注意力。
 
 它还会显示剩余的秒数，以及绿灯时可通行的道路走向。
 
-![](https://cdn.beekka.com/blogimg/asset/202107/bg2021072105.jpg)
+![](https://cdn.beea.com/blogimg/asset/202107/bg2021072105.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202107/bg2021072103.jpg)
+![](https://cdn.beea.com/blogimg/asset/202107/bg2021072103.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202107/bg2021072104.jpg)
+![](https://cdn.beea.com/blogimg/asset/202107/bg2021072104.jpg)
 
 5、
 
@@ -147,15 +147,15 @@ React 和 Vue 是国内最流行的两个前端框架，孰优孰劣的争论，
 
 这比 A4 纸的简历效果好多了，值得借鉴。大家完全可以在简历上印一个自己视频的二维码。
 
-![](https://cdn.beekka.com/blogimg/asset/202107/bg2021072001.jpg)
+![](https://cdn.beea.com/blogimg/asset/202107/bg2021072001.jpg)
 
 6、[3D 打印的汽车配件](https://www.motor1.com/news/513312/ford-maverick-3d-print-accessories/)
 
-![](https://cdn.beekka.com/blogimg/asset/202107/bg2021071905.jpg)
+![](https://cdn.beea.com/blogimg/asset/202107/bg2021071905.jpg)
 
 福特公司在美国新发布的 Maverick 皮卡汽车，车内的大量配件都没有提供实物，而是提供了 STL 源码文件，让车主自己去 3D 打印，有一点“毛坯车”的意思。
 
-![](https://cdn.beekka.com/blogimg/asset/202107/bg2021071906.jpg)
+![](https://cdn.beea.com/blogimg/asset/202107/bg2021071906.jpg)
 
 可以打印的配件包括杯架、储物箱、垃圾桶、绳索组织器、挂袋的双钩、座椅下的储物隔板等等。福特公司说，还会发布更多可 3D 打印的配件。
 
@@ -165,7 +165,7 @@ React 和 Vue 是国内最流行的两个前端框架，孰优孰劣的争论，
 
 一位设计师[提出](https://twitter.com/neilsardesai/status/1416527160794361868)，浏览器的窗口标签应该可以改变位置，放置在浏览器的左右两侧，就像活页夹一样。
 
-![](https://cdn.beekka.com/blogimg/asset/202107/bg2021071801.jpg)
+![](https://cdn.beea.com/blogimg/asset/202107/bg2021071801.jpg)
 
 我觉得，这种设计对宽屏幕显示器很有意义。
 
@@ -173,49 +173,49 @@ React 和 Vue 是国内最流行的两个前端框架，孰优孰劣的争论，
 
 1、[JavaScript 新增的运算符](https://wangdoc.com/es6/operator.html)（中文）
 
-![](https://cdn.beekka.com/blogimg/asset/202107/bg2021071001.jpg)
+![](https://cdn.beea.com/blogimg/asset/202107/bg2021071001.jpg)
 
 本文介绍 ES6 的后续标准为 JavaScript 新增的七个运算符，其中包括最新的 ES2021 标准增加的三个运算符。
 
 2、[软件未来的10个预测](https://blog.container-solutions.com/10-predictions-for-the-future-of-computing)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202107/bg2021071101.jpg)
+![](https://cdn.beea.com/blogimg/asset/202107/bg2021071101.jpg)
 
 一个云计算专家预测软件未来的10个变化，可以当作一家之言看看。
 
 3、[如何向美国政府索取入境照片](https://arstechnica.com/tech-policy/2015/02/how-i-requested-my-photographs-from-the-department-of-homeland-security/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202107/bg2021071303.jpg)
+![](https://cdn.beea.com/blogimg/asset/202107/bg2021071303.jpg)
 
 外国人每次进入美国时，需要拍照并扫描指纹。根据美国法律，可以向美国政府索取这些信息的副本。本文记录作者是怎么做的。
 
 4、[Haskell 语言入门第一步](https://blog.kalvad.com/haskell-series-part-1/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202107/bg2021071304.jpg)
+![](https://cdn.beea.com/blogimg/asset/202107/bg2021071304.jpg)
 
 这篇文章介绍怎样动手尝试 Haskell 语言，并写一个简单函数，内容清晰易懂 。
 
 5、[关于微控制器的知识](https://blog.toit.io/what-you-need-to-know-about-microcontrollers-5fabd6d5b019)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202107/bg2021071405.jpg)
+![](https://cdn.beea.com/blogimg/asset/202107/bg2021071405.jpg)
 
 当代计算机越做越小，符合冯诺依曼架构的全套计算装置，已经可以做进一块芯片了，这种芯片式的计算机称为“微控制器”。本文介绍微控制器的基本知识。
 
 6、[最糟糕的音量控制界面](https://uxdesign.cc/the-worst-volume-control-ui-in-the-world-60713dc86950)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202107/bg2021071414.jpg)
+![](https://cdn.beea.com/blogimg/asset/202107/bg2021071414.jpg)
 
 本文收集各种极其难用的音量控制界面设计，有点恶作剧性质，比如上图。
 
 7、[JS 脚本如何正确检测用户的设备](https://multilogin.com/why-mimicking-a-device-is-almost-impossible/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021062803.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021062803.jpg)
 
 用户经常使用伪装的 User-Agent 标头，隐藏自身的信息。本文给出了各种思路，如何用 JS 脚本，正确检测用户的上网设备。
 
 8、[Suspense 和 React.lazy() 用法示例](https://dev.to/collegewap/code-splitting-in-react-using-react-lazy-and-loadable-components-3o54)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021062901.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021062901.jpg)
 
 React 16.6 版本引入了 Suspense 组件，用于生成动态加载元素的过渡效果。本文给出了一个完整的示例，介绍它配合 React.lazy() 的用法。
 
@@ -223,37 +223,37 @@ React 16.6 版本引入了 Suspense 组件，用于生成动态加载元素的�
 
 1、[Orbit](https://orbit.kiwi/)
 
-![](https://cdn.beekka.com/blogimg/asset/202107/bg2021071502.jpg)
+![](https://cdn.beea.com/blogimg/asset/202107/bg2021071502.jpg)
 
 一个 React 的组件库，由旅游网站 Kiwi.com 设计，带有旅游休闲的风格。
 
 2、[Feed me up, Scotty!](https://feed-me-up-scotty.vincenttunru.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202107/bg2021070704.jpg)
+![](https://cdn.beea.com/blogimg/asset/202107/bg2021070704.jpg)
 
 这个工具使用 CSS 选择器，从任意页面提取想要的内容，通过 GitHub Actions，自动生成该页面的 RSS。
 
 3、[transfer.sh](https://transfer.sh/)
 
-![](https://cdn.beekka.com/blogimg/asset/202107/bg2021070705.jpg)
+![](https://cdn.beea.com/blogimg/asset/202107/bg2021070705.jpg)
 
 这个开源工具允许自己架设服务，从命令行分享文件给其他人，也可以直接使用官方的在线版。
 
 4、[MoviePy](https://github.com/Zulko/moviepy)
 
-![](https://cdn.beekka.com/blogimg/asset/202107/bg2021072204.jpg)
+![](https://cdn.beea.com/blogimg/asset/202107/bg2021072204.jpg)
 
 一个视频编辑的 Python 库，可以方便地编写脚本，进行各种视频操作，基于 ffmpeg。
 
 5、[Ampache](https://ampache.org/)
 
-![](https://cdn.beekka.com/blogimg/asset/202107/bg2021072704.jpg)
+![](https://cdn.beea.com/blogimg/asset/202107/bg2021072704.jpg)
 
 一个开源的流媒体服务器，允许远程访问托管的音频和视频文件，有点类似于 Plex。
 
 6、[Mobian](https://mobian-project.org/)
 
-![](https://cdn.beekka.com/blogimg/asset/202107/bg2021072701.jpg)
+![](https://cdn.beea.com/blogimg/asset/202107/bg2021072701.jpg)
 
 手机版的 Debian 系统，可以安装在指定型号的手机上，现在支持一加 6 和 Poco F1。
 
@@ -263,7 +263,7 @@ React 16.6 版本引入了 Suspense 组件，用于生成动态加载元素的�
 
 8、[织信](https://www.informat.cn/)
 
-![](https://cdn.beekka.com/blogimg/asset/202107/bg2021072711.jpg)
+![](https://cdn.beea.com/blogimg/asset/202107/bg2021072711.jpg)
 
 一个面向企业用户的低代码平台，帮助企业不用写代码，就能搭建管理系统、业务平台、企业官网等，有免费使用的版本。（[@hopper20](https://github.com/ruanyf/weekly/issues/1866) 投稿）
 
@@ -271,25 +271,25 @@ React 16.6 版本引入了 Suspense 组件，用于生成动态加载元素的�
 
 1、[网络迷踪](https://chao.fun/f/84?time=1627397908906)
 
-![](https://cdn.beekka.com/blogimg/asset/202107/bg2021072710.jpg)
+![](https://cdn.beea.com/blogimg/asset/202107/bg2021072710.jpg)
 
 炒饭社区的一个板块，网友上传照片（比如上图），请求帮助找出这是在哪里拍的。（[@cijianzy](https://github.com/ruanyf/weekly/issues/1858) 投稿）
 
 2、[Mac 电脑如何设置开发环境（2021版）](https://www.swyx.io/new-mac-setup-2021/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202107/bg2021070716.jpg)
+![](https://cdn.beea.com/blogimg/asset/202107/bg2021070716.jpg)
 
 一个程序员买了新的 Mac 电脑，用于全栈开发。他详细记录了，如何将这台电脑设置成开发环境。
 
 3、[微软 Rust 语言初学者教程](https://www.youtube.com/playlist?list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x)
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021062501.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021062501.jpg)
 
 微软公司推出 Rust 语言视频教程，一共35讲，每一讲都是几分钟的短视频，存放在 Youtube 上面。
 
 4、[Pitch Deck Hunt](https://www.pitchdeckhunt.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202107/bg2021071002.jpg)
+![](https://cdn.beea.com/blogimg/asset/202107/bg2021071002.jpg)
 
 创业公司向投资者和用户介绍自己的 PPT，叫做 Pitch Deck。该网站收集了150多家著名公司早期的 Pitch Deck，可以用来当作模板。
 
@@ -299,33 +299,33 @@ React 16.6 版本引入了 Suspense 组件，用于生成动态加载元素的�
 
 澳大利亚南部内陆有一个名叫库伯佩迪（Coober Pedy）的小镇。它最初是一个蛋白石矿场，现在已经停止开采了。
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021062007.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021062007.jpg)
 
 该镇的夏季地表温度接近50摄氏度，为了躲避酷暑，许多居民都搬到地下的矿洞里面居住，已经有100年历史了。
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021062002.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021062002.jpg)
 
 当地的地面上，到处都是烟囱和通气孔。
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021062003.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021062003.jpg)
 
 人们则是在地下安家，客厅、卧室、厨房，一应俱全。
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021062004.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021062004.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021062005.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021062005.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021062006.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021062006.jpg)
 
 酒吧、教堂、商店、旅馆、娱乐设施等也在地下，整个小镇可以都在地下运作，不到地面活动。
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021062008.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021062008.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021062009.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021062009.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021062010.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021062010.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021062011.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021062011.jpg)
 
 2、[自动合影机](https://www.reddit.com/r/Damnthatsinteresting/comments/o7brim/this_really_cool_system_to_take_a_picture_with/)
 
@@ -341,13 +341,13 @@ React 16.6 版本引入了 Suspense 组件，用于生成动态加载元素的�
 
 英国人类学家罗宾·邓巴（Robin Dunbar）提出过著名的“邓巴数”的概念。
 
-![](https://cdn.beekka.com/blogimg/asset/202107/bg2021072901.jpg)
+![](https://cdn.beea.com/blogimg/asset/202107/bg2021072901.jpg)
 
 他认为，由于人类大脑的容量，一个人能够保持的友谊关系是有限的，平均大约为150人。大脑认知功能比较强的人，会有更多一点的朋友。
 
 下图就是他的理论。
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021061705.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021061705.jpg)
 
 （1）你最贴心的朋友，平均是1.5个，很可能是你的伴侣。
 
@@ -421,7 +421,7 @@ React 16.6 版本引入了 Suspense 组件，用于生成动态加载元素的�
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 
-![](https://cdn.beekka.com/blogimg/asset/202103/bg2021030402.jpg)
+![](https://cdn.beea.com/blogimg/asset/202103/bg2021030402.jpg)
 
 （完）
 

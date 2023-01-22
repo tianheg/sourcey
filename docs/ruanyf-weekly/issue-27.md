@@ -335,7 +335,7 @@ SpaceX 公司的老板马斯克，在推特上贴出一张图片，表示这是 
 
 微信搜索"__阮一峰的网络日志__"或者扫描二维码，即可订阅。
 
-![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042311.jpg)
+![](http://www.ruanyieng.com/blogimg/asset/2018/bg2018042311.jpg)
 
 （完）
 

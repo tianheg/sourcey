@@ -4,7 +4,7 @@
 
 ## 封面图
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102605.webp)
+![](https://cdn.beea.com/blogimg/asset/202210/bg2022102605.webp)
 
 今年中秋，敦煌月牙泉旁出现了一个人造的月圆装置，通过水面反射，映照出一轮人间圆月，象征团圆。（[via](https://www.designboom.com/design/celestial-moon-installation-chinese-desert-oasis-mid-autumn-festival-weijun-lin-10-19-2022/)）
 
@@ -12,11 +12,11 @@
 
 这几天睡觉前，我在读《季羡林文集》。
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102302.webp)
+![](https://cdn.beea.com/blogimg/asset/202210/bg2022102302.webp)
 
 季羡林先生2009年就去世了，出版社请了他儿子季承写序言。
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102303.webp)
+![](https://cdn.beea.com/blogimg/asset/202210/bg2022102303.webp)
 
 > 季承（1935-2018），中国科学院高能物理所高级工程师，曾任李政道先生主持的中国高等科学技术中心顾问，与李政道有着长达三十年的紧密合作。（摘自[百度百科](https://baike.baidu.com/item/%E5%AD%A3%E6%89%BF/7308045)）
 
@@ -30,7 +30,7 @@
 
 我惊奇地发现，这篇序言写得很好，解开了我一直没有想通的一个疑惑。读完整本书，最难忘的还是这篇不相干的文章。
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102503.webp)
+![](https://cdn.beea.com/blogimg/asset/202210/bg2022102503.webp)
 
 我把这篇短文的主要部分贴在下面。
 
@@ -72,11 +72,11 @@
 
 掘金这一次就办了一个这样的大会，叫做“掘金未来大会”。
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102401.webp)
+![](https://cdn.beea.com/blogimg/asset/202210/bg2022102401.webp)
 
 他们请来上游的技术提供商和下游的技术消费厂商，为开发者分析，未来市场可能会有怎样的技术需求，以及会流行什么技术。他们的想法就是，让开发者和技术团队负责人，不仅关注技术细节，也关注社会经济发展所需要的技术方向，以及带来的机会。
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102402.webp)
+![](https://cdn.beea.com/blogimg/asset/202210/bg2022102402.webp)
 
 大会是今年12月2日（星期五），[点击这里](http://conf.juejin.cn/future2022?utm_source=ryf)或者扫描上面二维码，了解大会讲座详情，并报名预约直播，以及参与其他活动和领取会议资料。
 
@@ -84,13 +84,13 @@
 
 掘金还举办了首届全国编程挑战赛，这是国内少有的前端编程比赛，欢迎大家提交自己的作品。
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102103.webp)
+![](https://cdn.beea.com/blogimg/asset/202210/bg2022102103.webp)
 
 各种原创作品（网页游戏、网页动画、UI 特效、3D 建模等皆可）都能参赛，只要可以在[“码上掘金”](https://code.juejin.cn/)平台运行即可。
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102101.webp)
+![](https://cdn.beea.com/blogimg/asset/202210/bg2022102101.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102010.webp)
+![](https://cdn.beea.com/blogimg/asset/202210/bg2022102010.webp)
 
 作品提交的截止时间是11月22日。一旦入围，掘金会在他们网站推广你的作品，并有丰厚的奖金和奖品，而且只要报名就可抽奖。访问[这个链接](https://juejin.cn/challenge/1?utm_source=ryf)，或者扫描上方二维码，了解详情并报名。
 
@@ -100,7 +100,7 @@
 
 他们的目标是收集足够的有效问卷，最终完成 **《2022中国开发者生态报告》** ，用真实的数据呈现中国开发者的整体状况。点击[这里](https://wj.ictr.com.cn/answer/s/8iw15u3Met)或者扫描下方二维码，就可以进入问卷，一共约60个问题，需要10分钟左右，欢迎大家参与，提供你的开发信息，完成问卷后有纪念品。
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102403.webp)
+![](https://cdn.beea.com/blogimg/asset/202210/bg2022102403.webp)
 
 ## 科技动态
 
@@ -108,11 +108,11 @@
 
 一家德国公司推出了太阳能围栏，只要装在家庭阳台上，就能太阳能发电。
 
-![](https://cdn.beekka.com/blogimg/asset/202207/bg2022071901.webp)
+![](https://cdn.beea.com/blogimg/asset/202207/bg2022071901.webp)
 
 它的最大优点就是不占空间，可以跟建筑物很自然地结合。阳台本来就需要装围栏，太阳能板放在这里很合理。
 
-![](https://cdn.beekka.com/blogimg/asset/202207/bg2022071902.webp)
+![](https://cdn.beea.com/blogimg/asset/202207/bg2022071902.webp)
 
 它的缺点是价格贵，发电量不高，除非政府有补贴，否则不易推广。
 
@@ -120,15 +120,15 @@
 
 一个印度摄影师发现了 AI 图片引擎的新用途。
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022101903.webp)
+![](https://cdn.beea.com/blogimg/asset/202210/bg2022101903.webp)
 
 他一个人旅游，拍的都是单人照。有一天突然灵机一动，他告诉 AI 引擎“在我身旁加一个漂亮姑娘”，就这样得到了男女合影。
 
 这些照片里面的女伴都是不存在的，AI 加上去的。
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022101904.webp)
+![](https://cdn.beea.com/blogimg/asset/202210/bg2022101904.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022101905.webp)
+![](https://cdn.beea.com/blogimg/asset/202210/bg2022101905.webp)
 
 这个功能很适合风景区的摄影亭，“单人照变男女合照”肯定受欢迎。
 
@@ -136,41 +136,41 @@
 
 一个美国音乐家患了脑瘤，需要开颅手术。肿瘤位于大脑的一个非常复杂的区域，周围有很多神经，医生要求进行清醒开颅手术，即手术过程中病人是清醒的。
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102613.webp)
+![](https://cdn.beea.com/blogimg/asset/202210/bg2022102613.webp)
 
 保持清醒的目的是，医生可以时刻知道病人的大脑在正常工作，防止弄伤神经。
 
 医生知道这个音乐家会吹萨克斯风，就递给他一把萨克斯，让他一边在手术，一边吹萨克斯，只要音乐不停，医生就知道他的大脑是正常的。
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102614.webp)
+![](https://cdn.beea.com/blogimg/asset/202210/bg2022102614.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102615.webp)
+![](https://cdn.beea.com/blogimg/asset/202210/bg2022102615.webp)
 
 4、[月球摩托车](https://kottke.org/22/04/a-custom-built-moon-motorcycle)
 
 一家摩托车公司设计了第一款月球使用的电动两轮摩托车。
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050406.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022050406.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050407.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022050407.webp)
 
 它的材料是铝和碳纤维，特别轻，全车只有136公斤。
 
 这么轻的重量，一方面省电，另一方面月球的重力只有地球的六分之一，只要稍有颠簸就会跳起来。这辆车的设计，充分考虑了跳跃前进。
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050408.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022050408.webp)
 
 ## 文章与视频
 
 1、[中国科学论文三大指标跃居世界第一](https://cn.nikkei.com/industry/scienceatechnology/49484-2022-08-10-01-58-20.html)（中文）
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102601.webp)
+![](https://cdn.beea.com/blogimg/asset/202210/bg2022102601.webp)
 
 日本媒体报道，自然科学领域研究论文的三个重要指标——论文总数，引用次数排名前10%的论文、排名前1%的论文——中国全都排名2019年的世界第一，超过美国。
 
 2、[为 Chromium 实现 HEVC 硬解](https://zhuanlan.zhihu.com/p/541082191)（中文）
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102602.webp)
+![](https://cdn.beea.com/blogimg/asset/202210/bg2022102602.webp)
 
 字节跳动工程师和 Intel 工程师合作，为 Chrome 浏览器加上 HEVC 支持，也就是支持 H.265 视频编码，该功能已经发布在最新的 Chrome 107。
 
@@ -178,7 +178,7 @@ Chrome 之所以一直不加这个功能，是因为 H.265 解码器需要付费
 
 3、[Pico 4 真实体验](https://www.bilibili.com/video/BV1ZN4y1w7Br/)（视频）
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102007.webp)
+![](https://cdn.beea.com/blogimg/asset/202210/bg2022102007.webp)
 
 字节新出的 VR 头盔 Pico 4，规格很诱人，作者亲身体验后，却发现存在诸多问题。这个是 B 站视频，另有 [Youtube 网址](https://www.youtube.com/watch?v=9JcNZHrVO8w)。
 
@@ -192,25 +192,25 @@ JavaScript 的月份是从0开始计数。本文追溯这种做法的源头，�
 
 6、[用 JavaScript 追踪飞机信号](https://charliegerard.dev/blog/aircraft-radar-system-rtl-sdr-web-usb/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090301.webp)
+![](https://cdn.beea.com/blogimg/asset/202209/bg2022090301.webp)
 
 本文介绍使用 Web USB API，让浏览器读取 USB 设备，接收飞机发出 ADS-B 信号。
 
 7、[安卓 Firefox 浏览器如何安装插件](https://www.ghacks.net/2022/10/20/firefox-beta-for-android-now-supports-custom-add-on-collections/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102012.webp)
+![](https://cdn.beea.com/blogimg/asset/202210/bg2022102012.webp)
 
 Firefox 的安卓版现在有一个功能，可以在电脑上选定一组插件，然后在手机上一次性安装。
 
 8、[一张图表，一个信息](https://datadino.substack.com/p/one-idea-per-chart)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202208/bg2022082910.webp)
+![](https://cdn.beea.com/blogimg/asset/202208/bg2022082910.webp)
 
 可视化图表的一个问题就是太复杂，不容易看懂（上图）。本文用实例解释，一张图表只适合表达一个信息，如果信息太多，就应该拆分图表。
 
 9、[MacOS 开启 sudo 的指纹认证](https://it.digitaino.com/use-touchid-to-authenticate-sudo-on-macos/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202208/bg2022082701.webp)
+![](https://cdn.beea.com/blogimg/asset/202208/bg2022082701.webp)
 
 sudo 命令需要输入根用户的密码，MacOS 支持用指纹替代 sudo 密码。
 
@@ -218,11 +218,11 @@ sudo 命令需要输入根用户的密码，MacOS 支持用指纹替代 sudo 密
 
 1、[Turbopack](https://turbo.build/)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102603.webp)
+![](https://cdn.beea.com/blogimg/asset/202210/bg2022102603.webp)
 
 Vercel 公司发布新一代打包器 Turbopack，号称比 Webpack 快700倍，比 Vite 快10倍。
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102604.webp)
+![](https://cdn.beea.com/blogimg/asset/202210/bg2022102604.webp)
 
 而且，它还出自 Webpack 作者之手，Vercel 聘请了他来领导这个项目。
 
@@ -230,19 +230,19 @@ Turopack 可以看作是 Rust 语言重写的 Webpack，目前还处于初期，
 
 2、[Lyrebird](https://github.com/lyrebird-voice-changer/lyrebird)
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050707.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022050707.webp)
 
 Linux 平台的一个变声器软件，可以把你的声音变成男声、女声、播音员等等。
 
 3、[HyperUI](https://www.hyperui.dev/)
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050711.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022050711.webp)
 
 一个 Tailwind CSS 组件库。如果你不清楚 Tailwind CSS 的那些类名应该怎么搭配，可以看看这个库。
 
 4、[OneMark](https://onemark.neuxlab.cn/)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102701.webp)
+![](https://cdn.beea.com/blogimg/asset/202210/bg2022102701.webp)
 
 微软的免费笔记软件 OneNote 的 Markdown 插件，可以用 Markdown 语法输入笔记，参见[介绍文章](https://sspai.com/post/76228)。（[@WeiXinLee](https://github.com/ruanyf/weekly/issues/2699) 投稿）
 
@@ -252,7 +252,7 @@ Linux 平台的一个变声器软件，可以把你的声音变成男声、女�
 
 6、**积木头像**
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102706.webp)
+![](https://cdn.beea.com/blogimg/asset/202210/bg2022102706.webp)
 
 一个微信小程序（搜索“积木头像”），可以生成 notion 风格头像，支持各个部位的定制和背景色。([@bimohxh](https://github.com/ruanyf/weekly/issues/2705) 投稿)
 
@@ -262,19 +262,19 @@ Linux 平台的一个变声器软件，可以把你的声音变成男声、女�
 
 8、[Criterion](https://github.com/Snaipe/Criterion)
 
-![](https://cdn.beekka.com/blogimg/asset/202202/bg2022022312.webp)
+![](https://cdn.beea.com/blogimg/asset/202202/bg2022022312.webp)
 
 C/C++ 的单元测试框架。
 
 9、[DaRemote](https://play.google.com/store/apps/details?id=com.deskangel.daremote&hl=en_US&gl=US)
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022032012.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022032012.webp)
 
 一个安卓应用，内置 SSH 客户端，可以登陆服务器，以图形展示服务器的实时状态。
 
 10、[craiyon](https://www.craiyon.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102707.webp)
+![](https://cdn.beea.com/blogimg/asset/202210/bg2022102707.webp)
 
 开源 AI 绘图引擎 [DALL·E mini](https://github.com/borisdayma/dalle-mini) 改名后的样子，根据文本生成图像，免费使用。特点是速度比较快（不超过2分钟），效果也不错。
 
@@ -282,43 +282,43 @@ C/C++ 的单元测试框架。
 
 1、[折纸教程](https://origami.kosmulski.org/blog/2022-10-23-fujimoto-books-public-domain)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102404.webp)
+![](https://cdn.beea.com/blogimg/asset/202210/bg2022102404.webp)
 
 日本折纸大师藤本修三（1922–2015）写的五本折纸教程，现在由他后人放入公共领域，全部可以免费下载。
 
 下面就是藤本修三的一些折纸作品。如果家里有小朋友，可以用作手工教材。
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102405.webp)
+![](https://cdn.beea.com/blogimg/asset/202210/bg2022102405.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102406.webp)
+![](https://cdn.beea.com/blogimg/asset/202210/bg2022102406.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102407.webp)
+![](https://cdn.beea.com/blogimg/asset/202210/bg2022102407.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102408.webp)
+![](https://cdn.beea.com/blogimg/asset/202210/bg2022102408.webp)
 
 2、[AI 自拍](https://www.strmr.com/)
 
 用户向该网站上传5～10张自拍照，它就会用 AI 模型生成一张很帅的自拍。下图是原始素材和模型生成的自拍。
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102606.webp)
+![](https://cdn.beea.com/blogimg/asset/202210/bg2022102606.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102607.webp)
+![](https://cdn.beea.com/blogimg/asset/202210/bg2022102607.webp)
 
 3、[TLS 1.3 图解](https://tls13.xargs.org/)
 
-![](https://cdn.beekka.com/blogimg/asset/202208/bg2022080405.webp)
+![](https://cdn.beea.com/blogimg/asset/202208/bg2022080405.webp)
 
 作者使用图片，详细解释新版本的 TLS 1.3 协议的每个步骤和每个字节的含义。
 
 4、[Quick Reference](https://wangchujiang.com/reference/)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102705.webp)
+![](https://cdn.beea.com/blogimg/asset/202210/bg2022102705.webp)
 
 该网站收集了各种编程语言和工具的速查表，带有[源码仓库](https://github.com/jaywcjlove/reference)。（[@jaywcjlove](https://github.com/ruanyf/weekly/issues/2704) 投稿）
 
 5、[图形和游戏开发的 3D 数学入门](https://gamemath.com/book/intro.html)（3D Math Primer for Graphics and Game Development）
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022052306.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022052306.webp)
 
 免费阅读的英文教程，介绍 3D 图形软件开发所需要的数学知识。
 
@@ -328,7 +328,7 @@ C/C++ 的单元测试框架。
 
 普通飞机最多只有四个发动机，但是一架澳大利亚客机曾经临时“装过”第五个发动机。
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022060907.webp)
+![](https://cdn.beea.com/blogimg/asset/202206/bg2022060907.webp)
 
 2011年，澳大利亚航空公司的一架波音747客机，飞到南非约翰内斯堡以后，一个发动机突发故障，飞不回来了。
 
@@ -336,9 +336,9 @@ C/C++ 的单元测试框架。
 
 作为最快的方法，他们把这台备用发动机，装在下一架飞往南非的波音747的机翼下方。那架飞机就成了一架有5个发动机的飞机。
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022060908.webp)
+![](https://cdn.beea.com/blogimg/asset/202206/bg2022060908.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022060909.webp)
+![](https://cdn.beea.com/blogimg/asset/202206/bg2022060909.webp)
 
 2、[OpenSSL 的图形界面](https://smallstep.com/blog/if-openssl-were-a-gui/)
 
@@ -348,7 +348,7 @@ OpenSSL 是一个命令行工具，主要用于加密通信。
 
 有人就设计了一个，因为参数实在太多，最后就是下面这种恐怖的样子。
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022061102.webp)
+![](https://cdn.beea.com/blogimg/asset/202206/bg2022061102.webp)
 
 由此可见，对于带有大量参数的工具软件，命令行界面的易用性其实远胜于图形界面。
 
@@ -360,7 +360,7 @@ TikTok 已经在欧美成为音乐传播的主渠道。
 
 美国的唱片公司现在要求歌手，新歌只有在 TikTok 走红以后，才能发专辑。
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102702.webp)
+![](https://cdn.beea.com/blogimg/asset/202210/bg2022102702.webp)
 
 哈尔希（Halsey）是一位已经成名的女歌手，也被要求在 TikTok 发新歌。她发了很多视频，没有一首走红。
 
@@ -368,7 +368,7 @@ TikTok 已经在欧美成为音乐传播的主渠道。
 
 “我想出专辑，但是公司不同意，因为我没有一首歌在 TikTok 走红。我已经卖出的专辑超过1.65亿张，但是现在我没有办法出新专辑。”
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022060301.webp)
+![](https://cdn.beea.com/blogimg/asset/202206/bg2022060301.webp)
 
 出乎意料，这个视频走红了。唱片公司看到她有人气了，终于同意出专辑了。
 
@@ -443,7 +443,7 @@ FlowUS 是一个知识管理与协作的 SaaS 产品，集成了“文档+表格
 
 周刊的[ FlowUs 专栏](https://ruanyf-weekly.flowus.cn/?code=FLOWUS&promotionChannel=WX_RYF_00)，欢迎访问。
 
-![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072108.webp)
+![](https://cdn.beea.com/blogimg/asset/202207/bg2022072108.webp)
 
 （完）
 

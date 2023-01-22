@@ -406,6 +406,6 @@ Git 从2005年4月3日开始开发，4月6日完成开发，对外宣布，4月7
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 
-![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042311.jpg)
+![](http://www.ruanyieng.com/blogimg/asset/2018/bg2018042311.jpg)
 
 （完）

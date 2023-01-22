@@ -8,7 +8,7 @@
 
 ## 封面图
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050903.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022050903.webp)
 
 西藏墨脱县发现了11棵超过70米的巨树，其中最高的一棵不丹松高达76.8米，是中国大陆已知最高的树。（[via](https://www.thepaper.cn/newsDetail_forward_17999134)）
 
@@ -20,13 +20,13 @@
 
 我看了这封信，深有同感。我已经在家50天了，还不知道何时结束。遇到这种事，不管是谁，心情恐怕都不会好。
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022051001.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022051001.webp)
 
 下面分享一下，我怎么心理调节，希望对大家有用。如果世界让你感到失望和怀疑，如何面对它，保持内心平静，不让负面情绪把你压倒？
 
 首先声明一下，我说的方法可能无助于解决现实问题，改变不了你的处境，但大概可以让你不那么难受，内心有承受下去的力量。
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022051002.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022051002.webp)
 
 你要做的第一件事，就是不管心情多糟糕，都必须要求自己做到三点：**吃得下，睡得着，笑得出来**。
 
@@ -40,7 +40,7 @@
 
 要知道，当你又吃又睡又笑的时候，再大的心理问题都解决一半了。
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022051004.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022051004.webp)
 
 你要做的第二件事，就是**转移注意力**，不要整天想着超出你能力的现实困难。
 
@@ -50,7 +50,7 @@
 
 （2）<ins>读一些传记</ins>。很多名人传记，故事性很强，容易看进去。更重要的是，看看其他人的人生，你会明白遭遇苦难的并非你一个人，从中吸收信心，了解前人是怎么做的，吸取经验。我推荐阅读[《约翰·克里斯朵夫》](http://www.ruanyifeng.com/blog/2005/09/post_146.html)，要想心灵强壮，此书必读。
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022051201.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022051201.webp)
 
 （3）<ins>做一次长途旅行</ins>。这种旅行的目的不是为了玩，而是为了增加认知。最好的旅行会让你领悟到，世界之外还有世界，生活总是有其他可能，人类社会长期中总是服从熵增原理。
 
@@ -60,7 +60,7 @@
 
 你不妨认定，这是一场赢不了的战斗，对胜利不抱期望。没有期望，就没有失望，但是这不意味着放弃，你依然坚持做自己想做的事情。我很喜欢[理查德·斯托曼](https://www.ruanyifeng.com/blog/2005/03/post_112.html)的一段话：“我是悲观主义者。别人为胜利而战，我不是。我总是战斗，偶尔会赢。”
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050804.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022050804.webp)
 
 ## 阿里云认证考试
 
@@ -68,7 +68,7 @@
 
 四年前，阿里云推出了自己的认证考试。只要通过考试，它就给工程师颁发证书，证明你具备它的云服务的使用技能。
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022051106.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022051106.webp)
 
 很多同学问，这个证书有用吗？
 
@@ -90,11 +90,11 @@
 
 培训包含了配套课程 + 考试习题模拟题库 + ACP考前能力测试 + 实战项目能力测评等服务。万一考试没有通过，他们承诺 **1年内还可以免费补考一次**。
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022051107.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022051107.webp)
 
 值得一提的是，他们提供一次真实项目实操测评，目的是让同学除了应考以外，还能增长项目经验，提高实操技能。上图就是云原生容器的实操安排。
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022051109.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022051109.webp)
 
 感兴趣的同学，微信扫描上方二维码，或者访问[这个链接](https://wx.kaikeba.com/xiaoke/market/landing-page/v2/w1mYEPVgcYoR13JPQ1i?kol_ad_code=Bfn1xx2KmCgbqFya4Hd)，免费咨询考试信息，进行报名。不要忘了添加课程顾问，获取观看免费公开课的权限。添加人数比较多，请大家耐心等待。
 
@@ -102,59 +102,59 @@
 
 1、[耳道定制的耳机](https://thenextweb.com/news/custom-earbuds-campfire-audio-solistice)
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022040605.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022040605.webp)
 
 一些高档的耳机采用耳道定制，每一副都不一样，完全贴合用户的耳道，追求最好的声学效果和佩戴舒适度。
 
 厂商先用硅胶灌入客户的耳朵，生成耳道模型。然后根据模型，制作同样形状的耳机。
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022040606.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022040606.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022040607.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022040607.webp)
 
 可想而知，这种耳机很贵，报价从几百美元到上千美元。
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022040608.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022040608.webp)
 
 2、[沙漠办公楼](https://www.floornature.com/zaha-hadid-architects-zero-emissions-headquarters-sharjah-16978/)
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022040707.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022040707.webp)
 
 著名的英国扎哈建筑事务所，为阿联酋设计了一座沙漠办公楼，完全是未来主义风格，而且在沙漠里面达到了二氧化碳零排放。
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022040709.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022040709.webp)
 
 这座楼的表面和四周，铺满了太阳能板，用来供电。大楼的一半空间在地下，有助于保温。另外，大幅的落地玻璃窗，保证了自然光的照明，以及建筑物内部的自然通风。
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022040711.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022040711.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022040710.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022040710.webp)
 
 3、[香水导购器](https://www.toodaylab.com/80742)
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022041202.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022041202.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022041203.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022041203.webp)
 
 香水的品种众多，消费者经常搞不清楚该买哪一种。为了解决这个问题，欧莱雅公司推出了一种“香水导购器”，只要戴在头上，你闻过每一种香水以后，它就会选出其中最合适的一种。
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022041204.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022041204.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022041205.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022041205.webp)
 
 它的原理是记录脑电波对不同香水的反应，判断消费者的情绪，给出推荐。这个原理似乎也可以用于推荐其他商品。
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022041206.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022041206.webp)
 
 4、[咬牙认证](https://www.unite.ai/biometric-authentication-by-grinding-your-teeth/)
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022041803.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022041803.webp)
 
 最近有论文提出了一种匪夷所思的身份认证方法，用户只要一咬牙，就能识别身份。
 
 它的原理是，每个人咬牙发出的声音，经过牙齿结构（咬合的类型、力度、有无蛀牙或假牙等等）和耳道，会形成独一无二的声波，被耳机接受到，从而验证身份。
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022041804.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022041804.webp)
 
 这种方法的优势在于很难破解，即使还原了用户的牙印也没用。而且，用户使用起来很简单，只要耳机和手机即可。
 
@@ -164,41 +164,41 @@
 
 苹果公司的可穿戴业务（耳机+手表），已经超过了 Mac 业务。
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050904.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022050904.webp)
 
 微软的 Windows 业务只排在第三位，最大收入来自 Azure 云业务，是所有大厂里面云比重最高的公司，令人意想不到。
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050907.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022050907.webp)
 
 谷歌80%以上的收入来自广告，已经很高了，但是跟脸书一比，就小巫见大巫了，后者的广告收入占总收入的97.5%。
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050905.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022050905.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050906.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022050906.webp)
 
 ## 文章
 
 1、[全民级 AR 应用 Snapchat](https://mp.weixin.qq.com/s/KfsVdKpvkzP0JfrwizA6bA)（中文）
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050803.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022050803.webp)
 
 社交软件 Snapchat 整合了大量 AR 功能，成为了业内唯一名副其实的 AR 应用。
 
 2、[河南默认关闭国际短信接收](https://www.cnbeta.com/articles/tech/1264305.htm)（中文）
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050913.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022050913.webp)
 
 河南通信服务商（电信、移动、联通）为了防止境外电信诈骗，默认关闭境外短信接收，需要用户手动发短信打开，估计其他省很快会跟进。有些境外网站会通过短信发验证码，因此需要注意这个问题。
 
 3、[如何使用线上语料库](https://sspai.com/post/71962)（中文）
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022031402.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022031402.webp)
 
 网上有一些大型的英语语料库，可以用来查询英语语法，比如介词搭配、合适的形容词等等。
 
 4、[如何检查 Mac UI 的 Web 代码](https://blog.jim-nielsen.com/2022/inspecting-web-views-in-macos/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022031401.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022031401.webp)
 
 MacOS 的某些 UI 采用 Web 技术开发，本文教你如何用开发者工具查看这些 UI 的代码。
 
@@ -208,25 +208,25 @@ MacOS 的某些 UI 采用 Web 技术开发，本文教你如何用开发者工�
 
 6、[Barcode Detection API 介绍](https://developer.mozilla.org/en-US/docs/Web/API/Barcode_Detection_API)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022031003.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022031003.webp)
 
 安卓手机的 Chrome 浏览器内置一个条形码侦测 API，可以直接解读条形码和二维码。不过，其他浏览器都不支持这个 API。
 
 7、[用 gdb 学 C 语言](https://zhuanlan.zhihu.com/p/483372519)（中文）
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022051202.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022051202.webp)
 
 本文展示 gdb 这一学习 C 语言的强大工具，介绍常用的 gdb 命令，演示如何用 gdb 来理解指针和数组的区别。（[@StrokMitream](https://zhuanlan.zhihu.com/p/483372519) 投稿）
 
 8、[3G 与 4G/5G 的差异](https://webghost.bid/end-of-3g-electrical-engineer-explains/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022031403.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022031403.webp)
 
 本文通俗解释了 3G 与 4G/5G 的差异，以及码分多址（CDMA）、时分多址（TDMA）、频分多址（FDMA）、正交频分多址（OFDMA）的含义。注意，文章分成两页，主要内容在第二页。
 
 9、[可以检查质数的正则表达式](https://www.noulakaz.net/2007/03/18/a-regular-expression-to-check-for-prime-numbers/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022031012.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022031012.webp)
 
 作者介绍了一个可以检查质数的正则表达式`/^1?$|^(11+?)\1+$/`。
 
@@ -234,43 +234,43 @@ MacOS 的某些 UI 采用 Web 技术开发，本文教你如何用开发者工�
 
 1、[Postgres.js](https://github.com/porsager/postgres)
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022032504.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022032504.webp)
 
 Node.js 和 Deno 的 PostgreSQL 数据库操作库。
 
 2、[微波泄漏测试工具](https://ismymicrowaveleaking.isotropic.us/)
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022032802.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022032802.webp)
 
 这个网页工具可以检测微波炉是否有微波泄漏，做法是把手机放在微波炉里（但不要启动微波炉），看它能否接收到 Wifi 信号。
 
 3、[exping](https://exping.world/)
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022051011.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022051011.webp)
 
 一款手机 App，用来为地图添加个性化标记，并提供多种地图模版供导出分享。（[@designedbyclu](https://github.com/ruanyf/weekly/issues/2363) 投稿）
 
 4、[Geeker Admin](https://github.com/HalseySpicy/Geeker-Admin)
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022051012.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022051012.webp)
 
 一款基于 Vue3 的后台管理系统。（[@HalseySpicy](https://github.com/ruanyf/weekly/issues/2364) 投稿）
 
 5、[Musicn](https://github.com/zonemeen/musicn)
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022051101.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022051101.webp)
 
 下载高质量音乐的命令行工具，支持 flac、mp3 格式。（[@zonemeen](https://github.com/ruanyf/weekly/issues/2370) 投稿）
 
 6、[网易云音乐上传助手](https://github.com/lulu-ls/cloud-uploader)
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022051203.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022051203.webp)
 
 网易云音乐 Mac 端不知何故没有开放上传，作者做了个上传工具，基于 electron。（[@lulu-ls](https://github.com/ruanyf/weekly/issues/2365) 投稿）
 
 7、[zhihutime](https://greasyfork.org/zh-CN/scripts/444342-zhihutime-%E7%9F%A5%E4%B9%8E%E6%97%B6%E9%97%B4%E8%B7%A8%E5%BA%A6)
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022051204.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022051204.webp)
 
 油猴脚本，在知乎答案的上方，显示回答时间距今多久。（[@lucienlugeek](https://github.com/ruanyf/weekly/issues/2377) 投稿）
 
@@ -280,13 +280,13 @@ Node.js 和 Deno 的 PostgreSQL 数据库操作库。
 
 9、[Andi](https://andisearch.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022032902.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022032902.webp)
 
 一个问答机器人式（一问一答）的搜索引擎，英语搜索的效果较好。
 
 10、[ClonePilot](https://github.com/Goel25/ClonePilotExtension)
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022033005.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022033005.webp)
 
 VSCode 编辑器的插件，只要你写一个函数名，它自动去 StackOverflow 拷贝现成的代码。
 
@@ -294,13 +294,13 @@ VSCode 编辑器的插件，只要你写一个函数名，它自动去 StackOver
 
 1、[Type challenges](https://github.com/type-challenges/type-challenges/blob/main/README.zh-CN.md)
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022051010.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022051010.webp)
 
 TypeScript 题库，用来刷题提升编写类型的能力。另有网友制作的[视频解答](https://www.bilibili.com/video/BV1vY41187Tx)。（[@cuixiaorui](https://github.com/ruanyf/weekly/issues/2369) 投稿）
 
 2、[Packages for Linux and Unix](https://pkgs.org/)
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022051013.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022051013.webp)
 
 该网站返回各种 Linux 发行版下符合搜索条件的模块。（[@fish-404](https://github.com/ruanyf/weekly/issues/2366) 投稿）
 
@@ -310,7 +310,7 @@ TypeScript 题库，用来刷题提升编写类型的能力。另有网友制作
 
 4、[可视化 Rust 数据结构的内存布局](https://www.bilibili.com/video/BV1KT4y167f1)
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022051205.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022051205.webp)
 
 一个配有中文字幕的视频，介绍 Rust 各种数据结构的内存布局，配有可视化展示，另有[文字稿](https://github.com/rustlang-cn/Rustt/blob/main/Articles/%5B2022-05-04%5D%20%E5%8F%AF%E8%A7%86%E5%8C%96%20Rust%20%E5%90%84%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E7%9A%84%E5%86%85%E5%AD%98%E5%B8%83%E5%B1%80.md)。（[@trdthg](https://github.com/ruanyf/weekly/issues/2374) 投稿）
 
@@ -322,13 +322,13 @@ TypeScript 题库，用来刷题提升编写类型的能力。另有网友制作
 
 你或许认为是白色或橙色，但是物理学家经过计算以后，认为颜色将是 sRGB(148,177,255)，也就是下图的颜色。
 
-![](https://cdn.beekka.com/blogimg/asset/202201/bg2022011813.webp)
+![](https://cdn.beea.com/blogimg/asset/202201/bg2022011813.webp)
 
 这就是典型中子星的颜色（中子星都极热），也是早期宇宙的颜色。
 
 2、[最难的平面几何题](https://blog.codingnow.com/2007/06/elementary_geometry.html)
 
-![](https://cdn.beekka.com/blogimg/asset/202201/bg2022011327.webp)
+![](https://cdn.beea.com/blogimg/asset/202201/bg2022011327.webp)
 
 请问上图的角 D 是多少度？
 
@@ -344,19 +344,19 @@ TypeScript 题库，用来刷题提升编写类型的能力。另有网友制作
 
 他们决定，下一部电影应该跟昆虫相关，因为昆虫跟玩具一样，很容易建模，制作 3D 动画。他们还决定故事就用伊索寓言的《蚂蚁和蚱蜢》，让蚱蜢去抢夺蚂蚁的食物。这就是1998年上映的电影《虫虫危机》。
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022051206.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022051206.webp)
 
 他们想到，《玩具总动员》的灵感来自平时对孩子的观察，孩子们总是相信，玩具在没人的时候会活过来。于是，一位导演建议，拍摄孩子们的另一种想法：打开壁橱时，里面会跳出一个怪物。后来，这成了2001年上映的电影《怪兽电力公司》。
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022051207.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022051207.webp)
 
 提到孩子，另一位导演想起了小时候看牙医的经历，牙医办公室有一个鱼缸，他当时很想知道鱼缸里面的鱼是否想回家。后来，这成了2003年上映的电影《海底总动员》。
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022051208.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022051208.webp)
 
 午餐快要结束时，他们又聊到了最后一个想法：如果人类未来不得不离开地球，但是忘记关闭留下来的机器人会怎样？后来，这成了2008年上映的电影《瓦力》。
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022051209.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022051209.webp)
 
 就这样，他们一顿饭把公司未来10年的作品都规划好了。
 
@@ -406,7 +406,7 @@ TypeScript 题库，用来刷题提升编写类型的能力。另有网友制作
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 
-![](https://cdn.beekka.com/blogimg/asset/202103/bg2021030402.jpg)
+![](https://cdn.beea.com/blogimg/asset/202103/bg2021030402.jpg)
 
 （完）
 

@@ -8,7 +8,7 @@
 
 ## 封面图
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022061615.webp)
+![](https://cdn.beea.com/blogimg/asset/202206/bg2022061615.webp)
 
 中国科学家绘制的世界首幅、最详细的1:250万月球全月地质图发布，统计出月球包含12341个撞击坑、17种岩石、14类地质构造。（[via](http://www.cnsa.gov.cn/n6758823/n6758838/c6840495/content.html)）
 
@@ -22,17 +22,17 @@
 
 这篇文章的作者是 Saleforce 公司的前端工程师诺拉·劳森（Nolan Lawson），题目就叫做[《复杂软件的崩溃》](https://nolanlawson.com/2022/06/09/the-collapse-of-complex-software/)（下图）。
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022061407.webp)
+![](https://cdn.beea.com/blogimg/asset/202206/bg2022061407.webp)
 
 大家可能知道，Salesforce 是一家世界级软件公司，专门开发企业软件，以产品复杂而闻名。
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022061406.webp)
+![](https://cdn.beea.com/blogimg/asset/202206/bg2022061406.webp)
 
 所以，这件事情很讽刺。一家出产复杂软件的公司，自家的著名程序员公开说，复杂软件会崩溃。
 
 当然，他在文章里面没提 Salesforce 的名字，但是怎么读都像在写亲身经历。下面摘录一段他的原文和配图，大家品味一下。
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022061408.webp)
+![](https://cdn.beea.com/blogimg/asset/202206/bg2022061408.webp)
 
 > “任何在科技行业工作足够长的人，尤其是在大公司工作的人，都曾见过下面的场景。
 > 
@@ -67,7 +67,7 @@
 
 但是，前端依然是 IT 行业中最活跃的分支。一年一度的 [GitHub 调查](https://octoverse.github.com/)中，JavaScript 多年来一直稳居第一，TypeScript 更是快速上升到今年的第四位，仅次于 Python 和 Java。
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022061616.webp)
+![](https://cdn.beea.com/blogimg/asset/202206/bg2022061616.webp)
 
 技术稳定带来的一个后果，就是新框架、新工具少了，大家更关注已有框架/工具的改进和功能增加。
 
@@ -75,21 +75,21 @@
 
 总的来说，<ins>现在的前端开发处在下图右侧的那个椭圆，比前一个阶段的难度上升了</ins>。
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022061617.webp)
+![](https://cdn.beea.com/blogimg/asset/202206/bg2022061617.webp)
 
 如果你已经有一定的前端开发基础，近期打算应聘前端岗位，这里有一份有用的资料，可以帮助大家准备面试。
 
 这份资料就是 **《前端大厂的高频面试题（2022版）》**，一共有174页，收集了最新的面试题，由国内著名的程序员培训平台“极客时间”联系国内大厂制作。
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022061620.webp)
+![](https://cdn.beea.com/blogimg/asset/202206/bg2022061620.webp)
 
 所有的题目都分门别类，由浅入深排列，每道题都附有答案详解，方便大家知识梳理、准备面试。
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022061618.webp)
+![](https://cdn.beea.com/blogimg/asset/202206/bg2022061618.webp)
 
 此外，还会额外赠送 **《三位资深程序员的面试跳槽经验分享》**，分享技术之外的跳槽准备、简历准备、面试应对……这些值得借鉴的前人经验。
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022061619.webp)
+![](https://cdn.beea.com/blogimg/asset/202206/bg2022061619.webp)
 
 微信扫描上方二维码，就可以 **免费领取** 这份前端面试资料。添加客服后，请耐心等待，后台是手动通过的。
 
@@ -99,13 +99,13 @@
 
 1、[虚拟接吻](https://gizmodo.com/vr-researches-simulate-kisses-with-ultrasonic-transduce-1848849489)
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022043003.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022043003.webp)
 
 卡内基梅隆大学开发了一种新技术，让 VR 头盔的佩戴者可以感受到虚拟接吻。具体做法是，头盔向嘴唇发射超声波，里面包含了一些微小颗粒，让嘴唇、牙齿甚至舌头产生触感。
 
 上图可以看到，VR 头盔的下方安装了一排超声波发生器，对准红点的位置发射。科学家开玩笑，可以用它开发“接吻机”。
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022043004.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022043004.webp)
 
 除了产生嘴唇的触感，这种技术还可以在游戏中，让用户感受到风拂过脸部、蜘蛛网碰到脸，甚至食物和饮料进入嘴里的虚拟感受。
 
@@ -113,47 +113,47 @@
 
 2、[LED 篮球场](http://www.lanxiongsports.com/posts/view/id/22687.html)
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022060807.webp)
+![](https://cdn.beea.com/blogimg/asset/202206/bg2022060807.webp)
 
 5月30日，国际篮联正式宣布，允许篮球世界杯等大赛启用 LED 篮球场。
 
 传统的篮球场都是木地板，木头具有弹性，可以吸收震动，保护球员。现在，最新的 LED 玻璃也已经能够提供足够的弹性。
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022060808.webp)
+![](https://cdn.beea.com/blogimg/asset/202206/bg2022060808.webp)
 
 LED 球场有很多好处，省去了划线的麻烦，能够快速切换成篮球场、手球场、排球场、羽毛球场。
 
 并且，它自身能发光，可以作为显示屏，实时显示比赛数据，并且配合球场活动，营造气氛。在黑暗中，界线依然保持醒目。
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022060809.webp)
+![](https://cdn.beea.com/blogimg/asset/202206/bg2022060809.webp)
 
 3、[树皮字体](https://bjoernkarmann.dk/occlusion-grotesque)
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050302.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022050302.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050306.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022050306.webp)
 
 五年前，一个丹麦艺术家将字体刻在一棵树上，想看看随着树木的成长，字体会变成什么样，也就是大自然会怎样呈现字体。
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050307.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022050307.webp)
 
 下面是字母 a 和 o 在五年中的变化。
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050303.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022050303.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050304.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022050304.webp)
 
 这些字体应用到印刷品，就是下面的样子。
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050305.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022050305.webp)
 
 他发现，这些字母主要是横向成长，变得更宽更粗，高度反而变化不大。这说明，树木成形后，树干高度就基本不再变化了，开始不断长粗。
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050308.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022050308.webp)
 
 4、[禁止白炽灯泡](https://www.cnbc.com/2022/04/26/biden-blocks-sales-of-inefficient-lightbulbs-reversing-trump-policy-.html)
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050502.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022050502.webp)
 
 拜登政府宣布，美国将禁止销售每瓦产生低于45流明的灯泡。这实际上禁掉了白炽灯泡。
 
@@ -167,39 +167,39 @@ LED 球场有很多好处，省去了划线的麻烦，能够快速切换成篮�
 
 2、[Intel 4 工艺宣布](https://finance.sina.com.cn/tech/2022-06-14/doc-imizirau8363822.shtml)（中文）
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022061609.webp)
+![](https://cdn.beea.com/blogimg/asset/202206/bg2022061609.webp)
 
 上周，英特尔公司正式宣布了 Intel 4 工艺。这是英特尔公司第一次将 EUV 技术用于 CPU 的生产，实现了7纳米的制程，开始追赶台积电。本文介绍该工艺的一些情况。
 
 3、[我如何搭建家用 NAS](https://icloudnative.io/posts/budget-nas/)（中文）
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022060906.webp)
+![](https://cdn.beea.com/blogimg/asset/202206/bg2022060906.webp)
 
 本文详细记录了作者选购硬件、安装软件，搭建一台 22TB 的家用 NAS （网络存储）服务器的过程，可以当作自己架设 NAS 的参考。这里是中文翻译，另有[英文原文](https://mtlynch.io/budget-nas/)。（[@yangchuansheng](https://github.com/ruanyf/weekly/issues/2444) 投稿）
 
 4、[最简单的任务管理系统](https://ugmonk.com/blogs/journal/analog-the-simplest-productivity-system)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202202/bg2022021201.webp)
+![](https://cdn.beea.com/blogimg/asset/202202/bg2022021201.webp)
 
 本文介绍作者自己发明的最简单任务管理系统，就是把每天的任务写在卡片上，用一个架子放在眼前，做完一件就划掉一件。
 
-![](https://cdn.beekka.com/blogimg/asset/202202/bg2022021202.webp)
+![](https://cdn.beea.com/blogimg/asset/202202/bg2022021202.webp)
 
 5、[使用 Cloudflare + Backblaze B2 打造一个免费的图像 CDN](https://www.backblaze.com/blog/free-image-hosting-with-cloudflare-transform-rules-and-backblaze-b2/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202202/bg2022021604.webp)
+![](https://cdn.beea.com/blogimg/asset/202202/bg2022021604.webp)
 
 本文是一篇详细的教程，教你怎么把图片托管在 Backblaze B2 对象存储，然后连接到 Cloudflare 的 CDN 服务。两者都有免费额度，对于小网站来说，不用花钱就解决了图片的存储和带宽问题。
 
 6、[如何用 iOS 快捷指令防止沉迷？](https://nick.comer.io/post/ios-shortcuts)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202201/bg2022010401.webp)
+![](https://cdn.beea.com/blogimg/asset/202201/bg2022010401.webp)
 
 作者发现自己在社交媒体上，浪费了大量时间。他想出了一个办法，制作了一个 iOS 快捷指令（shortcuts），只要一打开社交 App，就会跳出提示“请专心工作”。
 
 7、[我的免费摄影软件工作流](https://blog.fidelramos.net/photography/photography-workflow#5-replication-with-syncthing)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022040609.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022040609.webp)
 
 作者是一个专业的摄影师，完全采用免费软件处理数码照片。本文介绍他的解决方案。
 
@@ -209,7 +209,7 @@ LED 球场有很多好处，省去了划线的麻烦，能够快速切换成篮�
 
 9、[如何估算流入加密货币的资金](https://tomtunguz.com/how-much-money-flowing-into-crypto/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202202/bg2022020302.webp)
+![](https://cdn.beea.com/blogimg/asset/202202/bg2022020302.webp)
 
 多少资金流入了加密货币市场？这显然是无法准确计算的，作者想到了一个办法，可以间接估算。那就是看稳定币每月增长的发行量，上图是过去两年稳定币每个月的增长百分比。
 
@@ -217,19 +217,19 @@ LED 球场有很多好处，省去了划线的麻烦，能够快速切换成篮�
 
 1、[CloudMP3.cc](https://cloudmp3.cc/en/)
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022041702.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022041702.webp)
 
 一个云服务，可以将 SoundCloud 上面的音频，转成 mp3 下载。
 
 2、[ToolJet](https://github.com/ToolJet/ToolJet)
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022031912.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022031912.webp)
 
 一个低代码框架，用来开发内部工具。部署到服务器后，它有一个 Web 界面，通过拖拽，就可以连接各种数据源，生成各种应用或管理面板。
 
 3、[i 微信读书](https://secreter.github.io/ireader/index.html)
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022061503.webp)
+![](https://cdn.beea.com/blogimg/asset/202206/bg2022061503.webp)
 
 Chrome 浏览器插件，配合网页版微信读书使用，支持划线摘抄句子、划线生成分享图片、一键导出笔记等功能。（[@secreter](https://github.com/ruanyf/weekly/issues/2439) 投稿）
 
@@ -239,13 +239,13 @@ Chrome 浏览器插件，配合网页版微信读书使用，支持划线摘抄�
 
 5、[FastGit](https://doc.fastgit.org/zh-cn/guide.html)
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022061504.webp)
+![](https://cdn.beea.com/blogimg/asset/202206/bg2022061504.webp)
 
 GitHub 有时在国内不容易打开，这里有一个服务是 GitHub 的镜像加速器。提醒一下，如果要登陆 GitHub，使用这种服务会有安全顾虑，大家自己权衡。（[@dllen](https://github.com/ruanyf/weekly/issues/2448) 投稿）
 
 6、[Go-Ldap-Admin](http://ldapdoc.eryajf.net/)
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022061505.webp)
+![](https://cdn.beea.com/blogimg/asset/202206/bg2022061505.webp)
 
 一个国产软件，基于 Go+Vue 实现的 openLDAP 管理后台，可以作为打通 IM（钉钉、企业微信、飞书）与支持 ldap 认证的应用的桥梁。（[@eryajf](https://github.com/ruanyf/weekly/issues/2450) 投稿）
 
@@ -259,7 +259,7 @@ GitHub 有时在国内不容易打开，这里有一个服务是 GitHub 的镜�
 
 9、[GitLens](https://www.gitkraken.com/gitlens/features)
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022031915.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022031915.webp)
 
 一个 VSCode 的插件，大大增强了 Git 集成，可以在编辑器里面执行很多 Git 操作，特别适合多人合作的项目。
 
@@ -271,7 +271,7 @@ Deno 本身的开发已经接近稳定了，下一步只要有一个好用的框
 
 1、[Fresh 框架](https://fresh.deno.dev/)
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022061401.webp)
+![](https://cdn.beea.com/blogimg/asset/202206/bg2022061401.webp)
 
 上周，基于 Deno 的 Fresh 框架发布了预览。
 
@@ -279,13 +279,13 @@ Deno 本身的开发已经接近稳定了，下一步只要有一个好用的框
 
 2、[Aleph.js](https://alephjs.org/)
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022061402.webp)
+![](https://cdn.beea.com/blogimg/asset/202206/bg2022061402.webp)
 
 Aleph.js 是另一个基于 Deno 的全栈框架，类似于 Next.js，目前处于早期开发阶段，也可以关注。
 
 3、[Express](https://expressjs.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022061403.webp)
+![](https://cdn.beea.com/blogimg/asset/202206/bg2022061403.webp)
 
 顺便提一下，老牌的 Node.js 框架 Express，最近要发布5.0版了。这是一件大事，因为4.0版是八年前发布的。这篇文章介绍了[5.0版的新特性](https://fusebit.io/blog/new-express-5-features/)。
 
@@ -293,19 +293,19 @@ Aleph.js 是另一个基于 Deno 的全栈框架，类似于 Next.js，目前处
 
 1、[全球海底光缆](http://he.net/3d-map/)
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022041001.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022041001.webp)
 
 这个网页提供了一个互动式的地球，上面有全世界海底光缆和骨干机房的位置。
 
 2、[极光](https://www.drawaurora.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022041002.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022041002.webp)
 
 这个网页构造了一个极地的背景，让你手绘动态的极光效果。
 
 3、[波斯波利斯](https://persepolis.getty.edu/)
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022041004.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022041004.webp)
 
 波斯波利斯是古代波斯帝国的首都，位于现在的伊朗，已经是一片废墟了。这个页面还原了这座雄伟的帝国都城，重建了 3D 街景，让你在其中漫游。
 
@@ -319,15 +319,15 @@ Aleph.js 是另一个基于 Deno 的全栈框架，类似于 Next.js，目前处
 
 1985年的咸海。
 
-![](https://cdn.beekka.com/blogimg/asset/202202/bg2022022001.webp)
+![](https://cdn.beea.com/blogimg/asset/202202/bg2022022001.webp)
 
 1997年的咸海。
 
-![](https://cdn.beekka.com/blogimg/asset/202202/bg2022022002.webp)
+![](https://cdn.beea.com/blogimg/asset/202202/bg2022022002.webp)
 
 2014年的咸海。
 
-![](https://cdn.beekka.com/blogimg/asset/202202/bg2022022003.webp)
+![](https://cdn.beea.com/blogimg/asset/202202/bg2022022003.webp)
 
 2、[住宅墙](https://www.houseporn.ca/landscape/article/the_wall_housing_structure_in_fermont_quebec)
 
@@ -335,15 +335,15 @@ Aleph.js 是另一个基于 Deno 的全栈框架，类似于 Next.js，目前处
 
 为了挡风，当地修建了高50米，长1.3公里的挡风墙，同时这堵墙里面还是住宅、商业和教育设置，里面可以住人。
 
-![](https://cdn.beekka.com/blogimg/asset/202202/bg2022022006.webp)
+![](https://cdn.beea.com/blogimg/asset/202202/bg2022022006.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202202/bg2022022007.webp)
+![](https://cdn.beea.com/blogimg/asset/202202/bg2022022007.webp)
 
 因为有了这堵住宅墙，小镇居民就拥有了一个无风的、温暖的小气候。 
 
-![](https://cdn.beekka.com/blogimg/asset/202202/bg2022022008.webp)
+![](https://cdn.beea.com/blogimg/asset/202202/bg2022022008.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202202/bg2022022009.webp)
+![](https://cdn.beea.com/blogimg/asset/202202/bg2022022009.webp)
 
 ## 文摘
 
@@ -351,7 +351,7 @@ Aleph.js 是另一个基于 Deno 的全栈框架，类似于 Next.js，目前处
 
 1950年代，一家国外的牙膏公司，向公众征求能够大幅提高销售额的点子。
 
-![](https://cdn.beekka.com/blogimg/asset/202202/bg2022020805.webp)
+![](https://cdn.beea.com/blogimg/asset/202202/bg2022020805.webp)
 
 几天之后，有一个人来应征，声称他有办法让销售额快速增长40%，而且实施起来不需要很大成本。他要价10万美元。
 
@@ -419,7 +419,7 @@ IT 行业与传统制造业有一个重要区别，就是 IT 行业有着严重�
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 
-![](https://cdn.beekka.com/blogimg/asset/202103/bg2021030402.jpg)
+![](https://cdn.beea.com/blogimg/asset/202103/bg2021030402.jpg)
 
 （完）
 

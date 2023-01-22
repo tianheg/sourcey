@@ -380,6 +380,6 @@ Electron 的替代品，使用 React Native 的语法开发跨平台的桌面应
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 
-![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042311.jpg)
+![](http://www.ruanyieng.com/blogimg/asset/2018/bg2018042311.jpg)
 
 （完）

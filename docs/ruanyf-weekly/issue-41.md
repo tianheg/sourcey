@@ -368,7 +368,7 @@ TypeScript 写的内容管理系统，最大特点是使用 GraphQL API。
 
 微信搜索“__阮一峰的网络日志__”或者扫描二维码，即可订阅。
 
-![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042311.jpg)
+![](http://www.ruanyieng.com/blogimg/asset/2018/bg2018042311.jpg)
 
 （完）
 

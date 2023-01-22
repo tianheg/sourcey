@@ -8,7 +8,7 @@
 
 ## 封面图
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021060914.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021060914.jpg)
 
 推迟到今年的迪拜2020世博会，即将于10月1日开幕。上图是三大主场馆之一的“可持续发展馆”，该建筑的水电都是自给自足，从阳光获取能量，从潮湿的空气获取淡水。
 
@@ -16,13 +16,13 @@
 
 有一个经典游戏，叫做[《吃豆人》](https://baike.baidu.com/item/%E5%90%83%E8%B1%86%E4%BA%BA/9119559)（Pac-Man）。1980年发布的，很多人现在还在玩。
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021060615.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021060615.jpg)
 
 游戏很简单，吃完迷宫里的豆子，就能过关，但是不能被妖怪抓住。四个妖怪的策略各有不同，红色的在后面追你，粉色的在前面拦截，蓝色的在路口埋伏，橘色的随机漂移。迷宫里还有四颗能量豆，每吃掉一颗，你就能反戈一击，消灭一个妖怪。
 
 谷歌发布过一个[网页在线版](https://www.google.com/search?q=pac-man)，没玩过的朋友可以感受一下。
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021060901.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021060901.jpg)
 
 提到这个游戏，是因为我最近看到了[一篇文章](https://mahmoud-mohamed-bahaa.medium.com/i-spent-18-months-making-a-decision-heres-what-i-learned-the-pac-man-approach-c943e687413a)。 **一个国外的年轻程序员说，他觉得，自己的生活就像一场《吃豆人》游戏。**
 
@@ -34,7 +34,7 @@
 
 他这么一说，我顿时觉得，《吃豆人》真的很像生活的一个缩影。我们每天都在人生迷宫里探索，寻求出路。各种挫折打击在周围埋伏着，不知道何时，就会向你扑来。想要赢得游戏的唯一方法，就是尽量避开妖怪，快速吃掉能量豆，壮大自己，晋升到下一关。
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021060617.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021060617.jpg)
 
 以程序员为例，毕业后进入互联网公司，就是游戏开始了。你必须不停闯关，一步步晋升，从初级程序员到中级程序员，再到高级程序员，然后是团队 Leader 或者部门主管。如果有一关卡住了，在某个级别上停留过久，你就很危险，遇到妖怪的概率越来越大，随时可能 Game Over。你最多只有十到十五年的时间，到达中高职级，否则就留不下来，时间一到不得不离开公司。
 
@@ -42,7 +42,7 @@
 
 进一步说，每天上下班高峰时间，地铁上挤满了人，大家都在参与一线城市这个大型游戏。若干年内，如果得不到结果，就要离开，回到二线或三线城市。
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021060903.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021060903.jpg)
 
 其实也不是一定要参与这种游戏，你也可以降低物质欲，选择不与其他人竞争的生活。但是，如果已经身在其中，或者不得不参与，那么下面几条《吃豆人》游戏的快速过关策略，似乎可以参考。
 
@@ -62,7 +62,7 @@
 
 Vue.js 的创始人尤雨溪，甚至发过一个动态：再也回不去 Webpack了。
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021061006.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021061006.jpg)
 
 这引起了一大片焦虑：
 
@@ -74,7 +74,7 @@ Vue.js 的创始人尤雨溪，甚至发过一个动态：再也回不去 Webpac
 
 本周的前端视频专题课，就来分析三大工具各自的原理、特点、适用范围。 **《前端构建工具大 PK：深度剖析 Webpack、Vite、Rollup 原理》** 会带大家手写Webpack、Vite 以及 Rollup 项目，对比分析它们各自的强项，深度剖析底层原理，由浅入深，层层递进。
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021061008.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021061008.jpg)
 
 这个专题课对各种级别的程序员，都做了精心设计。初级程序员可以学习怎么用构建工具做项目，中高级前端则可以学到这些工具的原理和设计思想。
 
@@ -82,7 +82,7 @@ Vue.js 的创始人尤雨溪，甚至发过一个动态：再也回不去 Webpac
 
 微信扫码下面二维码，就可以报名，仅象征性收取 **0.99元** 报名费。
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021061007.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021061007.jpg)
 
 这门课是视频课，上课时间是 6月15日 到 6月17日 每晚 20:00。想听的同学，可以抓紧时间报名。
 
@@ -92,13 +92,13 @@ Vue.js 的创始人尤雨溪，甚至发过一个动态：再也回不去 Webpac
 
 亚马逊公司的老板贝佐斯宣布，下个月将乘坐 Blue Origin 公司宇宙飞船的首航，感受一下太空飞行的滋味。
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021060801.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021060801.jpg)
 
  Blue Origin 公司是贝佐斯的私人投资，从事太空旅游。它发射火箭，将太空舱送到大气层的边缘，距离地面约100多公里的高度。太空舱可以乘坐6个人，有巨大的窗户，让乘客看到太空的风景，体验几分钟的失重，然后返回地球。
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021060802.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021060802.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021060803.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021060803.jpg)
 
 美国的富人真是疯狂。马斯克总是说，他的目标是移民火星，而贝佐斯已经等不及要亲身体验了。下个月首航后，据说就将开始对外售票，票价可能为20万美元。
 
@@ -106,41 +106,41 @@ Vue.js 的创始人尤雨溪，甚至发过一个动态：再也回不去 Webpac
 
 一个美国基金会花了2.6亿美元，在纽约哈德逊河里面建了一个人工小岛，为市民提供露天剧场、绿地、餐厅和酒吧。
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021060915.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021060915.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202105/bg2021052502.jpg)
+![](https://cdn.beea.com/blogimg/asset/202105/bg2021052502.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021060916.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021060916.jpg)
 
 这里原来是一个废弃码头，现在改建以后，成了一个地势起伏的平台，种植着美丽的树木、鲜花和草地，还有一个687个座位的露天剧场，可以举行表演活动。
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021060917.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021060917.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021060918.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021060918.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202105/bg2021052505.jpg)
+![](https://cdn.beea.com/blogimg/asset/202105/bg2021052505.jpg)
 
 3、[高速公路的 U 型弯](https://www.chinatimes.com/realtimenews/20210510002190-260402)
 
 贵州的一条高速公路，特别设计了一个 U 型转弯的架空车道。
 
-![](https://cdn.beekka.com/blogimg/asset/202105/bg2021051807.jpg)
+![](https://cdn.beea.com/blogimg/asset/202105/bg2021051807.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202105/bg2021051808.jpg)
+![](https://cdn.beea.com/blogimg/asset/202105/bg2021051808.jpg)
 
 这是因为贵州都是山区，如果错过一个高速公路出口，下一个出口可能在几十公里以外，所以增设一个 U 型转弯车道，让你快速调转车头。
 
-![](https://cdn.beekka.com/blogimg/asset/202105/bg2021051809.jpg)
+![](https://cdn.beea.com/blogimg/asset/202105/bg2021051809.jpg)
 
 4、
 
 [SpaceX 公司](https://arstechnica.com/science/2021/05/is-spacex-reliable-company-goes-for-100th-successful-flight-in-a-row-today/)的猎鹰9号火箭，5月27日达到一个里程碑，连续成功发射100次。而且，发射频率越来越快，今年平均每9天发射一次，5月以后每5天发射一次。
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021060301.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021060301.jpg)
 
 它之所以能够发射得如此频繁，是因为这个火箭可以回收，每次发射后可以快速重用。更惊人的是，它的第一级助推器也能回收，目前全世界只有它能做到，其它火箭都是丢弃助推器。
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021060303.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021060303.jpg)
 
 5、
 
@@ -148,9 +148,9 @@ Vue.js 的创始人尤雨溪，甚至发过一个动态：再也回不去 Webpac
 
 这种电视机其实就是激光投影仪 + 幕布，平时幕布卷成一团，收纳在下方的柜子里，播放电视时，幕布再从柜子里面展开升起。
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021060606.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021060606.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021060607.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021060607.jpg)
 
 6、
 
@@ -158,19 +158,19 @@ Vue.js 的创始人尤雨溪，甚至发过一个动态：再也回不去 Webpac
 
 联合国估计，只要到2025年让95%的感染者得到治疗（目前是73%），就可以最终在2030年消灭艾滋病。
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021060407.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021060407.jpg)
 
 7、[超音速客机](https://boomsupersonic.com/united)
 
 美国公司 Boom Supersonic 宣布，美联航向它采购了15架 Overture 超音速客机，预计将在2029年投入运营。
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021060404.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021060404.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021060405.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021060405.jpg)
 
 超音速客机比传统客机快得多，可以将长途航行缩短一半的时间，但是噪音大、成本高，历史上多次尝试均不成功，目前世界上没有商业运营的超音速客机。
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021060406.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021060406.jpg)
 
 这种新飞机可以乘坐55名乘客，据称采用生物燃料，净二氧化碳排放为零。老实说，听上去不太可信，而且还没造出真机。
 
@@ -178,13 +178,13 @@ Vue.js 的创始人尤雨溪，甚至发过一个动态：再也回不去 Webpac
 
 [宇宙暗物质分布图](https://www.vice.com/en/article/n7be77/scientists-discover-huge-voids-in-the-cosmic-web-connecting-the-universe)发布。科学家认为，我们的宇宙是由不可见的暗物质连接在一起的，它们组成了一张巨大的引力网（下图），构成了宇宙的上层结构，所有天体都附着在这张看不见的网上。
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021060315.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021060315.jpg)
 
 ## 文章
 
 1、[西双版纳大象专家谈北迁象群](http://wap.xinmin.cn/content/31969939.html)（中文）
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021060913.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021060913.jpg)
 
 西双版纳自然保护区的专家，谈怎么看待象群北迁事件。
 
@@ -192,7 +192,7 @@ Vue.js 的创始人尤雨溪，甚至发过一个动态：再也回不去 Webpac
 
 2、[我复原了长安城](https://www.gcores.com/articles/137634)（中文）
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021060105.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021060105.jpg)
 
 作者介绍自己使用 VR 技术对唐朝长安城建模，做成建设虚拟城市的游戏，拿到 Steam 上去卖。
 
@@ -202,7 +202,7 @@ Vue.js 的创始人尤雨溪，甚至发过一个动态：再也回不去 Webpac
 
 4、[StarLink 卫星上网体验报告](https://www.theverge.com/22435030/starlink-satellite-internet-spacex-review)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021060304.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021060304.jpg)
 
 这篇文章详细记录了 StarLink 的安装和使用过程，作者的结论是这个卫星上网服务可用，但是体验不好。
 
@@ -210,7 +210,7 @@ Vue.js 的创始人尤雨溪，甚至发过一个动态：再也回不去 Webpac
 
 5、[信息论之父香农](https://spectrum.ieee.org/tech-history/cyberspace/claude-shannon-tinkerer-prankster-and-father-of-information-theory)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202105/bg2021052415.jpg)
+![](https://cdn.beea.com/blogimg/asset/202105/bg2021052415.jpg)
 
 这是一篇发表在1992年《IEEE 综览》杂志的香农专访，介绍了香农的很多轶事，对信息论也有解释，写得很生动。
 
@@ -222,7 +222,7 @@ Vue.js 的创始人尤雨溪，甚至发过一个动态：再也回不去 Webpac
 
 7、[WebContainers 简介](https://blog.stackblitz.com/posts/introducing-webcontainers/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202105/bg2021052102.jpg)
+![](https://cdn.beea.com/blogimg/asset/202105/bg2021052102.jpg)
 
 WebContainers 是一项很特别的技术，可以在浏览器里面运行 Node.js 环境，从而不用任何的本地安装，就可以在浏览器里面调试 Node.js 项目。
 
@@ -234,7 +234,7 @@ WebContainers 是一项很特别的技术，可以在浏览器里面运行 Node.
 
 1、[WireGuard Easy](https://github.com/WeeJeWel/wg-easy)
 
-![](https://cdn.beekka.com/blogimg/asset/202105/bg2021052401.jpg)
+![](https://cdn.beea.com/blogimg/asset/202105/bg2021052401.jpg)
 
 Linux 的 WireGuard 安装工具，并且提供 Web UI 的管理界面。
 
@@ -244,31 +244,31 @@ Linux 的 WireGuard 安装工具，并且提供 Web UI 的管理界面。
 
 3、[PINTR](https://javier.xyz/pintr/)
 
-![](https://cdn.beekka.com/blogimg/asset/202105/bg2021052103.jpg)
+![](https://cdn.beea.com/blogimg/asset/202105/bg2021052103.jpg)
 
 一个网页工具，可以让图片转为线条画。
 
 4、[Grafar](https://thoughtspile.github.io/grafar)
 
-![](https://cdn.beekka.com/blogimg/asset/202105/bg2021050406.jpg)
+![](https://cdn.beea.com/blogimg/asset/202105/bg2021050406.jpg)
 
 一个专门用于数学的前端可视化库。
 
 5、[Mockoon](https://mockoon.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202105/bg2021050401.jpg)
+![](https://cdn.beea.com/blogimg/asset/202105/bg2021050401.jpg)
 
 一个开源软件，提供各种云服务的 API 模拟。
 
 6、[Kakoune](http://kakoune.org/)
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021060204.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021060204.jpg)
 
 一个类似 Vim 的文本编辑器，号称更易用、功能更强。
 
 7、[GitHubPoster](https://github.com/yihong0618/GitHubPoster)
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021060912.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021060912.jpg)
 
 这个工具可以将你在各种网站上的活动记录，生成 GitHub 方块热力图或 skyline 图。（[@yihong0618](https://github.com/ruanyf/weekly/issues/1790) 投稿）
 
@@ -284,25 +284,25 @@ Linux 的 WireGuard 安装工具，并且提供 Web UI 的管理界面。
 
 1、[freesound.org](https://freesound.org/)
 
-![](https://cdn.beekka.com/blogimg/asset/202105/bg2021052409.jpg)
+![](https://cdn.beea.com/blogimg/asset/202105/bg2021052409.jpg)
 
 该网站是一个社区，全世界志愿者上传自己收集的环境音，目前已经有50万种环境音。中国的环境音也有不少，比如[北京的公交车](https://freesound.org/people/nslkc/sounds/100206/)、[火车通过铁路道口](https://freesound.org/people/RTB45/sounds/151807/)。
 
 2、[Can I email](https://www.caniemail.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202105/bg2021051107.jpg)
+![](https://cdn.beea.com/blogimg/asset/202105/bg2021051107.jpg)
 
 这个网站可以查询哪些前端 API 可以用于电子邮件。
 
 3、[Battlesnake](https://play.battlesnake.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021060308.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021060308.jpg)
 
 这是一个多人的编程游戏，每个开发者操纵自己的蛇，与其他人对战。具体方法是，上传自己的 API 实现，该网站自动将其运行为服务，蛇每移动一步，都会查询 API 接口，接受下一步的指令。
 
 4、[如何设置数据科学开发环境](https://whiteboxml.com/blog/the-definitive-data-scientist-environment-setup)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021060307.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021060307.jpg)
 
 这篇文章详细记录如何在自己的计算机上，安装各种软件，设置一个数据科学环境。
 
@@ -314,7 +314,7 @@ Linux 的 WireGuard 安装工具，并且提供 Web UI 的管理界面。
 
 照片中是土耳其的凡湖（Van Lake），地球上最大的碱性湖泊。它也是一个内陆湖泊，所以照片上有清晰的漩涡，表明湖水没有出口。
 
-![](https://cdn.beekka.com/blogimg/asset/202105/bg2021051405.jpg)
+![](https://cdn.beea.com/blogimg/asset/202105/bg2021051405.jpg)
 
 湖的周围是一个巨大的辉石矿，导致湖中充满了碳酸钙的碎屑。这些碎屑是湖水呈现乳白色混浊的主要原因，并且使得湖水的 pH 值达到了10。
 
@@ -328,7 +328,7 @@ Linux 的 WireGuard 安装工具，并且提供 Web UI 的管理界面。
 
 瑞典摄影师埃里克·约翰森（Erik Johansson），经常拍摄超现实照片。下面就是他的最新作品，利用自家阁楼，将照片合成为不可能的空间形状。
 
-![](https://cdn.beekka.com/blogimg/asset/202105/bg2021051810.jpg)
+![](https://cdn.beea.com/blogimg/asset/202105/bg2021051810.jpg)
 
 这张照片很像埃舍尔的作品，明明是不可能的，但是看上去非常自然。
 
@@ -340,7 +340,7 @@ Linux 的 WireGuard 安装工具，并且提供 Web UI 的管理界面。
 
 为了证明应用商店的必要性，苹果向法庭提供了很多内部文件。这些文件从来没有公开过，其中有一封是乔布斯2007年的电子邮件，让外界终于了解了应用商店是怎么诞生的。
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021061001.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021061001.jpg)
 
 iPhone 是2007年1月份宣布的，6月29日正式上市。
 
@@ -354,7 +354,7 @@ iPhone 是2007年1月份宣布的，6月29日正式上市。
 
 当时，苹果负责软件工程的高级副总裁 Bertrand Serlet，不得不硬着头皮，给乔布斯写了[一封 Email](https://twitter.com/TechEmails/status/1400270458608664577)，要求乔布斯能够同意 iPhone 运行外部应用。
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021060701.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021060701.jpg)
 
 他认为，iPhone 应该做四件事。
 
@@ -424,7 +424,7 @@ iPhone 是2007年1月份宣布的，6月29日正式上市。
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 
-![](https://cdn.beekka.com/blogimg/asset/202103/bg2021030402.jpg)
+![](https://cdn.beea.com/blogimg/asset/202103/bg2021030402.jpg)
 
 （完）
 

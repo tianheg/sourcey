@@ -4,7 +4,7 @@
 
 ## 封面图
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022121414.webp)
+![](https://cdn.beea.com/blogimg/asset/202212/bg2022121414.webp)
 
 12月9日下午，“捷龙三号”火箭在船上发射成功。这是中国首次在海面船只上点火“热发射”火箭。（[via](https://www.163.com/dy/article/HO8TMR0N0552MUWE.html)）
 
@@ -12,7 +12,7 @@
 
 现在的青年失业率非常高。[官方统计](http://finance.people.com.cn/n1/2022/0815/c1004-32502731.html)，今年7月份的16岁～24岁青年失业率达到了19.9%。
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022121402.webp)
+![](https://cdn.beea.com/blogimg/asset/202212/bg2022121402.webp)
 
 前景也不乐观。明年的高校毕业生创新高，超过1000万人加入求职大军。而且，市场上还有很多大龄失业者，也在找工作。
 
@@ -22,7 +22,7 @@
 
 我最近读过[一篇文章](https://foundersatwork.posthaven.com/grow-the-puzzle-around-you)，作者是美国最大的创业孵化器 [Y Combinator](https://www.ycombinator.com/) 的创始人之一杰西卡·利文斯顿（Jessica Livingston）。她是四个创始人里面唯一的女性。
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022121004.webp)
+![](https://cdn.beea.com/blogimg/asset/202212/bg2022121004.webp)
 
 她回忆了自己为什么创业，文章的最后一段，她这样说：
 
@@ -56,7 +56,7 @@
 
 欧洲廉价航空公司 Wizz Air 的官网，被发现会检查用户是否安装了广告拦截器。
 
-![](https://cdn.beekka.com/blogimg/asset/202208/bg2022082908.webp)
+![](https://cdn.beea.com/blogimg/asset/202208/bg2022082908.webp)
 
 如果安装了广告拦截器，显示的票价会增加10英镑。
 
@@ -68,13 +68,13 @@
 
 世界杯足球场在设计时，就考虑到降温措施。所有座位的下方都有冷气通风口。
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022121501.webp)
+![](https://cdn.beea.com/blogimg/asset/202212/bg2022121501.webp)
 
 看台下方也有冷风向看台上吹，给观众降温。
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022121502.webp)
+![](https://cdn.beea.com/blogimg/asset/202212/bg2022121502.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022121503.webp)
+![](https://cdn.beea.com/blogimg/asset/202212/bg2022121503.webp)
 
 考虑到全球变暖，以后的露天建筑可能都要有室外降温措施。
 
@@ -82,11 +82,11 @@
 
 国内厂商推出了一块6.7英寸的 E-ink 手机显示器。
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022121202.webp)
+![](https://cdn.beea.com/blogimg/asset/202212/bg2022121202.webp)
 
 手机通过有线或无线连接，投屏到这块屏幕，它再将用户的触摸操作回传给手机。
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022121203.webp)
+![](https://cdn.beea.com/blogimg/asset/202212/bg2022121203.webp)
 
 它等于为手机增加了第二块屏幕，同时又很省电，只要不用来玩游戏和看视频，效果都算不错。
 
@@ -94,51 +94,51 @@
 
 美国新一代隐形轰炸机 B-21 最近高调亮相，发布会当天，美国军方还展示了高清照片（下图）。
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022120909.webp)
+![](https://cdn.beea.com/blogimg/asset/202212/bg2022120909.webp)
 
 照片上，B-21 在夜幕下停在室外停机坪，背景就是星空。一个网友根据星座的位置，准确推断出了这架飞机的停放地点。
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022120910.webp)
+![](https://cdn.beea.com/blogimg/asset/202212/bg2022120910.webp)
 
 他按照照片的拍摄时间，根据照片上星座与地平线的角度，判断地点在北纬34度到35度之间。
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022120911.webp)
+![](https://cdn.beea.com/blogimg/asset/202212/bg2022120911.webp)
 
 美国本土这个纬度的空军基地并不多，其中距离飞机工厂最近的是加州的爱德华兹空军基地。
 
 然后，根据谷歌地图的卫星视图，甚至可以找到照片上的机库，从而精确确定 B-21 的具体停放位置。（下图是卫星拍到的该基地 B-2 轰炸机。）
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022120912.webp)
+![](https://cdn.beea.com/blogimg/asset/202212/bg2022120912.webp)
 
 ## 文章
 
 1、[使用 ChatGPT 写投诉信](https://notesbylex.com/disputing-a-parking-fine-with-chatgpt.html)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022121204.webp)
+![](https://cdn.beea.com/blogimg/asset/202212/bg2022121204.webp)
 
 AI 聊天软件 ChatGPT 发布以后，每天都有关于它的新用途。一个老外发现，它可以用来写投诉信，效果非常好。
 
 2、[苹果设备的通用剪贴板](https://support.apple.com/en-us/HT209460)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022120819.webp)
+![](https://cdn.beea.com/blogimg/asset/202212/bg2022120819.webp)
 
 这是苹果官网的介绍，如何在多个苹果设备之间使用通用剪贴板，即在一个设备复制，在另一个设备粘贴。
 
 3、[你可能不需要 JavaScript](http://youmightnotneedjs.com/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102801.webp)
+![](https://cdn.beea.com/blogimg/asset/202210/bg2022102801.webp)
 
 这个网站总结了一些常见场景，可以用 HTML + CSS 替代 JavaScript。
 
 4、[不带括号执行 JavaScript 函数的七种方法](https://portswigger.net/research/the-seventh-way-to-call-a-javascript-function-without-parentheses)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022121405.webp)
+![](https://cdn.beea.com/blogimg/asset/202212/bg2022121405.webp)
 
 执行 JavaScript 函数，可以不写括号。本文总结了七种方法，上图就是其中一种。
 
 5、[替代 dd 命令](https://eklitzke.org/the-cult-of-dd)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102501.webp)
+![](https://cdn.beea.com/blogimg/asset/202210/bg2022102501.webp)
 
 Linux 的`dd`命令常常用来复制磁盘镜像文件，其实完全可以使用`cat`命令替代它。
 
@@ -152,7 +152,7 @@ traceroute 命令用来查看网络请求经过的每一个路由节点。一个
 
 8、[我搭建了一个家用 NAS 服务器](https://mtlynch.io/budget-nas/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022053001.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022053001.webp)
 
 作者详细记录了，自己如何从零开始，使用 TrueNAS 系统和自购硬件，自制一个四盘位的 NAS 服务器。
 
@@ -160,7 +160,7 @@ traceroute 命令用来查看网络请求经过的每一个路由节点。一个
 
 1、[CasaOS](https://casaos.io/)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022100202.webp)
+![](https://cdn.beea.com/blogimg/asset/202210/bg2022100202.webp)
 
 一个用于家庭内网的监控面板，可以启动各种 Docker 服务。
 
@@ -170,7 +170,7 @@ traceroute 命令用来查看网络请求经过的每一个路由节点。一个
 
 3、[spider-admin-pro](https://github.com/mouday/spider-admin-pro)
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022121504.webp)
+![](https://cdn.beea.com/blogimg/asset/202212/bg2022121504.webp)
 
 爬虫工具 Scrapy 的一个管理面板。（[@mouday](https://github.com/ruanyf/weekly/issues/2790) 投稿）
 
@@ -180,31 +180,31 @@ traceroute 命令用来查看网络请求经过的每一个路由节点。一个
 
 5、[vscode-markdown-github](https://github.com/lzm0x219/vscode-markdown-github)
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022121505.webp)
+![](https://cdn.beea.com/blogimg/asset/202212/bg2022121505.webp)
 
 VSCode 的 Markdown 渲染插件，特点是完全按照 GitHub 的 Markdown 效果进行渲染。（[@lzm0x219](https://github.com/ruanyf/weekly/issues/2804) 投稿）
 
 6、[wCaptcha](https://wcaptcha.pingflash.com)
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022121507.webp)
+![](https://cdn.beea.com/blogimg/asset/202212/bg2022121507.webp)
 
 一个 wCaptcha 工具，使用工作量证明来区分客户端是不是机器人。客户必须进行一个数学计算，大约花费几秒钟的时间，wCaptcha。（[@greensea](https://github.com/ruanyf/weekly/issues/2797) 投稿）
 
 7、[Go Captcha](https://github.com/wenlng/go-captcha)
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022121508.webp)
+![](https://cdn.beea.com/blogimg/asset/202212/bg2022121508.webp)
 
 一个 Go 库，用于生成用户验证测试，无需键盘手动输入，支持 PC 端及移动端，参见 [Demo](http://47.104.180.148:8081/go_captcha_demo/)。（[@wenlng](https://github.com/ruanyf/weekly/issues/2808) 投稿）
 
 8、[SigNoz](https://signoz.io/)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022100203.webp)
+![](https://cdn.beea.com/blogimg/asset/202210/bg2022100203.webp)
 
 一个开源工具，可以监控各种云服务的运行状况和延迟。
 
 9、[分形花园](https://www.fractal.garden/)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022101008.webp)
+![](https://cdn.beea.com/blogimg/asset/202210/bg2022101008.webp)
 
 一个开源程序，可以生成并展示各种美丽的分形图案。
 
@@ -228,13 +228,13 @@ VSCode 的 Markdown 渲染插件，特点是完全按照 GitHub 的 Markdown 效
 
 1、[hello](https://beta.sayhello.so/)
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022120908.webp)
+![](https://cdn.beea.com/blogimg/asset/202212/bg2022120908.webp)
 
 一个专门为程序员开发的搜索引擎，可以用自然语言输入你的问题，比如“PHP 的 hello world 示例”，它会直接给出答案。
 
 2、[Geo Traceroute](https://geotraceroute.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022121506.webp)
+![](https://cdn.beea.com/blogimg/asset/202212/bg2022121506.webp)
 
 用户指定 HTTP 请求的发出地和目的地，这个网站会在谷歌地球上显示路由的跳转路径。（[@meq1986](https://github.com/ruanyf/weekly/issues/2807) 投稿）
 
@@ -244,7 +244,7 @@ VSCode 的 Markdown 渲染插件，特点是完全按照 GitHub 的 Markdown 效
 
 4、[IPDetective](https://ipdetective.io/)
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022091402.webp)
+![](https://cdn.beea.com/blogimg/asset/202209/bg2022091402.webp)
 
 这个服务号称可以检测 IP 地址是否来自机房，或者是否属于机器人。它提供 API 调用和 Web 查询，有免费层。
 
@@ -254,9 +254,9 @@ VSCode 的 Markdown 渲染插件，特点是完全按照 GitHub 的 Markdown 效
 
 推特公司正在网上拍卖旧金山总部的家具，可以看看他们内部的用品。
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022121412.webp)
+![](https://cdn.beea.com/blogimg/asset/202212/bg2022121412.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022121413.webp)
+![](https://cdn.beea.com/blogimg/asset/202212/bg2022121413.webp)
 
 2、[月球合成照](https://www.firstpost.com/tech/science/breathtaking-high-resolution-photo-of-the-moon-leaves-reddit-users-crooning-6103661.html)
 
@@ -264,13 +264,13 @@ VSCode 的 Markdown 渲染插件，特点是完全按照 GitHub 的 Markdown 效
 
 他使用1000张原始素材，合成了一张非常震撼的月球照片。
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022120203.webp)
+![](https://cdn.beea.com/blogimg/asset/202212/bg2022120203.webp)
 
 月球的上半部分沐浴在阳光中，下半部分则是完全黑暗。
 
 他还发布了这张照片的4种放大倍数。
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022120204.webp)
+![](https://cdn.beea.com/blogimg/asset/202212/bg2022120204.webp)
 
 ## 文摘
 
@@ -278,7 +278,7 @@ VSCode 的 Markdown 渲染插件，特点是完全按照 GitHub 的 Markdown 效
 
 游戏 Minecraft 的结尾，制作人员名单滚动完毕，会出现一段结束语。
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022120815.webp)
+![](https://cdn.beea.com/blogimg/asset/202212/bg2022120815.webp)
 
 > 20年后，你后悔的是那些没做过的事情。所以解开缆绳吧，从避风港启航，让信风推着你的帆。探索。梦想。发现。
 > 
@@ -288,7 +288,7 @@ VSCode 的 Markdown 渲染插件，特点是完全按照 GitHub 的 Markdown 效
 
 我的一位朋友在纽约拥有几家披萨餐厅。
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022121509.webp)
+![](https://cdn.beea.com/blogimg/asset/202212/bg2022121509.webp)
 
 他的餐厅从不外送，顾客必须亲自到现场购买披萨。
 
@@ -296,7 +296,7 @@ VSCode 的 Markdown 渲染插件，特点是完全按照 GitHub 的 Markdown 效
 
 他觉得很奇怪，我们根本不外送披萨。他就去网上搜索了一下，原来有一家叫做 Doordash 的外卖平台，把他的餐厅收入其中。他从未与 Doordash 有过任何接触，后者大概是在网上爬到了他的餐厅，擅自将其加入平台。
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022121510.webp)
+![](https://cdn.beea.com/blogimg/asset/202212/bg2022121510.webp)
 
 最难以置信的是，Doordash 列出他的披萨价格，居然比店里低，原价24美元的披萨，网上只要16美元。
 
@@ -376,7 +376,7 @@ VSCode 的 Markdown 渲染插件，特点是完全按照 GitHub 的 Markdown 效
 
 周刊开设了[ FlowUs 专栏](https://ruanyf-weekly.flowus.cn/?code=FLOWUS&promotionChannel=WX_RYF_00)，欢迎大家也去开设自己的专栏和页面。
 
-![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072108.webp)
+![](https://cdn.beea.com/blogimg/asset/202207/bg2022072108.webp)
 
 （完）
 

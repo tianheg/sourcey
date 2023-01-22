@@ -8,7 +8,7 @@
 
 ## 封面图
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022031406.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022031406.webp)
 
 浙江某小学引入了可以放平的课桌椅，解决了学生午睡的问题。程序员也很需要这种椅子呢。（[via](https://mp.weixin.qq.com/s/d8GSJYSnUyMn6aXzQwUU_Q)）
 
@@ -16,17 +16,17 @@
 
 上周，国外网友[发现](https://twitter.com/Scott_Helme/status/1502204103132393472)，一家西方的证书机构拒绝为俄罗斯域名颁发 HTTPS 证书，甚至还吊销已经颁发的有效证书。
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022031105.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022031105.webp)
 
 美国政府并没有发布这个禁令，这家机构自发地加重制裁。如果所有西方的证书机构都这样做，吊销俄罗斯的 HTTPS 证书，那么俄罗斯网站就不能进行加密通信，使用会大大受限，整个在线支付都会瘫痪。
 
 俄罗斯政府预见到了这种风险，就建了一个自已的证书机构，访问网站 [gosuslugi.ru/tls](https://www.gosuslugi.ru/tls)（下图）可以申请俄罗斯政府颁发的 HTTPS 证书。
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022031106.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022031106.webp)
 
 问题是，俄罗斯自己颁发的证书，得不到操作系统和浏览器的信任，会跳出警告，告诉用户这个网站不安全，你不应该访问它。
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022031107.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022031107.webp)
 
 为了消除警告，需要操作系统和浏览器信任俄国政府的证书，按照目前的政治气氛，这是不可能的。好在俄罗斯有自己的 [Yandex 浏览器](https://browser.yandex.com/)，另一种方法是让本国用户在自己的计算机上，手动添加本国证书。
 
@@ -56,7 +56,7 @@
 
 上周的课程是专业课核心能力训练营，本周安排的是**基础课核心能力训练营**。
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022031712.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022031712.webp)
 
 上课时间是下周一到周四，每天晚上19:20-21:30，一共四天的直播课。
 
@@ -79,7 +79,7 @@
 
 感兴趣的同学，可以报名听听看，周刊读者现在只需要**一元报名费**，到课还可领取计算机考试大纲、历年真题资料、政治/英语备考资料等超值资料包。
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022031713.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022031713.webp)
 
 微信扫描上方二维码，了解课程详情并报名。支付报名费后，会弹出助教老师二维码，别忘了添加老师微信，领取课程。
 
@@ -87,17 +87,17 @@
 
 1、[不要舔 Switch 游戏卡](https://www.polygon.com/2017/3/1/14784140/nintendo-switch-cartridges-taste-awful-psa)
 
-![](https://cdn.beekka.com/blogimg/asset/202201/bg2022012603.webp)
+![](https://cdn.beea.com/blogimg/asset/202201/bg2022012603.webp)
 
 曾经有一个外国的游戏主播，在直播中舔了一下 Switch 游戏卡，结果苦得立刻吐出来。媒体就去问任天堂公司，到底怎么回事。
 
-![](https://cdn.beekka.com/blogimg/asset/202202/bg2022020103.webp)
+![](https://cdn.beea.com/blogimg/asset/202202/bg2022020103.webp)
 
 任天堂回复说，为了防止儿童舔或者误食游戏卡，特意在游戏卡上涂了一种苦味剂，叫做苯甲酸地那铵。这种化合物是人类已知的最苦的化合物，但是无毒。
 
 2、[单性生殖](https://news.bioon.com/article/6796589.html)
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022031404.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022031404.webp)
 
 高等哺乳动物的生殖，需要雄性精子和雌性卵子结合，才能产生后代。上海交通大学医学院最近打破了这个定律，实现了单性生殖，只靠一个没有受精的卵子，就孵化出多只健康的小鼠，小鼠可以存活，成年后还能继续繁殖。
 
@@ -105,13 +105,13 @@
 
 3、[最昂贵的机器](https://www.eet-china.com/news/202201210103.html)
 
-![](https://cdn.beekka.com/blogimg/asset/202201/bg2022012104.webp)
+![](https://cdn.beea.com/blogimg/asset/202201/bg2022012104.webp)
 
 荷兰阿斯麦尔公司（ASML）生产的 EUV 光刻机，很可能是世界最昂贵的机器。目前最先进的计算机芯片，都必须使用这种机器才能生产。
 
 英特尔公司订购了最新型号的这种机器，售价是3.4亿美元/台（约22亿人民币），预定2024年交货。
 
-![](https://cdn.beekka.com/blogimg/asset/202201/bg2022012105.webp)
+![](https://cdn.beea.com/blogimg/asset/202201/bg2022012105.webp)
 
 一个大型芯片厂通常需要9台~18台 EUV 光刻机，投资总规模在100亿～200亿美元。
 
@@ -119,21 +119,21 @@ EUV 光刻机全世界目前只有三个用户：台积电、英特尔和三星�
 
 4、[Windows 盘符](https://www.windowslatest.com/2022/01/10/windows-11s-device-manager-finally-uses-os-path-instead-of-a-floppy-disks/)
 
-![](https://cdn.beekka.com/blogimg/asset/202201/bg2022012009.webp)
+![](https://cdn.beea.com/blogimg/asset/202201/bg2022012009.webp)
 
 Windows 10 系统加载硬件驱动的盘符，是从 A 盘开始的（上图）。但是，A 盘早就不用了。历史上，A 盘和 B 盘代表软盘驱动器，已经被淘汰多年了。
 
 从 Windows 11 Build 22000 开始，微软终于意识到这个问题，文件路径改成了从 C 盘开始。
 
-![](https://cdn.beekka.com/blogimg/asset/202201/bg2022012010.webp)
+![](https://cdn.beea.com/blogimg/asset/202201/bg2022012010.webp)
 
 但是，有用户发现，Windows 11 依然保留了软盘驱动器的驱动程序。如果你的电脑安装了软盘驱动器，依然可以用 A 盘指向这个驱动器。
 
-![](https://cdn.beekka.com/blogimg/asset/202201/bg2022012011.webp)
+![](https://cdn.beea.com/blogimg/asset/202201/bg2022012011.webp)
 
 5、[永久夏令时](https://www.reuters.com/world/us/us-senate-approves-bill-that-would-make-daylight-savings-time-permanent-2023-2022-03-15/)
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022031601.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022031601.webp)
 
 美国采用夏令时制度，每年3月的第二个周日，时钟调快一个小时，11月的第一个周日再调回去。可想而知，这样非常麻烦。
 
@@ -147,19 +147,19 @@ Windows 10 系统加载硬件驱动的盘符，是从 A 盘开始的（上图）
 
 1、[中国发电量远超美国，为何 GDP 却低于美国？](https://www.sohu.com/a/477247226_100110525)（中文）
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022030504.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022030504.webp)
 
 发电量一般跟 GDP 成正比，比如中国的发电量是印度的5倍，GDP 也差不多是5倍。美国的发电量大约是中国的55%（2020年数据），为什么 GDP 却高于中国。
 
 2、[我经历的一次电信诈骗](https://mp.weixin.qq.com/s/OrzpD-bVkUpL2mkFqqOCPg)（中文）
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022030807.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022030807.webp)
 
 作者不慎在钓鱼网站输入了银行卡和验证码，卡内资金被划走，本文讲述追讨的全过程。令人感叹的是，他找了许多单位，最后只有 Apple Pay 一家同意退回一部分资金。
 
 3、[俄军的对讲机](https://mp.weixin.qq.com/s/q8NiQ2MJyRLEOhnX5lAk2g)（中文）
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022031203.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022031203.webp)
 
 俄军的一些正规部队没有使用数字通信，而是使用淘宝上出售的模拟对讲机，在民用频率里面对话，导致其他地区的无线电爱好者都能听到。
 
@@ -173,7 +173,7 @@ TypeScript 编译器 tsc 是用 JavaScript 写的，非常慢。作者打算用 
 
 6、[iPhone 的背景音](https://support.apple.com/zh-cn/guide/iphone/iphb2cfa052c/ios)（中文）
 
-![](https://cdn.beekka.com/blogimg/asset/202201/bg2022011820.webp)
+![](https://cdn.beea.com/blogimg/asset/202201/bg2022011820.webp)
 
 iOS 15 原生支持背景音，有海洋、雨声、溪流等几种，这个功能挺有趣。播放媒体时，背景音会自动插入。
 
@@ -183,13 +183,13 @@ mitmproxy 是一个中间人拦截的工具，通常用来监控网络通信。�
 
 8、[Wordle 的正则表达式解法](https://dov.is/notebooks/solving-wordle-regex.html)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202201/bg2022012601.webp)
+![](https://cdn.beea.com/blogimg/asset/202201/bg2022012601.webp)
 
 Wordle 是一个猜词游戏，玩家需要猜中一个五字母的单词。本文别出心裁，使用正则表达式来解，思路很奇特，但是解法特别简单。
 
 9、[Hello World 程序有一个错误](https://blog.sunfishcode.online/bugs-in-hello-world/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022031005.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022031005.webp)
 
 计算机语言都使用 Hello World 作为入门实例，但是作者认为很多语言的实现是不对的，语言底层对 Linux 系统的输出处理是错误的，包括经典的 C 语言。此文有[中译](https://www.yuque.com/jwenjian/reading-list/vgur3k)。（[@jwenjian](https://github.com/ruanyf/weekly/issues/2255) 投稿）
 
@@ -197,63 +197,63 @@ Wordle 是一个猜词游戏，玩家需要猜中一个五字母的单词。本�
 
 1、[jless](https://pauljuliusmartinez.github.io/)
 
-![](https://cdn.beekka.com/blogimg/asset/202202/bg2022021203.webp)
+![](https://cdn.beea.com/blogimg/asset/202202/bg2022021203.webp)
 
 一个查看 JSON 文件的命令行工具，最大特点就是可以折叠子树。
 
 2、[Terrain2STL](https://jthatch.com/Terrain2STL/)
 
-![](https://cdn.beekka.com/blogimg/asset/202202/bg2022021304.webp)
+![](https://cdn.beea.com/blogimg/asset/202202/bg2022021304.webp)
 
 该网站可以获取全球任何一个地点的地形图，生成 STL 文件供下载，你可以用 3D 打印机把地形打印成模型。
 
 3、[SikuliX](https://github.com/RaiMan/SikuliX1)
 
-![](https://cdn.beekka.com/blogimg/asset/202202/bg2022021305.webp)
+![](https://cdn.beea.com/blogimg/asset/202202/bg2022021305.webp)
 
 一个桌面电脑的自动化工具，支持视觉触发。比如，屏幕出现某种图形，这个软件用 OpenCV 库识别以后，发现符合条件，就触发预先写好的自动化流程。
 
 4、[jDeploy](https://www.jdeploy.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202202/bg2022021503.webp)
+![](https://cdn.beea.com/blogimg/asset/202202/bg2022021503.webp)
 
 这个工具可以将 Jar 包转变为可执行文件，发布到 NPM 上面。这样的话，在各个平台的安装和更新，就变得非常容易。
 
 5、[Ronja](http://ronja.twibright.com/about.php)
 
-![](https://cdn.beekka.com/blogimg/asset/202202/bg2022021406.webp)
+![](https://cdn.beea.com/blogimg/asset/202202/bg2022021406.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202202/bg2022021407.webp)
+![](https://cdn.beea.com/blogimg/asset/202202/bg2022021407.webp)
 
 一个已经停止开发的硬件项目，但是非常富有想象力。它不使用网线，而是使用可见光，将两个局域网连起来，最大通信距离为 1.4 公里，通信速度为 10Mbps。
 
 6、 [AirPods 跳绳计数 App](https://apps.apple.com/cn/app/id1485959492)
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022031702.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022031702.webp)
 
 AirPods 新增了三轴加速度运动传感器，基于该传感器可以实现跳绳计数，只需戴着耳机就能知道跳了多少次。（[@haozes](https://github.com/ruanyf/weekly/issues/2263) 投稿）
 
 7、[Regex-Vis](https://github.com/Bowen7/regex-vis)
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022031703.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022031703.webp)
 
 一个开源的正则表达式可视化编辑器。输入一个正则表达式，就能自动生成它的可视化图形，并能在网页上对每个节点进行编辑。（[@Bowen7](https://github.com/ruanyf/weekly/issues/2271) 投稿）
 
 8、[3D 魔方](https://github.com/pengfeiw/rubiks-cube)
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022031701.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022031701.webp)
 
 使用 three.js 的一个小项目，网页实现任意阶的魔方游戏，可以试玩 [Demo](https://pengfeiw.github.io/rubiks-cube/)。（[@pengfeiw](https://github.com/ruanyf/weekly/issues/2262) 投稿）
 
 9、[Process Hacker](https://processhacker.sourceforge.io/)
 
-![](https://cdn.beekka.com/blogimg/asset/202202/bg2022021505.webp)
+![](https://cdn.beea.com/blogimg/asset/202202/bg2022021505.webp)
 
 一款 Windows 软件，用来监控系统信息，能够查看每个进程的详细情况。
 
 10、[Watchtower](https://containrrr.dev/watchtower/)
 
-![](https://cdn.beekka.com/blogimg/asset/202201/bg2022010503.webp)
+![](https://cdn.beea.com/blogimg/asset/202201/bg2022010503.webp)
 
 一个监视 Docker 容器镜像更新的工具。只要发现 DockerHub 或者你自己的仓库里面，Docker 镜像有了更新的版本，它就会用新版本自动替换掉正在运行的版本。
 
@@ -261,31 +261,31 @@ AirPods 新增了三轴加速度运动传感器，基于该传感器可以实现
 
 1、[CSS 小测验](https://css-speedrun.netlify.app/)
 
-![](https://cdn.beekka.com/blogimg/asset/202201/bg2022011802.webp)
+![](https://cdn.beea.com/blogimg/asset/202201/bg2022011802.webp)
 
 这个网站提供一组 CSS 测试题，测试你的水平。用户在线回答，它会给你计时，看你用了多少时间。
 
 2、[DI.FM](https://www.di.fm/)
 
-![](https://cdn.beekka.com/blogimg/asset/202201/bg2022011809.webp)
+![](https://cdn.beea.com/blogimg/asset/202201/bg2022011809.webp)
 
 一个专门收集电子音乐的网站，可以按照频道收听。
 
 3、[电力设施地图](https://openinframap.org/)
 
-![](https://cdn.beekka.com/blogimg/asset/202201/bg2022011810.webp)
+![](https://cdn.beea.com/blogimg/asset/202201/bg2022011810.webp)
 
 该网站的地图显示全世界电力设施的位置，包括电厂、变电站、输电线等等，甚至还有风力发电机。
 
 4、[CRDT 资料库](https://wiki.nikitavoloboev.xyz/distributed-systems/crdt)
 
-![](https://cdn.beekka.com/blogimg/asset/202201/bg2022011817.webp)
+![](https://cdn.beea.com/blogimg/asset/202201/bg2022011817.webp)
 
 CRDT 是一种多人协同算法，常用于多人同时编辑文档时的同步。这个网页收集各种 CRDT 相关资料。
 
 5、[Deno 示例集](https://examples.deno.land/)
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022031704.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022031704.webp)
 
 Deno 官方发布的一组 Deno 用法示例。
 
@@ -299,21 +299,21 @@ Deno 官方发布的一组 Deno 用法示例。
 
 他搭建了世界最高的纸牌屋，高达7米多，用掉了1700多付扑克牌，重达100多公斤。
 
-![](https://cdn.beekka.com/blogimg/asset/202112/bg2021121102.webp)
+![](https://cdn.beea.com/blogimg/asset/202112/bg2021121102.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202112/bg2021121103.webp)
+![](https://cdn.beea.com/blogimg/asset/202112/bg2021121103.webp)
 
 他还搭建了世界最大的纸牌屋，使用超过21.8万张扑克牌完成了澳门威尼斯人酒店的复制品，耗时44天。
 
-![](https://cdn.beekka.com/blogimg/asset/202112/bg2021121104.webp)
+![](https://cdn.beea.com/blogimg/asset/202112/bg2021121104.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202112/bg2021121105.webp)
+![](https://cdn.beea.com/blogimg/asset/202112/bg2021121105.webp)
 
 下面是他的工作照片。
 
-![](https://cdn.beekka.com/blogimg/asset/202112/bg2021121106.webp)
+![](https://cdn.beea.com/blogimg/asset/202112/bg2021121106.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202112/bg2021121107.webp)
+![](https://cdn.beea.com/blogimg/asset/202112/bg2021121107.webp)
 
 2、[NeXTSTEP 系统的图标](http://galgot.free.fr/wordpress/?p=1380)
 
@@ -325,23 +325,23 @@ NeXTSTEP 系统的图标异常精美，而且都是拟物的，放在今天都�
 
 下面是 NeXTSTEP 系统开机后的桌面。
 
-![](https://cdn.beekka.com/blogimg/asset/202112/bg2021121408.webp)
+![](https://cdn.beea.com/blogimg/asset/202112/bg2021121408.webp)
 
 文件管理器的图标。
 
-![](https://cdn.beekka.com/blogimg/asset/202112/bg2021121409.webp)
+![](https://cdn.beea.com/blogimg/asset/202112/bg2021121409.webp)
 
 主目录（家）的图标。
 
-![](https://cdn.beekka.com/blogimg/asset/202112/bg2021121410.webp)
+![](https://cdn.beea.com/blogimg/asset/202112/bg2021121410.webp)
 
 文件夹的图标。
 
-![](https://cdn.beekka.com/blogimg/asset/202112/bg2021121411.webp)
+![](https://cdn.beea.com/blogimg/asset/202112/bg2021121411.webp)
 
 图书馆的图标。
 
-![](https://cdn.beekka.com/blogimg/asset/202112/bg2021121412.webp)
+![](https://cdn.beea.com/blogimg/asset/202112/bg2021121412.webp)
 
 ## 文摘
 
@@ -349,7 +349,7 @@ NeXTSTEP 系统的图标异常精美，而且都是拟物的，放在今天都�
 
 假新闻或者错误的观点，总有人相信的一个原因是，人们听到周围有人在谈论它们。
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022031714.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022031714.webp)
 
 任何想法真正死亡，只有一个办法，就是不再有人谈论它。如果假新闻被不断重复，它就会被记住和相信。
 
@@ -369,7 +369,7 @@ NeXTSTEP 系统的图标异常精美，而且都是拟物的，放在今天都�
 
 Vivaldi 浏览器的 CEO 有一次谈到，为什么他们的产品不支持加密货币。
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022031715.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022031715.webp)
 
 我们开发浏览器的时候，想过创建自己的加密货币，或者加入相关的功能。
 
@@ -429,7 +429,7 @@ NFT 绝对不会为你提供艺术品的版权、使用权或所有权，没有�
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 
-![](https://cdn.beekka.com/blogimg/asset/202103/bg2021030402.jpg)
+![](https://cdn.beea.com/blogimg/asset/202103/bg2021030402.jpg)
 
 （完）
 

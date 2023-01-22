@@ -320,7 +320,7 @@ GraphQL 的本质是程序员想对 JSON 使用 SQL。
 
 微信搜索“__阮一峰的网络日志__”或者扫描二维码，即可订阅。
 
-![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042311.jpg)
+![](http://www.ruanyieng.com/blogimg/asset/2018/bg2018042311.jpg)
 
 （完）
 

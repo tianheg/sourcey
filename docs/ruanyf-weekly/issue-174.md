@@ -8,7 +8,7 @@
 
 ## 封面图
 
-![](https://cdn.beekka.com/blogimg/asset/202109/bg2021090117.jpg)
+![](https://cdn.beea.com/blogimg/asset/202109/bg2021090117.jpg)
 
 浙江普陀山客运中心最近获得2021年度凡尔赛建筑奖。（[via](http://www.zshid.com/?c=building&a=view&id=4499)）
 
@@ -16,7 +16,7 @@
 
 我读过一些篮球报道，里面说 NBA 球队不喜欢“全能型球员”，更喜欢“特长型球员”。
 
-![](https://cdn.beekka.com/blogimg/asset/202109/bg2021090115.jpg)
+![](https://cdn.beea.com/blogimg/asset/202109/bg2021090115.jpg)
 
 所谓“特长型球员”，指的是其他方面可能都不行，但是某一方面特别突出，比如防守特别好、三分特别准，或者篮板很强等等。球队愿意签这样的球员，关键时刻派上场，没准就能立下奇功。
 
@@ -24,7 +24,7 @@
 
 我马上联想到， **软件行业其实也是如此，“全能程序员”的出路，明显不如“特长程序员”。**
 
-![](https://cdn.beekka.com/blogimg/asset/202109/bg2021090116.jpg)
+![](https://cdn.beea.com/blogimg/asset/202109/bg2021090116.jpg)
 
 如果你什么都会干，前端、后端、数据库、服务器管理都能上手，那么哪里缺人手，就会让你顶上去。但是，一旦遇到疑难问题，又指望不了你，因为你不是那个方面的专家，解决不了。
 
@@ -48,7 +48,7 @@
 
 本周有一个理财活动的消息，关于**养老金的规划和咨询**。
 
-![](https://cdn.beekka.com/blogimg/asset/202108/bg2021082915.jpg)
+![](https://cdn.beea.com/blogimg/asset/202108/bg2021082915.jpg)
 
 程序员是年轻人群体，对于养老金，大家关心的不多。有些人还有错误的观念，觉得如果工作的年限足够长，公司就会承担你的养老金。
 
@@ -67,7 +67,7 @@
 
 这个活动来自一直跟我合作的孙明展老师。他从世界500强保险公司离职后，自己创业，开办了[创必承公司](https://www.trussan.com/)，从事理财教育和财务咨询工作。大家搜一下“孙明展”这个公号，上面有多年来很多原创的理财科普文章。
 
-![](https://cdn.beekka.com/blogimg/asset/202108/bg2021082916.jpg)
+![](https://cdn.beea.com/blogimg/asset/202108/bg2021082916.jpg)
 
 这一次他们为了推广业务，考虑到周刊读者大多数是程序员，就办了这个《养老金的规划和咨询》活动，一共有200个免费名额。各种财务问题都可以咨询，专业的理财师会为大家提供养老金规划，以及家庭财务保障定制服务，保证不推销任何产品。
 
@@ -79,7 +79,7 @@
 > - 家庭风险属性评估；
 > - 基于家庭状况和需求的养老金规划和家庭保障规划构建。
 
-![](https://cdn.beekka.com/blogimg/asset/202108/bg2021082914.jpg)
+![](https://cdn.beea.com/blogimg/asset/202108/bg2021082914.jpg)
 
 微信扫码上面二维码，就可以报名。感兴趣的朋友，欢迎参加。
 
@@ -87,7 +87,7 @@
 
 1、[.com 域名涨价](https://domainnamewire.com/2021/02/11/breaking-verisign-announces-com-price-hike-to-8-39/)
 
-![](https://cdn.beekka.com/blogimg/asset/202108/bg2021083111.jpg)
+![](https://cdn.beea.com/blogimg/asset/202108/bg2021083111.jpg)
 
 从今年9月1日开始，.com 域名的注册费从 $7.85 上调到 $8.39，每年增加54美分。
 
@@ -101,65 +101,65 @@
 
 这种设备只要按在脖子上，打开开关，就会向人体释放低压电流，每次持续一毫秒，相当于一次电击。
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021062203.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021062203.jpg)
 
 它可以刺激迷走神经，促进体内肾上腺素的分泌，起到跟咖啡类似的作用。目前，价格是每个 1250美元。
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021062204.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021062204.jpg)
 
 3、[《堡垒之夜》的虚拟纪念活动](https://www.yystv.cn/p/8306)
 
 8月28日是马丁·路德·金发表著名演说《我有一个梦想》的纪念日。今年的这一天，《堡垒之夜》在游戏里面开展了虚拟的纪念活动。
 
-![](https://cdn.beekka.com/blogimg/asset/202109/bg2021090102.jpg)
+![](https://cdn.beea.com/blogimg/asset/202109/bg2021090102.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202109/bg2021090103.jpg)
+![](https://cdn.beea.com/blogimg/asset/202109/bg2021090103.jpg)
 
 玩家会在路边看到演讲的视频，还能进入虚拟纪念馆，详细了解。以后，这种虚拟形式的纪念活动，将会越来越多。
 
-![](https://cdn.beekka.com/blogimg/asset/202109/bg2021090104.jpg)
+![](https://cdn.beea.com/blogimg/asset/202109/bg2021090104.jpg)
 
 4、
 
-![](https://cdn.beekka.com/blogimg/asset/202106/bg2021062701.jpg)
+![](https://cdn.beea.com/blogimg/asset/202106/bg2021062701.jpg)
 
 [米其林公司](https://spectrum.ieee.org/energywise/green-tech/wind/michelin-puffy-sails-cargo-ships-improve-fuel-economy)正在测试，货轮上面安装可以升降的大型风帆，充分利用风能，减少柴油燃料的使用，从而抑制温室气体的排放。
 
 5、[预制小屋](https://www.businessinsider.com/elon-musk-tiny-home-prefab-boxabl-casita-50000-person-waitlist-2021-8#tiny-homes-have-become-an-undeniably-popular-alternative-to-the-classic-family-home-or-apartment-1)
 
-![](https://cdn.beekka.com/blogimg/asset/202108/bg2021081021.jpg)
+![](https://cdn.beea.com/blogimg/asset/202108/bg2021081021.jpg)
 
 美国拉斯维加斯的一家公司，推出了预制小屋，只要 49,500 美元，你就能立刻拥有一间35平米的房子，里面有卧室、浴室、客厅和厨房，已经全部装修好了。
 
 这种小屋在房价昂贵的加州引发了轰动，连马斯克都听说了，他就下单购买了一间，要求运到 SpaceX 公司，他想住在里面试试看。
 
-![](https://cdn.beekka.com/blogimg/asset/202108/bg2021081022.jpg)
+![](https://cdn.beea.com/blogimg/asset/202108/bg2021081022.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202108/bg2021081023.jpg)
+![](https://cdn.beea.com/blogimg/asset/202108/bg2021081023.jpg)
 
 这件事传出去以后，想要购买这种预制屋的人就更多了，目前已经有5万人登记预购了。
 
-![](https://cdn.beekka.com/blogimg/asset/202108/bg2021081024.jpg)
+![](https://cdn.beea.com/blogimg/asset/202108/bg2021081024.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202108/bg2021081025.jpg)
+![](https://cdn.beea.com/blogimg/asset/202108/bg2021081025.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202108/bg2021081027.jpg)
+![](https://cdn.beea.com/blogimg/asset/202108/bg2021081027.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202108/bg2021081026.jpg)
+![](https://cdn.beea.com/blogimg/asset/202108/bg2021081026.jpg)
 
 6、[太阳能飞机](https://uk.news.yahoo.com/us-navy-developing-solar-powered-193723844.html)
 
-![](https://cdn.beekka.com/blogimg/asset/202108/bg2021081009.jpg)
+![](https://cdn.beea.com/blogimg/asset/202108/bg2021081009.jpg)
 
 据报道，美国海军正在委托研发一种太阳能载人飞机，可以连续飞行90天不落地。
 
 这种飞机的机翼长达72米，全部铺满了太阳能板，并且配备了大量电池，存储电能供夜间飞行。2015年，这种飞机的原型曾经环球飞行，创下了117小时52分钟（接近5天）不落地的记录。
 
-![](https://cdn.beekka.com/blogimg/asset/202108/bg2021081010.jpg)
+![](https://cdn.beea.com/blogimg/asset/202108/bg2021081010.jpg)
 
 7、[算法裁员](https://www.gamasutra.com/view/news/386534/Xsolla_lays_off_150_after_an_algorithm_ruled_staff_unengaged_and_unproductive.php)
 
-![](https://cdn.beekka.com/blogimg/asset/202108/bg2021081301.jpg)
+![](https://cdn.beea.com/blogimg/asset/202108/bg2021081301.jpg)
 
 美国的游戏服务公司 Xsolla 的收益今年下降了40%，决定裁掉三分之一的员工，大约150人。这件事的特别之处在于，公司使用软件算法判定，应该裁掉哪些人。
 
@@ -171,27 +171,27 @@ CEO 的内部邮件这样写道：
 
 1、[500米饱和潜水背后的故事](https://finance.sina.com.cn/tech/2021-09-01/doc-iktzqtyt3389836.shtml)（中文）
 
-![](https://cdn.beekka.com/blogimg/asset/202109/bg2021090208.jpg)
+![](https://cdn.beea.com/blogimg/asset/202109/bg2021090208.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202109/bg2021090209.jpg)
+![](https://cdn.beea.com/blogimg/asset/202109/bg2021090209.jpg)
 
 我国最近成功完成500米饱和潜水的陆基实验，9名潜水员进入加压舱，在51个大气压的环境下，停留了176个小时（相当于7天多），为下一步潜水员正式出舱，进入500米的深海做准备。
 
 2、[我怎么加入微软剑桥研究院](https://justyy.com/archives/45631)（中文）
 
-![](https://cdn.beekka.com/blogimg/asset/202109/bg2021090111.jpg)
+![](https://cdn.beea.com/blogimg/asset/202109/bg2021090111.jpg)
 
 作者详细记录从亚马逊跳槽到微软剑桥研究院的过程。（[@DoctorLai](https://github.com/ruanyf/weekly/issues/1914) 投稿）
 
 3、[如何在 Linux 中实时监控日志文件](https://linux.cn/article-13733-1.html)（中文）
 
-![](https://cdn.beekka.com/blogimg/asset/202109/bg2021090114.jpg)
+![](https://cdn.beea.com/blogimg/asset/202109/bg2021090114.jpg)
 
 Linux 系统的日志文件一般位于 /var/log，以 .log 扩展名结尾。本文教你如何在一个窗口里面，同时监控所有日志文件。（[@jerrylususu](https://github.com/ruanyf/weekly/issues/1915) 投稿）
 
 4、[使用 React Hooks 分离组件逻辑](https://felixgerschau.com/react-hooks-separation-of-concerns/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202108/bg2021081020.jpg)
+![](https://cdn.beea.com/blogimg/asset/202108/bg2021081020.jpg)
 
 本文介绍 React Hooks 的正确用法，写得非常好，推荐阅读。它回答了一个基本的问题：Hooks 到底应该用来干什么？
 
@@ -199,7 +199,7 @@ Linux 系统的日志文件一般位于 /var/log，以 .log 扩展名结尾。�
 
 5、[iOS 的四种设计模式](https://www.nngroup.com/articles/4-ios-rules-break/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202108/bg2021081102.jpg)
+![](https://cdn.beea.com/blogimg/asset/202108/bg2021081102.jpg)
 
 本文分析了 iOS 引入的四种新的手机 UI 设计模式，比如将表单的确认按钮，放置在页面顶部的右上角（上图）。
 
@@ -213,7 +213,7 @@ CSS 的 content 属性可以向网页添加文本内容，本文总结了这个�
 
 8、[Firefox 浏览器引入强化版 Cookie 删除](https://blog.mozilla.org/security/2021/08/10/firefox-91-introduces-enhanced-cookie-clearing/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202108/bg2021081103.jpg)
+![](https://cdn.beea.com/blogimg/asset/202108/bg2021081103.jpg)
 
 浏览器提供的 Cookie 删除功能，只能删除页面本身的 Cookie，不能删除由该页面引入的其它网站 Cookie。
 
@@ -221,7 +221,7 @@ Firefox 91 提供了强化版 Cookie 删除，可以将某个网站引入的所�
 
 9、[掌握 Python 网页抓取](https://www.zenrows.com/blog/mastering-web-scraping-in-python-crawling-from-scratch)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202108/bg2021081205.jpg)
+![](https://cdn.beea.com/blogimg/asset/202108/bg2021081205.jpg)
 
 本文详细介绍如何使用 Python 开发一个爬虫，抓取网页，并且考虑到了很多细节问题，比如多线程并行抓取、防止被屏蔽等等。
 
@@ -229,37 +229,37 @@ Firefox 91 提供了强化版 Cookie 删除，可以将某个网站引入的所�
 
 1、[FeedAdd](https://feeddd.org/)
 
-![](https://cdn.beekka.com/blogimg/asset/202109/bg2021090110.jpg)
+![](https://cdn.beea.com/blogimg/asset/202109/bg2021090110.jpg)
 
 一个免费服务，提供微信公众号的 RSS 文件，用户可以自己创建订阅源。([@miscommunication](https://github.com/ruanyf/weekly/issues/1910) 投稿)
 
 2、[PlayCover](https://github.com/Letscoder/PlayCover)
 
-![](https://cdn.beekka.com/blogimg/asset/202108/bg2021081312.jpg)
+![](https://cdn.beea.com/blogimg/asset/202108/bg2021081312.jpg)
 
 在 M1 架构的 Macbook 上运行 iOS app 时，这个开源工具可以让鼠标和键盘支持 iOS app。
 
 3、[Judo](https://www.judo.app/)
 
-![](https://cdn.beekka.com/blogimg/asset/202108/bg2021081413.jpg)
+![](https://cdn.beea.com/blogimg/asset/202108/bg2021081413.jpg)
 
 一个 Mac 应用，用来设计 iOS app 的页面，不用编写代码，用可视化的方式制作页面原型，可以在手机上预览页面效果。
 
 4、[Mac OS Monterey Web](https://github.com/puruvj/macos-web)
 
-![](https://cdn.beekka.com/blogimg/asset/202108/bg2021081422.jpg)
+![](https://cdn.beea.com/blogimg/asset/202108/bg2021081422.jpg)
 
 使用 Svelte 框架在网页上模拟 Mac OS Monterey 的 UI。
 
 5、[OneDev](https://github.com/theonedev/onedev)
 
-![](https://cdn.beekka.com/blogimg/asset/202108/bg2021081601.jpg)
+![](https://cdn.beea.com/blogimg/asset/202108/bg2021081601.jpg)
 
 一个开源的 Git 仓库托管软件，类似于 GitHub / GitLab，可以自己架设，特点是资源消耗小。
 
 6、[BackgroundRemover](https://github.com/nadermx/backgroundremover)
 
-![](https://cdn.beekka.com/blogimg/asset/202108/bg2021081701.jpg)
+![](https://cdn.beea.com/blogimg/asset/202108/bg2021081701.jpg)
 
 一个开源软件，用来移除图像和视频的背景。
 
@@ -279,7 +279,7 @@ Excel 公式的 JS 版，目前有300多个公式。同时，这个库也提供�
 
 1、**Go 语言入门课：零基础到实战**
 
-![](https://cdn.beekka.com/blogimg/asset/202109/bg2021090207.jpg)
+![](https://cdn.beea.com/blogimg/asset/202109/bg2021090207.jpg)
 
 极客时间福利课程，零基础讲解 Go 的语法和用法，最后带读者手写一个计算器小程序。《Kubernetes 生产化之路》作者、Go 资深工程师李建强主讲。
 
@@ -287,27 +287,27 @@ Excel 公式的 JS 版，目前有300多个公式。同时，这个库也提供�
 
 2、[MacOS Bliss](https://basicappleguy.com/basicappleblog/macosbliss)
 
-![](https://cdn.beekka.com/blogimg/asset/202108/bg2021081019.jpg)
+![](https://cdn.beea.com/blogimg/asset/202108/bg2021081019.jpg)
 
 作者参照 Windows XP 著名的草地壁纸，为 MacOS 和 iOS 也创建了多张类似风格的壁纸，可以免费下载，挺好看的。
 
 3、[如何在 Linux 上玩任天堂 Switch 模拟器](https://boilingsteam.com/emulating-nintendo-switch-games-on-linux-2/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202108/bg2021081011.jpg)
+![](https://cdn.beea.com/blogimg/asset/202108/bg2021081011.jpg)
 
 这篇文章是详细的操作指南，介绍在 Linux 桌面电脑上面，怎样通过模拟器玩 Switch 游戏。
 
 4、[Minecraft 的岩石和矿物](https://www.mindat.org/a/minecraft)
 
-![](https://cdn.beekka.com/blogimg/asset/202108/bg2021081014.jpg)
+![](https://cdn.beea.com/blogimg/asset/202108/bg2021081014.jpg)
 
 Minecraft 游戏出现过各种各样的石头和矿物（上图），这个网站列出游戏里的石头在真实世界的对应物（下图）。
 
-![](https://cdn.beekka.com/blogimg/asset/202108/bg2021081016.jpg)
+![](https://cdn.beea.com/blogimg/asset/202108/bg2021081016.jpg)
 
 5、[AWS 的简单英语介绍](https://expeditedsecurity.com/aws-in-plain-english/)
 
-![](https://cdn.beekka.com/blogimg/asset/202107/bg2021072703.jpg)
+![](https://cdn.beea.com/blogimg/asset/202107/bg2021072703.jpg)
 
 AWS（亚马逊网络服务）现在包含50多种产品，官方的介绍有时很难懂，搞不清楚每种产品到底干什么。这个网页使用简单的英语，介绍每一种服务。
 
@@ -319,15 +319,15 @@ AWS（亚马逊网络服务）现在包含50多种产品，官方的介绍有时
 
 于是，他发明了一种键盘裤子，键盘做在裤子上面，随时随地可以用。
 
-![](https://cdn.beekka.com/blogimg/asset/202107/bg2021071003.jpg)
+![](https://cdn.beea.com/blogimg/asset/202107/bg2021071003.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202107/bg2021071004.jpg)
+![](https://cdn.beea.com/blogimg/asset/202107/bg2021071004.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202107/bg2021071005.jpg)
+![](https://cdn.beea.com/blogimg/asset/202107/bg2021071005.jpg)
 
 2、[河狸咬树干](https://twistedsifter.com/videos/beaver-chewing-through-tree-close-up/)
 
-![](https://cdn.beekka.com/blogimg/asset/202107/bg2021070908.jpg)
+![](https://cdn.beea.com/blogimg/asset/202107/bg2021070908.jpg)
 
 河狸是中国一级保护动物，有着强壮的门牙，可以咬断树干，再将树干拖回家做巢。下面就是一段河狸咬树干的[视频](https://v.qq.com/x/page/q3258r13usz.html)，看着非常纾压。
 
@@ -341,7 +341,7 @@ AWS（亚马逊网络服务）现在包含50多种产品，官方的介绍有时
 
 1991年8月25日，芬兰大学生 Linus 在网上宣布，他写了一个操作系统的内核，欢迎大家提意见。
 
-![](https://cdn.beekka.com/blogimg/asset/202108/bg2021083114.jpg)
+![](https://cdn.beea.com/blogimg/asset/202108/bg2021083114.jpg)
 
 30年过去了，Linus 依然在为这个项目忙碌。他按照预定计划，在8月29日发布了内核的5.14版。并且写了下面的发布说明。
 
@@ -355,7 +355,7 @@ AWS（亚马逊网络服务）现在包含50多种产品，官方的介绍有时
 
 斯科特·迈耶斯（Scott Meyers）是著名的 C++ 语言专家，写过《Effective C++》系列著作。
 
-![](https://cdn.beekka.com/blogimg/asset/202109/bg2021090201.jpg)
+![](https://cdn.beea.com/blogimg/asset/202109/bg2021090201.jpg)
 
 - 1992年，《Effective C++：50 种改进程序和设计的具体方法》
 - 1995年，《More Effective C++：35 种改进程序和设计的新方法》
@@ -366,7 +366,7 @@ AWS（亚马逊网络服务）现在包含50多种产品，官方的介绍有时
 - 2010年，《嵌入式环境中的 Effective C++》
 - 2014年《Effective 现代 C++：42 种改进 C++11 和 C++14 使用的具体方法》
 
-![](https://cdn.beekka.com/blogimg/asset/202109/bg2021090206.jpg)
+![](https://cdn.beea.com/blogimg/asset/202109/bg2021090206.jpg)
 
 2009年3月，他获得 Dr. Dobb's 杰出贡献奖。
 
@@ -428,6 +428,6 @@ C++ 是一种庞大而复杂的语言，有各种复杂和微妙的功能，我�
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 
-![](https://cdn.beekka.com/blogimg/asset/202103/bg2021030402.jpg)
+![](https://cdn.beea.com/blogimg/asset/202103/bg2021030402.jpg)
 
 （完）

@@ -390,7 +390,7 @@ Zoom 之类的远程会议软件已经成为标准，疫情结束后，很多商
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 
-![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042311.jpg)
+![](http://www.ruanyieng.com/blogimg/asset/2018/bg2018042311.jpg)
 
 （完）
 

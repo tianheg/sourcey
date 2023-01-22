@@ -409,6 +409,6 @@ ClojureScript 是 Clojure 编程语言的一种方言，可编译为JavaScript�
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 
-![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042311.jpg)
+![](http://www.ruanyieng.com/blogimg/asset/2018/bg2018042311.jpg)
 
 （完）

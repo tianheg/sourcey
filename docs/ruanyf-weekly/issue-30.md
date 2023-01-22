@@ -358,6 +358,6 @@ JavaScript 的优点是可以写任何东西，缺点是你真的会用它去写
 
 微信搜索“__阮一峰的网络日志__”或者扫描二维码，即可订阅。
 
-![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042311.jpg)
+![](http://www.ruanyieng.com/blogimg/asset/2018/bg2018042311.jpg)
 
 （完）

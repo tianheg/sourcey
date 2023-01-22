@@ -444,6 +444,6 @@ OpenAI 公司又推出了一个神奇的软件 DALL-E，可以根据文字描述
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 
-![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042311.jpg)
+![](http://www.ruanyieng.com/blogimg/asset/2018/bg2018042311.jpg)
 
 （完）

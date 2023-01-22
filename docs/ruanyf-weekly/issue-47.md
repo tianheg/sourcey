@@ -354,7 +354,7 @@ Ruby 语言的开源入门电子书。
 
 微信搜索“**阮一峰的网络日志**”或者扫描二维码，即可订阅。
 
-![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042311.jpg)
+![](http://www.ruanyieng.com/blogimg/asset/2018/bg2018042311.jpg)
 
 （完）
 

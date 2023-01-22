@@ -4,7 +4,7 @@
 
 ## 封面图
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011201.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023011201.webp)
 
 湖北荆州某高校，在跑道旁安装了跑步测速屏，可以显示跑步者的实时速度和排名。（[via](https://new.qq.com/rain/a/20230109A04DT800)）
 
@@ -14,7 +14,7 @@
 
 他的分析很有见地，分享给大家。
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010709.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023010709.webp)
 
 他先预测未来社会将怎么变化，然后再根据社会的变化，重新设计我们的城市。
 
@@ -26,7 +26,7 @@
 
 <u>另一方面，退休人员也会大量增加。</u>本来因为人口老龄化，老年人占人口比重就在上升。再加上，企业的新陈代谢加快，生存周期变短，很多人没到退休年龄，就丧失了就业竞争力，自愿或被迫提前退休。
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011008.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023011008.webp)
 
 现在，请大家想一想，学生和退休人员有什么共同特征？
 
@@ -52,11 +52,11 @@
 
 女士化妆需要手绘眉毛，欧莱雅公司发布了一款眉毛打印机，可以往脸上打印眉毛。
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011107.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023011107.webp)
 
 打印之前，你需要下载一个手机 App，在 App 里面使用摄像头自拍。
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011108.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023011108.webp)
 
 软件会自动设计最适合你的眉毛，然后通过手持打印机，打印在你脸上。
 
@@ -64,21 +64,21 @@
 
 一家法国公司推出了尿液智能分析器，只要放在马桶里，就能分析尿液的各种指标，用户使用手机读取。
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011109.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023011109.webp)
 
 它里面有化学药剂包和电池，需要定期更换，每次更换大概可以测试100次左右。
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011110.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023011110.webp)
 
 3、[变色汽车](https://mashable.com/article/bmw-i-vision-dee-color-changing-ces-2023)
 
 宝马展出了一款车身可以改变颜色的汽车。
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011111.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023011111.webp)
 
 它的车身由240块彩色电子墨水屏构成，可以展示32种颜色，而且墨水屏改变颜色后，就几乎不耗电。
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011112.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023011112.webp)
 
 改变车身颜色，并不只是为了美观，还可以节能。冬天使用深色车身，夏天使用浅色车身，可以有效减少车内空调的耗能。
 
@@ -88,11 +88,11 @@
 
 高通公司宣布，明年发布的骁龙8 Gen2 芯片会内置卫星通信功能。
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010614.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023010614.webp)
 
 去年，华为和苹果都先后发布了卫星通信手机，现在高通也加入了。可以想象，这会成为今后手机的标配。
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010615.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023010615.webp)
 
 手机的卫星带宽很小的，所以只能发短信，不能通话。而且，卫星的通信费很贵，因此只适合在无地面信号的地区紧急时使用。
 
@@ -100,15 +100,15 @@
 
 2020年7月22日，埃塞俄比亚航空公司一架波音777货机，在上海浦东机场装完货物、准备起飞时，突然着火。
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011213.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023011213.webp)
 
 整架飞机和货物全部烧毁，损失高达23亿人民币。
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011214.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023011214.webp)
 
 事故调查报告最近公布，认定是机上的二氧化氯消毒片剂在高温、潮湿环境中自燃引发火灾。
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011215.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023011215.webp)
 
 二氧化氯化学性质不稳定，遇热容易分解，引发自燃和爆炸。托运人瞒报货物中的消毒剂，导致这么廉价的东西造成了巨大损失。
 
@@ -116,7 +116,7 @@
 
 1、[手机快充大一统](https://zhidx.com/p/349745.html)（中文）
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011207.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023011207.webp)
 
 国内最近发布了首个融合快充协议标准 UFCS，本文介绍统一手机充电协议的一些情况。
 
@@ -126,25 +126,25 @@ CSS 新增的`:has()`支持很多表单状态，完全可以不使用 JS 脚本�
 
 3、[树状视图的 CSS 实现](https://iamkate.com/code/tree-views/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112002.webp)
+![](https://cdn.beea.com/blogimg/asset/202211/bg2022112002.webp)
 
 本文介绍如何用纯 CSS 实现树状折叠视图。
 
 4、[Flexbox 交互式指南](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112405.webp)
+![](https://cdn.beea.com/blogimg/asset/202211/bg2022112405.webp)
 
 本文通过多个网页交互式演示，详细讲解 CSS Flex 弹性布局。
 
 5、[如何用自定义钩子重构 React 组件](https://codescene.com/engineering-blog/refactoring-components-in-react-with-custom-hooks)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112306.webp)
+![](https://cdn.beea.com/blogimg/asset/202211/bg2022112306.webp)
 
 本文举了一个简单的例子，介绍 React 钩子应该怎么用在组件里面。
 
 6、[登录失败提示信息的漏洞](https://kevin.burke.dev/kevin/invalid-username-or-password-useless/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112406.webp)
+![](https://cdn.beea.com/blogimg/asset/202211/bg2022112406.webp)
 
 登录失败时，网站通常提示“用户名或密码错误”。作者认为，有一个办法可以简单地确定，到底是用户名不存在，还是密码出错。
 
@@ -160,25 +160,25 @@ Windows 系统怎么知道，当前计算机能不能访问互联网。
 
 1、[FFmpeg.guide](https://ffmpeg.guide/)
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022110314.webp)
+![](https://cdn.beea.com/blogimg/asset/202211/bg2022110314.webp)
 
 一个图形界面，用户拖曳生成线框，表示视频处理的各种命令节点。这个软件会根据节点线框，生成对应的 FFmpeg 命令。
 
 2、[图像创建者](https://cn.bing.com/create)
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011007.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023011007.webp)
 
 微软的搜索引擎 Bing，正式引入 AI 作图引擎 DALL-E2，根据搜索词生成图片。目前，网页已经可以访问了，但是产品还没有对外开放。
 
 3、[中国亲戚关系计算器](https://passer-by.com/relationship/)
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011203.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023011203.webp)
 
 一个[开源](https://github.com/mumuy/relationship)的 Web 应用，用来查询亲戚称呼，已收录80054条亲戚关系。（[@mumuy](https://github.com/ruanyf/weekly/issues/2842) 投稿）
 
 4、[Device Frames](https://deviceframes.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202208/bg2022082409.webp)
+![](https://cdn.beea.com/blogimg/asset/202208/bg2022082409.webp)
 
 这个网站可以制作智能手机、平板电脑、笔记本的 3D 展示图片。
 
@@ -192,25 +192,25 @@ Windows 系统怎么知道，当前计算机能不能访问互联网。
 
 7、[Desklamp](https://desklamp.io/)
 
-![](https://cdn.beekka.com/blogimg/asset/202207/bg2022070405.webp)
+![](https://cdn.beea.com/blogimg/asset/202207/bg2022070405.webp)
 
 一个 PDF 文件的笔记工具，可以用来管理 PDF 文件，同时保存笔记。现在只有 Web 版，据说很快会发布桌面版。
 
 8、[BlurHash](https://blurha.sh/)
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022110510.webp)
+![](https://cdn.beea.com/blogimg/asset/202211/bg2022110510.webp)
 
 这个工具可以提取图片的颜色分布，生成一个哈希字符串。网页就可以用这个哈希，生成图片的模糊缩略图。
 
 9、[Jc](https://kellyjonbrazil.github.io/jc/)
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022110512.webp)
+![](https://cdn.beea.com/blogimg/asset/202211/bg2022110512.webp)
 
 一个命令行工具，可以将常见命令（比如 top、ls 等）的输出转成 JSON、YAML 或 Dict 结构，便于提取信息。
 
 10、[QualityScaler](https://github.com/Djdefrag/QualityScaler)
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022110602.webp)
+![](https://cdn.beea.com/blogimg/asset/202211/bg2022110602.webp)
 
 一个 Windows 桌面软件，可以提升图片和视频的分辨率，让它们变得更清晰。
 
@@ -218,25 +218,25 @@ Windows 系统怎么知道，当前计算机能不能访问互联网。
 
 1、[学习 CSS](https://web.dev/learn/css/)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102202.webp)
+![](https://cdn.beea.com/blogimg/asset/202210/bg2022102202.webp)
 
 Chrome 团队制作的 CSS 教程。
 
 2、[Iconbolt](https://www.iconbolt.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202202/bg2022021103.webp)
+![](https://cdn.beea.com/blogimg/asset/202202/bg2022021103.webp)
 
 一个 SVG 图标仓库，收集了6万多个图标，都可以免费使用。
 
 3、[HamZone 社区](https://bbs.hamzone.cn/)
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011202.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023011202.webp)
 
 中国业余无线电爱好者交流社区。（[@Eminlin](https://github.com/ruanyf/weekly/issues/2844) 投稿）
 
 4、[机器学习概念的可视化解释](https://mlu-explain.github.io/)
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022052501.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022052501.webp)
 
 这个网站使用一系列短文，配上大量插图，解释机器学习的一些概念。
 
@@ -248,21 +248,21 @@ Chrome 团队制作的 CSS 教程。
 
 这叫做下沉式暖房，屋顶依然是玻璃的，这样可以保证阳光的同时，有更好的保暖性能。
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010702.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023010702.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010703.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023010703.webp)
 
 它有两种设计。一种是完全在地下的，地面只留一个屋顶。
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010705.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023010705.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010704.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023010704.webp)
 
 另一种是建在斜坡上，屋顶是一个坡面。
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010706.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023010706.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010707.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023010707.webp)
 
 ## 文摘
 
@@ -276,7 +276,7 @@ Chrome 团队制作的 CSS 教程。
 
 其中，最麻烦的一件事，就是给客户发送续约提醒信函。每个月都有很多客户的合约到期，我们必须在到期前，给他们发送提醒信函和保单，以便客户续费或联系我们。
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011204.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023011204.webp)
 
 这些信函和保单有电子模板，但是，我们需要在文档编辑软件里面，打开这个模板，手工输入每个客户的个人信息和保单编号。校对以后，再把它们打印出来，并在信封写上地址，放入文件，最后寄出。
 
@@ -372,7 +372,7 @@ Chrome 团队制作的 CSS 教程。
 
 周刊开设了[ FlowUs 专栏](https://ruanyf-weekly.flowus.cn/?code=FLOWUS&promotionChannel=WX_RYF_00)，欢迎大家也去开设自己的专栏和页面。
 
-![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072108.webp)
+![](https://cdn.beea.com/blogimg/asset/202207/bg2022072108.webp)
 
 （完）
 

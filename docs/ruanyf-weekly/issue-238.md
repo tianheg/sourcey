@@ -4,7 +4,7 @@
 
 ## 封面图
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010507.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023010507.webp)
 
 去年年底，一具巨大的霸王龙化石骨架，紧急取消拍卖。因为有人投诉，它的头骨跟现存的一个标本实在太像了，高度怀疑是伪造的。为了巨额的金钱，这么大型的化石居然都能伪造。（[via](https://www.toutiao.com/article/7168670394131022344/?wid=1672904731426)）
 
@@ -12,15 +12,15 @@
 
 最近，我读了一本算法书，作者是美国科普作家[布赖恩·克里斯蒂安](https://brianchristian.org/)（Brian Christian）。
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010202.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023010202.webp)
 
 英文书名叫做《Algorithms to Live By》（生活中的算法）。
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010203.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023010203.webp)
 
 我读的是中译本，书名译成《算法之美》（中信出版社，2018）。
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010204.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023010204.webp)
 
 说实话，这个书名有点误导。**我以为讲的是编程算法，其实是生活中的数学知识。**
 
@@ -30,7 +30,7 @@
 
 日常生活有很多“寻找-决策过程”，如果考察所有选项，要花费很长时间，可能还会错失机会，后面遇到的未必有前面的好。能否确定一个时间点，到了某个阶段就停下来，不再寻找了，这时找到合适候选人的概率最大？
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010205.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023010205.webp)
 
 这在数学上称为[“秘书问题”](https://en.wikipedia.org/wiki/Secretary_problem)。
 
@@ -44,7 +44,7 @@
 
 数学家对这个问题，已经有了充分的讨论。经过计算，成功概率最大的方法，叫做[“1/e 法则”](https://en.wikipedia.org/wiki/Secretary_problem#1/e-law_of_best_choice)。e 是自然对数的底数，约等于2.718，那么 1/e 就约等于37%，所以它又称“37%法则”。
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010206.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023010206.webp)
 
 **“37%法则”的意思就是，寻找阶段进行到37%就要停止。** 100个应聘者，先面试前37个，此后的面试只要遇到一个更优秀的，就立刻录取，不再继续面试了。换句话说，前37个面试者无论多么优秀，都不会录取，他们只是用来确定录取的标准。
 
@@ -70,7 +70,7 @@
 
 越来越多的视频是 AI 工具伪造的（deepfake），效果十分逼真，用户根本分辨不出。
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022111903.webp)
+![](https://cdn.beea.com/blogimg/asset/202211/bg2022111903.webp)
 
 英特尔公司宣布了一个叫做 FakeCatcher 的软件，号称可以查出某个视频是否为深度伪造，准确度高达96%。
 
@@ -80,7 +80,7 @@
 
 浙江大学发明了一种无人机急救系统。
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010406.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023010406.webp)
 
 病人突然遭遇外伤或者心脏疾病，身边找不到其他人，这时无人机就可以紧急向病人空投药物。
 
@@ -92,7 +92,7 @@
 
 微软公司的 Office365 团队，统计了各家公司远程网上办公的数据，发现在家办公每天有三个高峰时段。
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010407.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023010407.webp)
 
 第一个高峰是上午10点到11点，第二个是下午2点到3点，第三个是晚上10点到11点。这三段时间的办公活动最频繁。
 
@@ -102,31 +102,31 @@
 
 两家瑞士公司发明了一个快速充电系统，充电电压为 1250V，电流高达3000安培，可以大大加快汽车充电时间。
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010508.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023010508.webp)
 
 这么大的电流，电线必须做得很粗，才不会过热。它的充电头的尺寸之大，超乎你的想象。
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010509.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023010509.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010510.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023010510.webp)
 
 里面有四股铜线，每个都是碗口大小。
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010511.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023010511.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010512.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023010512.webp)
 
 ## 文章
 
 1、[如何修建抗震的房屋？](https://mp.weixin.qq.com/s/JHJ-GTQqbK9ZmxMAtlNszA)（中文）
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010504.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023010504.webp)
 
 这是一个建筑学博士的科普演讲，大楼应该怎么建造，才不会在地震中倒塌？
 
 2、[为什么 calloc() 存在？](https://vorpus.org/blog/why-does-calloc-exist/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022111408.webp)
+![](https://cdn.beea.com/blogimg/asset/202211/bg2022111408.webp)
 
 C 语言分配内存空间有两个方法：malloc() 和 calloc()。一般认为，前者完全可以替代后者，那么为什么要设计后者？
 
@@ -134,21 +134,21 @@ C 语言分配内存空间有两个方法：malloc() 和 calloc()。一般认为
 
 1996年，苹果公司频临破产，决定收购一个外部系统，作为自己的操作系统。当时有两个候选者：BeOS 和 NeXT，都是苹果前员工创建的。
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022111603.webp)
+![](https://cdn.beea.com/blogimg/asset/202211/bg2022111603.webp)
 
 最终苹果选择了 NeXT，但是 BeOS 也没完全死，演变成了现在的开源系统 Haiku，还在开发中。
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022111604.webp)
+![](https://cdn.beea.com/blogimg/asset/202211/bg2022111604.webp)
 
 4、[为什么 Git 如此难用？](https://www.highflux.io/blog/what-makes-git-hard-to-use)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022111723.webp)
+![](https://cdn.beea.com/blogimg/asset/202211/bg2022111723.webp)
 
 本文分析 Git 复杂性的几个来源。
 
 5、[Pandas 加载数据的方法和技巧](https://dataground.io/2022/08/02/loading-data-into-pandas-5-tips-and-tricks-you-may-or-may-not-know/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202208/bg2022080501.webp)
+![](https://cdn.beea.com/blogimg/asset/202208/bg2022080501.webp)
 
 Pandas 是 Python 语言的数据分析工具库，本文介绍这个库加载不同数据源的方法和技巧。
 
@@ -164,7 +164,7 @@ Pandas 是 Python 语言的数据分析工具库，本文介绍这个库加载�
 
 8、[Node.js 如何查看内存泄漏](https://blog.appsignal.com/2022/09/28/minimize-heap-allocations-in-nodejs.html)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022092902.webp)
+![](https://cdn.beea.com/blogimg/asset/202209/bg2022092902.webp)
 
 这篇长文有一个部分，详细介绍了 Node.js 查看内存占用的几种方法。
 
@@ -176,25 +176,25 @@ Pandas 是 Python 语言的数据分析工具库，本文介绍这个库加载�
 
 2、[zlib 搜索器](https://github.com/zlib-searcher/zlib-searcher)
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022123006.webp)
+![](https://cdn.beea.com/blogimg/asset/202212/bg2022123006.webp)
 
 一个 z-library 的搜索器，需要本地起服务，然后你就能在本地搜索 z-library 了，参考 [Demo1](https://zlib.knat.network/)、[Demo2](https://zlib.freedit.eu/)。
 
 3、[Auth.js](https://authjs.dev/)
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022123101.webp)
+![](https://cdn.beea.com/blogimg/asset/202212/bg2022123101.webp)
 
 这原来是 Next.js 的授权模块，最近改成了通用模块。它用来提供 Web 的登录服务，内置了很多身份验证服务。
 
 4、[Mind FM](https://apps.apple.com/cn/app/mind-fm/id6443691710)
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010503.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023010503.webp)
 
 一个背景音乐 iOS App，集成了 LoFi、脑波、古典乐、白噪音等。（[@ddiiiik](https://github.com/ruanyf/weekly/issues/2834) 投稿）
 
 5、[sapic](https://github.com/sapicd/sapic)
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010502.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023010502.webp)
 
 一个开源图床，需要自己架设，支持将图片存储到本地、又拍云、七牛云、阿里云、腾讯云、GitHub、Gitee(码云)、S3等。（[@staugur](https://github.com/ruanyf/weekly/issues/2833) 投稿）
 
@@ -210,19 +210,19 @@ JSON 是网络数据的常用格式，但它是机读格式，不容易编辑和
 
 1、[JSON Visualization](https://altearius.github.io/tools/json/index.html)
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112905.webp)
+![](https://cdn.beea.com/blogimg/asset/202211/bg2022112905.webp)
 
 这个工具可以把 JSON 数据渲染成表格。
 
 2、[JSON Viewer](https://jsonhero.io/)
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112906.webp)
+![](https://cdn.beea.com/blogimg/asset/202211/bg2022112906.webp)
 
 这个工具可以分层展示 JSON 数据。
 
 3、[jq play](https://jqplay.org/)
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112603.webp)
+![](https://cdn.beea.com/blogimg/asset/202211/bg2022112603.webp)
 
 jq 是 JSON 数据的查询工具，类似于 JSON 的 SQL 查询。
 
@@ -230,7 +230,7 @@ jq 是 JSON 数据的查询工具，类似于 JSON 的 SQL 查询。
 
 4、[JsonT.run](https://www.jsont.run/)
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010501.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023010501.webp)
 
 一个国产的 JSON 在线编辑查看工具。（[@bimohxh](https://github.com/ruanyf/weekly/issues/2832) 投稿）
 
@@ -238,7 +238,7 @@ jq 是 JSON 数据的查询工具，类似于 JSON 的 SQL 查询。
 
 1、[Systemd 示例教程](https://systemd-by-example.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202201/bg2022012604.webp)
+![](https://cdn.beea.com/blogimg/asset/202201/bg2022012604.webp)
 
 这个网站通过许多例子，教你如何写 Systemd 配置文件，还可以在线运行你自己的 Systemd 配置文件，查看效果。
 
@@ -250,13 +250,13 @@ jq 是 JSON 数据的查询工具，类似于 JSON 的 SQL 查询。
 
 3、[微软墓地](https://killedbymicrosoft.info/)
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022032903.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022032903.webp)
 
 这个网站收集了所有被微软公司关闭的自家产品。
 
 4、[MacOS 的 zsh 教程](https://scriptingosx.com/2019/06/moving-to-zsh/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072303.webp)
+![](https://cdn.beea.com/blogimg/asset/202207/bg2022072303.webp)
 
 zsh 已经替代 Bash，成为 Mac 电脑的默认 Shell。这是针对 MacOS 的 zsh 系列教程，一共8个部分。
 
@@ -266,27 +266,27 @@ zsh 已经替代 Bash，成为 Mac 电脑的默认 Shell。这是针对 MacOS �
 
 2012年，伦敦市中心完工了一座大楼。
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010304.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023010304.webp)
 
 这座玻璃幕墙大楼，顶部比底部宽，并且表面有一些向内收缩。
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010305.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023010305.webp)
 
 当它完工以后，人们才发现，晴天出太阳时，这栋楼会变成一个凹面镜。
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010306.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023010306.webp)
 
 它会聚焦阳光，反射在楼下的大街上。
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010307.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023010307.webp)
 
 停在焦点区域的汽车，塑料部件会因为高温而融化。
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010308.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023010308.webp)
 
 经过测量，焦点的温度可以达到72度。有人甚至拿出鸡蛋，演示焦点处可以煎鸡蛋。
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010309.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023010309.webp)
 
 最后，大楼的开发商赔偿了所有损失，在焦点处安装了永久遮阳伞。
 
@@ -296,11 +296,11 @@ zsh 已经替代 Bash，成为 Mac 电脑的默认 Shell。这是针对 MacOS �
 
 以下内容摘自《崩溃：社会如何选择成败兴旺》（上海译文出版社，2008年），作者是美国生物学家贾雷德·戴蒙德，他也是名著《枪炮、病菌与钢铁》的作者。
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010513.webp)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023010513.webp)
 
 一个狭窄的河谷建造了一座巨型水坝，有人对下游居民进行问卷调查，询问他们是否担心水坝倒塌。
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010514.jpg)
+![](https://cdn.beea.com/blogimg/asset/202301/bg2023010514.jpg)
 
 让人意外的是，住在水坝下游几英里的居民竟然是最担心水坝倒塌的人群，而住在水坝正下方的居民却一点都不担心。
 
@@ -378,7 +378,7 @@ zsh 已经替代 Bash，成为 Mac 电脑的默认 Shell。这是针对 MacOS �
 
 周刊开设了[ FlowUs 专栏](https://ruanyf-weekly.flowus.cn/?code=FLOWUS&promotionChannel=WX_RYF_00)，欢迎大家也去开设自己的专栏和页面。
 
-![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072108.webp)
+![](https://cdn.beea.com/blogimg/asset/202207/bg2022072108.webp)
 
 （完）
 

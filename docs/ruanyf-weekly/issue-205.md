@@ -8,7 +8,7 @@
 
 ## 封面图
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050410.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022050410.webp)
 
 美国毅力号火星漫游车拍到的“火星日食”照片，只见火卫一掠过太阳表面。火卫一比月球小157倍，因此日食比地球上短得多，只持续了40多秒。（[via](https://kottke.org/22/04/nasas-perseverance-rover-sees-solar-eclipse-on-mars)）
 
@@ -16,17 +16,17 @@
 
 疫情前，有人[问](https://news.iresearch.cn/content/201901/281567.shtml)马云，怎么看待互联网风口。马云说，风口来了猪都会飞，但风过去后摔死的一定都是猪。
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050101.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022050101.webp)
 
 过去一年，堪称互联网行业的寒冬。国内大厂普遍都在收缩业务，裁减人员。股票也是大跌，就连腾讯、阿里的股价也没有逃脱腰斩。
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050102.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022050102.webp)
 
 很多人在问，互联网风口过去了吗？猪要摔死了吗？我谈谈自己的想法。
 
 首先要看到，这不是中国独有的现象，国外互联网公司日子也不好过。流媒体平台 [Netflix](https://www.visualcapitalist.com/why-investors-tuned-out-netflix/) 和[脸书](https://www.stcn.com/stock/djjd/202202/t20220209_4137613.html)的股价，最近都是暴跌。
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050411.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022050411.webp)
 
 原因是这两家公司的用户数量，历史上第一次，没有任何增加，甚至还有小幅下降。
 
@@ -66,7 +66,7 @@
 
 主讲老师都是各自领域的技术专家，结合行业发展趋势，剖析大厂相关岗位能力模型，介绍大厂筛选简历套路、面试拿 OFFER 技巧，让你的求职之路更畅通。
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022042601.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022042601.webp)
 
 **学历提升部分**，由前新东方优秀讲师刘硕、前阿里技术专家李超等领衔授课，详细讲解计算机考研招生流程和最新政策，分析报考趋势，以及公共课、专业课成绩提升技巧。
 
@@ -76,7 +76,7 @@
 
 周刊读者可以不用花钱，<ins>零元报名</ins>。如果你还不确定，到底是就业还是考研，或对考试难度、考哪个方向、是否脱产等问题有疑惑，不妨到时直接咨询讲师，或许就会豁然开朗。
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050524.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022050524.webp)
 
 微信扫描上方二维码，了解课程详情并报名。报名后，添加老师微信，领取课程和以下的**到课福利**。
 
@@ -89,53 +89,53 @@
 
 1、[隐身镜](https://www.odditycentral.com/news/uk-based-company-creates-functional-invisibility-shields.html)
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022032408.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022032408.webp)
 
 神话传说中经常有隐身衣，现在一家英国公司发明了隐身镜，只要躲在镜子后面就能隐身。
 
 它的原理很简单，就是一组透镜，但是可以让投射的光线偏离镜子背后的人，好像拐弯一样，落在更远的地方，导致背后的人就隐身了。
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022032409.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022032409.webp)
 
 这种镜子完全依赖光学，不需要电源，使用树脂制作，厚度5厘米，重4公斤，便携性也不错。
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022032410.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022032410.webp)
 
 2、[动物讣告](https://mp.weixin.qq.com/s/qJsdUemQMwfQoYaQ1Qxjwg)
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022042707.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022042707.webp)
 
 南京红山森林动物园的一只獐子突发疾病去世，饲养员非常难过。经过领导同意，写了一张100字的讣告，概括了这只小獐子的一生，挂在笼子上告知游客。
 
 > “獐子紫金（雄性）于2020年9月16日早上发现精神不振，不愿活动及采食，在工作人员对其检查救治中途离世（9:40左右）。紫金性格友善，沉稳，带头吃饭，是群中首领般的存在。我们很怀念它。感谢它陪伴我们的时光。R.I.P.”
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022042708.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022042708.webp)
 
 这张讣告后来被传上了网，引起了一些小小的惊叹。以往，动物园的普通动物死亡，往往是隐形的、无声的，没有人会注意到。但是现在大家都知道了，这个动物园曾经生活过一只值得怀念的獐子。
 
 3、[火箭回收](https://www.bbc.com/news/science-environment-61307512)
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050405.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022050405.webp)
 
 美国的创业公司火箭实验室，本周完成了一项史无前例的实验，使用直升飞机回收火箭助推器。
 
 此前，只有 SpaceX 公司回收过助推器，方案是让它自动降落到海中平台。火箭实验室的方案更简单，助推器下落时打开降落伞，直升飞机抓住降落伞即可（下图）。
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050403.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022050403.webp)
 
 这样的技术难度低，有利于降低火箭发射成本。以后，火箭发射势必更加便宜和容易。
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050404.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022050404.webp)
 
 4、[远程充电](https://newatlas.com/energy/us-navy-beams-1-6-kw-power-kilometer-microwaves/)
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022042401.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022042401.webp)
 
 无线充电可以相隔多少距离？上个月，美国海军做了一个实验，相隔一公里进行无线充电，成功建立了1.6千瓦的能量传输。上图是微波发射器，下图是接收端的铁塔和整流天线。
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022042402.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022042402.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022042403.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022042403.webp)
 
 它的原理很简单。发射端将电能转换成微波，当微波撞击接收端的整流天线时，就会产生直流电流。这次实验采用了 10GHz 的微波，这个频率不受雨水的影响，对鸟类、动物和人也是安全的。
 
@@ -143,7 +143,7 @@
 
 5、[传染性疫苗](https://www.iflscience.com/health-and-medicine/scientists-are-working-on-contagious-vaccines/)
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022032801.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022032801.webp)
 
 病毒具有传染性，疫苗为什么不可以呢？美国爱达荷大学的一个团队正在研究传染性疫苗，这种疫苗可以传染给其他人，让被传染者获得免疫力。
 
@@ -153,37 +153,37 @@
 
 1、[如何使用 CSS 偷取用户信息](https://scotthelme.co.uk/can-you-get-pwned-with-css/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022030306.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022030306.webp)
 
 本文介绍了几种只使用 CSS 获取用户信息（比如密码）的方法，以及对策。
 
 2、[不需要 JavaScript 的5件事](https://lexoral.com/blog/you-dont-need-js/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022030307.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022030307.webp)
 
 有一些网页互动，并不需要用 JavaScript 实现，本文介绍了5种这样的情况，比如折叠显示。
 
 3、[如何了解用户的访问历史](https://varun.ch/history)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022030702.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022030702.webp)
 
 浏览器不允许 JS 脚本获取用户的访问历史，作者想出了一个很聪明的方法，让用户自己确认是否访问过某个网站。文章只给出了思路，大家要看这个页面的源码。
 
 4、[如何用 esbuild 替换 Create React App 中的 Webpack](https://devtails.xyz/how-to-replace-webpack-in-create-react-app-with-esbuild)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022030801.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022030801.webp)
 
 Create React App 是 React 的官方工具，它的默认打包器是 Webpack，本文介绍如何将报告器更换为速度更快的 esbuild，把打包时间减少为原来的1%（6秒到60毫秒）。
 
 5、[Mac 电脑的开发环境搭建指南（2022版）](https://www.robinwieruch.de/mac-setup-web-development/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202202/bg2022022701.webp)
+![](https://cdn.beea.com/blogimg/asset/202202/bg2022022701.webp)
 
 作者买了一部最新的 MacBook Pro，详细记录了搭建 Web 开发环境的所有步骤。
 
 6、[无聊猿游艇俱乐部是什么](https://www.newbiescrypto.com/p/bored-ape-yacht-club-part-1)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050501.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022050501.webp)
 
 无聊猿原来只是几个朋友组成的兴趣团队，现在据说估值50亿美元，而且发生在一年之内。这篇文章解释了这是怎么回事，他们的 NFT 怎么发展成为一个会员俱乐部。
 
@@ -193,7 +193,7 @@ Create React App 是 React 的官方工具，它的默认打包器是 Webpack，
 
 8、[如何使用 GDB 调试 C 程序](https://felix-knorr.net/posts/2022-02-27-direct-gdb.html)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022030308.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022030308.webp)
 
 本文是一篇入门教程，教你如何使用 GDB 调试 C 语言程序。
 
@@ -205,25 +205,25 @@ Create React App 是 React 的官方工具，它的默认打包器是 Webpack，
 
 1、[Noto emoji](https://developers.googleblog.com/2022/04/what-is-black-and-white-and-read-all.html)
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050103.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022050103.webp)
 
 谷歌推出的一款单色的 Emoji 表情字体，共有3000多个符号，优点是体积小。如果希望表情符号在各平台都是同一个样子，可以用它。
 
 2、[Fengari](https://fengari.io/)
 
-![](https://cdn.beekka.com/blogimg/asset/202202/bg2022022202.webp)
+![](https://cdn.beea.com/blogimg/asset/202202/bg2022022202.webp)
 
 浏览器的 Lua 虚拟机，可以让网页执行 Lua 语言脚本。
 
 3、[Flmngr](https://index.php.flmngr.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202202/bg2022022301.webp)
+![](https://cdn.beea.com/blogimg/asset/202202/bg2022022301.webp)
 
 这个项目就是单个 index.php 文件，只要把该文件放在图片目录之中，就能作为图库访问。
 
 4、[Spacedrive](https://www.spacedrive.app/)
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050518.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022050518.webp)
 
 跨平台的文件浏览器，可以挂载云盘，统一操作。（[@willshion](https://github.com/ruanyf/weekly/issues/2349) 投稿）
 
@@ -233,13 +233,13 @@ bilibili 视频命令行下载工具。（[@sansui-orz](https://github.com/ruany
 
 6、[GithubX](https://github.com/riskers/github-plus-extension)
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050516.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022050516.webp)
 
 一个浏览器插件，用来对你在 GitHub 上打星的项目，进行分类管理，因为 GitHub 官方不提供自定义分类，很难找某个收藏的项目。（[@riskers](https://github.com/ruanyf/weekly/issues/2347) 投稿）
 
 7、[bookmark.style](https://www.bookmark.style/)
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050519.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022050519.webp)
 
 一个开源工具，可以将任意链接转换生成可分享的图片。（[@xiaoluoboding](https://github.com/ruanyf/weekly/issues/2354) 投稿）
 
@@ -249,13 +249,13 @@ frp 项目的 C 语言客户端，主要用于基于 Openwrt 的路由器上，�
 
 9、[CTFever 工具套件](https://ctfever.uniiem.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050522.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022050522.webp)
 
 为 CTF 黑客比赛参加者准备的常用工具套件。（[@HoshinoSuzumi](https://github.com/ruanyf/weekly/issues/2357) 投稿）
 
 10、[Assembler Simulator](https://github.com/exuanbo/assembler-simulator)
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050523.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022050523.webp)
 
 一个网页应用，提供了8位 CPU 模拟器，可以用来学习 x86 架构的原理。（[@exuanbo](https://github.com/ruanyf/weekly/issues/2358) 投稿）
 
@@ -263,31 +263,31 @@ frp 项目的 C 语言客户端，主要用于基于 Openwrt 的路由器上，�
 
 1、[计算机网络](https://gaia.cs.umass.edu/kurose_ross/wireshark.php)（Computer Networking: A Top-Down Approach）
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022030206.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022030206.webp)
 
 一本免费下载的英文教材，使用  Wireshark 软件讲授计算机网络。
 
 2、[动画云图](https://earth2day.com/TheWall/)
 
-![](https://cdn.beekka.com/blogimg/asset/202201/bg2022010903.webp)
+![](https://cdn.beea.com/blogimg/asset/202201/bg2022010903.webp)
 
 该网站把气象云图的变化，以动画形式表现出来，并且可以按各个国家查看。
 
 3、[前端工程化三十八讲](https://q.shanyue.tech/engineering/)
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050517.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022050517.webp)
 
 网友原创的前端工程化的三十八篇短文章，每篇大概五百字左右，涵盖了开发、打包、运维等众多内容。（[@shfshanyue](https://github.com/ruanyf/weekly/issues/2348) 投稿）
 
 4、[Iconoir](https://iconoir.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202201/bg2022011001.webp)
+![](https://cdn.beea.com/blogimg/asset/202201/bg2022011001.webp)
 
 开源的 SVG 图标搜索引擎，目前有1000多个图标。
 
 5、[深度学习面试题合集](https://github.com/BoltzmannEntropy/interviews.ai)
 
-![](https://cdn.beekka.com/blogimg/asset/202201/bg2022011106.webp)
+![](https://cdn.beea.com/blogimg/asset/202201/bg2022011106.webp)
 
 这是一本英文的正式出版物，收集了几百道深度学习面试题，每一道题都有解答。作者提供此书 PDF 文件的免费下载。
 
@@ -299,15 +299,15 @@ frp 项目的 C 语言客户端，主要用于基于 Openwrt 的路由器上，�
 
 著名的 ifixit 网站拆解了这台电脑，发现它的主板相当美观，采用对称设计，CPU 位于主板中央。
 
-![](https://cdn.beekka.com/blogimg/asset/202201/bg2022011319.webp)
+![](https://cdn.beea.com/blogimg/asset/202201/bg2022011319.webp)
 
 上图中，红框是 M1 Pro 芯片，黄框是三星 8GB 内存（共两块），绿框是铠侠的 128GB 闪存（共两块）。
 
 下面是芯片的近景。
 
-![](https://cdn.beekka.com/blogimg/asset/202201/bg2022011320.webp)
+![](https://cdn.beea.com/blogimg/asset/202201/bg2022011320.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202201/bg2022011321.webp)
+![](https://cdn.beea.com/blogimg/asset/202201/bg2022011321.webp)
 
 2、[Java.com](https://java.com/en/)
 
@@ -315,11 +315,11 @@ Java 语言的官网主页，十五年来几乎没有变化。这在商业网站
 
 下图是[2008年12月16日](https://web.archive.org/web/20081216003508/http://www.java.com/en/)的样子。
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022043005.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022043005.webp)
 
 下图是上周2022年4月30日的样子。
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022043006.webp)
+![](https://cdn.beea.com/blogimg/asset/220204/bg2022043006.webp)
 
 ## 文摘
 
@@ -331,13 +331,13 @@ Java 语言的官网主页，十五年来几乎没有变化。这在商业网站
 
 俄克拉何马城之所以被选中，因为当地的经济依赖航空业，并且有一个大型的空军基地，居民对这类实验比较宽容。
 
-![](https://cdn.beekka.com/blogimg/asset/202201/bg2022010507.webp)
+![](https://cdn.beea.com/blogimg/asset/202201/bg2022010507.webp)
 
 1964年2月3日早上七点，音爆实验开始。美国空军每天在城市上空，进行8次超音速飞行。
 
 一开始，居民们还比较容易忍受。但是，很多人发现，音爆使得他们无法午休了。
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050521.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022050521.webp)
 
 实验连续进行了三个月之后，该市最高的两座建筑，共有147扇窗户被震破。居民们开始要求停止实验了。
 
@@ -356,7 +356,7 @@ Java 语言的官网主页，十五年来几乎没有变化。这在商业网站
 最近三年的生日，他都要给年轻人写一些建议，今年写了[103条](https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/
 )，下面选出几条。（[@ddiiiik](https://github.com/ruanyf/weekly/issues/2355) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050520.webp)
+![](https://cdn.beea.com/blogimg/asset/202205/bg2022050520.webp)
 
 1、永远不要为你不想成为的人工作。
 
@@ -386,7 +386,7 @@ Java 语言的官网主页，十五年来几乎没有变化。这在商业网站
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 
-![](https://cdn.beekka.com/blogimg/asset/202103/bg2021030402.jpg)
+![](https://cdn.beea.com/blogimg/asset/202103/bg2021030402.jpg)
 
 （完）
 

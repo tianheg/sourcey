@@ -8,7 +8,7 @@
 
 ## 封面图
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022030808.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022030808.webp)
 
 重庆两江新区美术馆的公交车站，采用了板凳造型。蓝色和红色两个大板凳，相当于乘客的休息亭，旁边紧紧围绕着17个色彩缤纷的小板凳。（[via](https://www.cbg.cn/show/4933-1839848.html)）
 
@@ -16,7 +16,7 @@
 
 上周，美国总统拜登对国会发表[《国情咨文》](https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6180080.d.html)，提到了美国制造。他这样说：
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022030705.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022030705.webp)
 
 > “与其依赖外国供应链，不如在美国制造。通过降低生产成本，而不是降低美国人的工资，让更多的车辆和半导体在美国生产，减少依赖外国供应链。”
 
@@ -34,13 +34,13 @@
 
 **只有[一项成本](https://www.sohu.com/a/367546108_618573)是中国便宜，大家恐怕都猜到了，那就是工资**，美国的劳动力时薪是中国的4.8倍。
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022030706.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022030706.webp)
 
 **所以，美国制造业的问题，根本不在于生产成本，而在于劳动力。** 美国的生产要素价格，在全世界都是很低的。拜登不去改变劳动力成本（也是不敢），而是想在其他成本上动脑筋，那是没用的，恐怕很难成功。
 
 反过来看中国，问题也很大。中国的各种生产成本都高于美国，全靠劳动力优势弥补：一是工资低，二是劳动时间长，三是比美国人更勤奋、更能吃苦、更有纪律性，四是没有美国那种跟资方对抗的工会。
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022030707.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022030707.webp)
 
 但是，劳动力的成本优势是不长久的，工资总归要上升的，否则就失去了发展的意义。一旦中国工人的工资接近美国的一半，中国制造的成本优势就会开始丧失。
 
@@ -69,7 +69,7 @@
 
 主讲老师都是各自领域的技术专家，会结合行业发展趋势，深度剖析大厂相关岗位能力模型，介绍大厂筛选简历套路、面试拿 OFFER 技巧，让你的求职之路更畅通。
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022031018.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022031018.webp)
 
 学历提升部分，由前新东方优秀讲师刘硕、前阿里技术专家李超领衔授课，为你详细讲解考研招生流程和最新政策，分析报考趋势，以及公共课、专业课成绩提升技巧。
 
@@ -79,7 +79,7 @@
 
 周刊读者可以不用花钱，**零元报名**。如果你还不确定，到底是就业还是考研，或对考试难度、考哪个方向、是否脱产等问题有疑惑，不妨到时直接咨询讲师，或许就会豁然开朗。
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022031019.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022031019.webp)
 
 微信扫描上方二维码，了解课程详情并报名。报名后，添加老师微信，领取课程和以下的到课福利。
 
@@ -92,17 +92,17 @@
 
 1、[世界最大飞机](https://v.qq.com/x/page/u33265mp283.html)
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022030704.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022030704.webp)
 
 世界最大飞机运输机 AN-225，已经证实被炮弹摧毁了。估计以后也不会有人造那么大的飞机了，利用率太低，经济上不划算。
 
 这是它以前的样子。
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022030401.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022030401.webp)
 
 这是它现在的样子。
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022031101.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022031101.webp)
 
 国外网友贴出了手机拍的 AN-225 降落视频，太漂亮了，像一只白色的大鸟。
 
@@ -110,7 +110,7 @@
 
 2、[氢气罐出口](https://www.abc.net.au/news/2022-01-21/world-first-hydrogen-tanker-docks-at-port-of-hastings/100769138)
 
-![](https://cdn.beekka.com/blogimg/asset/202201/bg2022012103.webp)
+![](https://cdn.beea.com/blogimg/asset/202201/bg2022012103.webp)
 
 日本为了改变大量进口煤炭的局面，正在尝试在澳大利亚产煤地提炼氢气，然后进口液态氢。日本的运氢船已经抵达澳大利亚，正等着液态氢的球罐装船（上图）。这将是世界第一次海运液态氢球罐。
 
@@ -118,29 +118,29 @@
 
 3、[纸笔写代码的程序员](http://www.ctdsb.net/topic/1784/202203/03/164789.html)
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022030505.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022030505.webp)
 
 3月3日，台湾发生大停电。一家软件公司为了不耽误工期，只得让程序员用纸笔撰写代码。
 
 上午11时，只见公司6名程序员都在工位上，用手机打光，用纸笔撰写代码。问题是没有了桌面 IDE 和线上 API 手册，只能手写伪码吧。
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022030506.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022030506.webp)
 
 4、[观光潜水艇](https://newatlas.com/marine/uboat-worx-super-sub-fast-submarine/)
 
-![](https://cdn.beekka.com/blogimg/asset/202201/bg2022011818.webp)
+![](https://cdn.beea.com/blogimg/asset/202201/bg2022011818.webp)
 
 一家荷兰公司推出了两人座的观光潜水艇，最大特点就是速度非常快，可以达到每小时8节（14.8 公里/小时），远超普通的民用潜水艇，后者的速度最多只有3节或4节。
 
 它的目的是，用来让游客跟鱼群一起前进。它的速度虽然不如大白鲨（56公里/小时）和剑鱼（130公里/小时），但可以跟上热带鱼和慢速前进的海豚，“与鱼群同行”预计会受到很多游客的欢迎。
 
-![](https://cdn.beekka.com/blogimg/asset/202201/bg2022011819.webp)
+![](https://cdn.beea.com/blogimg/asset/202201/bg2022011819.webp)
 
 该潜水艇额定下潜深度300米，续航为8小时，2023年开始接受预订。
 
 5、[刺客雇佣网站](https://www.theguardian.com/lifeandstyle/2021/dec/17/bob-innes-rent-a-hitman-assassin-services-website)
 
-![](https://cdn.beekka.com/blogimg/asset/202112/bg2021122601.webp)
+![](https://cdn.beea.com/blogimg/asset/202112/bg2021122601.webp)
 
 2005年，一个美国大学生购买了 [rentahitman.com](https://rentahitman.com/) 这个域名，意为“雇佣刺客”，打算囤积起来，将来以更高的价格卖掉。
 
@@ -152,25 +152,25 @@
 
 1、[印度成为世界人口第一大国](https://mp.weixin.qq.com/s/1ztbaqTOemVR0njkwRHkEA)（中文）
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022031007.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022031007.webp)
 
 2022年3月4日，印度政府公布了2021年人口统计结果，印度人口达到14.1565亿人，正式超过中国政府2021年底公布的人口14.126亿人。印度领先中国约300万人左右，成为世界第一大人口大国，
 
 2、[家用 3D 打印不完全入坑指南](https://www.gcores.com/articles/147983)（中文）
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022030101.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022030101.webp)
 
 作者介绍新手入门 3D 打印需要知道的一些事情。
 
 3、[奇特的厨房发明](https://mp.weixin.qq.com/s/dJgODWSTY3eafPc9BUYuVw)（中文）
 
-![](https://cdn.beekka.com/blogimg/asset/202201/bg2022011903.webp)
+![](https://cdn.beea.com/blogimg/asset/202201/bg2022011903.webp)
 
 一位日本收藏家专门收集奇特的厨房发明，其中很多非常巧妙，令人耳目一新，同时也很实用。比如，上图是手持电动洗碗机，既可以洗碗，也可以洗杯子。
 
 4、[Node.js 逐行读取文件的四种方法](https://geshan.com.np/blog/2021/10/nodejs-read-file-line-by-line/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202201/bg2022013101.webp)
+![](https://cdn.beea.com/blogimg/asset/202201/bg2022013101.webp)
 
 本文介绍了四种方法，使用 Node.js 逐行读取文本文件。
 
@@ -180,7 +180,7 @@ PWA 指的是离线也能使用的网页应用。本文给出简单的设置步�
 
 6、[npm audit 命令的作用和缺点](https://overreacted.io/npm-audit-broken-by-design/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202201/bg2022012503.webp)
+![](https://cdn.beea.com/blogimg/asset/202201/bg2022012503.webp)
 
 Redux 作者 Dan Abramov 的文章，通俗地解释了 `npm audit` 命令的作用，就是检查每个包的安全漏洞，这部分写得很好。但是他认为该命令作用有限，反而有时像一种骚扰。
 
@@ -190,13 +190,13 @@ Redux 作者 Dan Abramov 的文章，通俗地解释了 `npm audit` 命令的作
 
 8、[Linux 进程的生与死](https://natanyellin.com/posts/life-and-death-of-a-linux-process/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202201/bg2022011811.webp)
+![](https://cdn.beea.com/blogimg/asset/202201/bg2022011811.webp)
 
 本文是一篇科普文章，介绍 Linux 进程是怎么诞生（新建进程）的，又是怎么死亡（进程退出）的。
 
 9、[iPhone 的隐藏触摸板](https://www.cnet.com/tech/mobile/edit-text-easily-on-iphone-with-its-hidden-trackpad-see-how-it-works/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202201/bg2022011815.webp)
+![](https://cdn.beea.com/blogimg/asset/202201/bg2022011815.webp)
 
 很多人或许还不知道，只要在 iPhone 的输入法里面，长按空格键，输入法区域就会变成一个触摸板。
 
@@ -204,61 +204,61 @@ Redux 作者 Dan Abramov 的文章，通俗地解释了 `npm audit` 命令的作
 
 1、[Datawrapper](https://www.datawrapper.de/)
 
-![](https://cdn.beekka.com/blogimg/asset/202202/bg2022020611.webp)
+![](https://cdn.beea.com/blogimg/asset/202202/bg2022020611.webp)
 
 著名的数据可视化生成工具，只要在网页上提交数据，经过几步配置，就能生成杂志级的可视化图表。不需要注册就可以免费使用。
 
 2、[Photoview](https://github.com/photoview/photoview)
 
-![](https://cdn.beekka.com/blogimg/asset/202202/bg2022020701.webp)
+![](https://cdn.beea.com/blogimg/asset/202202/bg2022020701.webp)
 
 一个开源 Web 相册程序，Go 语言写的，使用 Docker 安装，可以用来快速架设个人相册。
 
 3、[No-JS fingerprinting](https://noscriptfingerprint.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202202/bg2022020702.webp)
+![](https://cdn.beea.com/blogimg/asset/202202/bg2022020702.webp)
 
 一个用户指纹生成程序，最大特点是不依赖 JavaScript，即使用户禁止运行 JS 脚本，依然能够得到用户指纹。
 
 4、[双精度浮点数的内部表示法](https://devtool.tech/double-type)
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022030913.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022030913.webp)
 
 这个网页工具可以显示64位双精度浮点数的内部二进制表示法，你可以输入一个数值，查看它的浮点数表示。（[@shfshanyue](https://github.com/ruanyf/weekly/issues/2253) 投稿）
 
 5、[BaseMap](https://github.com/bojue/BaseMap)
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022030905.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022030905.webp)
 
 一个开源的机房平面图（园区，楼栋，楼层，房间）绘制工具，也可用来生成办公室、工厂、园区的平面图。（[@bojue](https://github.com/ruanyf/weekly/issues/2243) 投稿）
 
 6、[Orange](https://github.com/naaive/orange/blob/master/README_cn.md)
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022030906.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022030906.webp)
 
 一个开源的跨平台文件搜索软件，用于搜索本机文件，简单好用。（[@naaive](https://github.com/ruanyf/weekly/issues/2244) 投稿）
 
 7、[程序员做饭指南](https://github.com/LeeJim/HowToCookOnMiniprogram)
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022030910.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022030910.webp)
 
 收集各种家常菜的菜谱，这是小程序版，另有 [Web 版](https://github.com/Anduin2017/HowToCook)。（[@LeeJim](https://github.com/ruanyf/weekly/issues/2245) 投稿）
 
 8、[VCSLabel](https://github.com/pxzxj/VCSLabel)
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022030904.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022030904.webp)
 
 一款 Intellij IDEA 插件（也可用于WebStorm、PyCharm），显示每个文件的最后提交时间和提交人。（[@pxzxj](https://github.com/ruanyf/weekly/issues/2240) 投稿）
 
 9、[Remind](https://github.com/luvsic3/remind)
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022030911.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022030911.webp)
 
 一个简单的网页版思维脑图实现，可以用在自己项目里面。（[@luvsic3](https://github.com/ruanyf/weekly/issues/2247) 投稿）
 
 10、[React Paint](https://github.com/pengfeiw/react-paint)
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022030912.webp)
+![](https://cdn.beea.com/blogimg/asset/202203/bg2022030912.webp)
 
 使用 React 实现的开源 Windows 画板。（[@pengfeiw](https://github.com/ruanyf/weekly/issues/2250) 投稿）
 
@@ -266,31 +266,31 @@ Redux 作者 Dan Abramov 的文章，通俗地解释了 `npm audit` 命令的作
 
 1、[JustWatch](https://www.justwatch.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202201/bg2022011312.webp)
+![](https://cdn.beea.com/blogimg/asset/202201/bg2022011312.webp)
 
 这个网站可以查询某一部国外的影视作品在哪个平台（Netflix、Disney plus、Apple TV 等等）可以收看。
 
 2、[GNU coreutils 解码](http://www.maizure.org/projects/decoded-gnu-coreutils/index.html)
 
-![](https://cdn.beekka.com/blogimg/asset/202201/bg2022011202.webp)
+![](https://cdn.beea.com/blogimg/asset/202201/bg2022011202.webp)
 
 Linux 基本的命令行工具（ls、cp、rm 等等）都是 GNU coreutils 工具包提供的，这个网站是对该工具包的详细介绍，逐一分析其中近100个工具的内部实现。
 
 3、[WebSocket 手册](https://ably.com/blog/introducing-the-websocket-handbook)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202201/bg2022011206.webp)
+![](https://cdn.beea.com/blogimg/asset/202201/bg2022011206.webp)
 
 一本免费的英文电子书，详细介绍 WebSocket 的概念和用法。
 
 4、[Redis Launchpad](https://launchpad.redis.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202109/bg2021092316.jpg)
+![](https://cdn.beea.com/blogimg/asset/202109/bg2021092316.jpg)
 
 Redis 官方的用户展示厅，展示各种使用 Redis 的网络应用，并有用法和架构的讲解。
 
 5、[Illlustrations](https://illlustrations.co/)
 
-![](https://cdn.beekka.com/blogimg/asset/202108/bg2021083110.jpg)
+![](https://cdn.beea.com/blogimg/asset/202108/bg2021083110.jpg)
 
 一个艺术家开放自己的100多幅插图作品，免费下载。
 
@@ -306,37 +306,37 @@ Redis 官方的用户展示厅，展示各种使用 Redis 的网络应用，并�
 
 1980年，球形住宅区在登博斯市动工，最终造出了一个奇特的居民小区，好像外星人建筑。
 
-![](https://cdn.beekka.com/blogimg/asset/202109/bg2021091901.jpg)
+![](https://cdn.beea.com/blogimg/asset/202109/bg2021091901.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202109/bg2021091902.jpg)
+![](https://cdn.beea.com/blogimg/asset/202109/bg2021091902.jpg)
 
 每栋住宅就是一个水泥的球体，并用玻璃纤维加固，安装在圆柱体的底座上。每个球体的直径为5.5米，每栋建筑共有11个圆窗。
 
-![](https://cdn.beekka.com/blogimg/asset/202109/bg2021091903.jpg)
+![](https://cdn.beea.com/blogimg/asset/202109/bg2021091903.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202109/bg2021091904.jpg)
+![](https://cdn.beea.com/blogimg/asset/202109/bg2021091904.jpg)
 
 整个小区由50座球形住宅组成。
 
-![](https://cdn.beekka.com/blogimg/asset/202109/bg2021091905.jpg)
+![](https://cdn.beea.com/blogimg/asset/202109/bg2021091905.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202109/bg2021091910.jpg)
+![](https://cdn.beea.com/blogimg/asset/202109/bg2021091910.jpg)
 
 每栋住宅内部，有一间浴室和一间小卧室，客厅和厨房位于二楼。它的优势是可以完全拆卸，整体运输到其他地方，甚至可以放置在水上。
 
-![](https://cdn.beekka.com/blogimg/asset/202109/bg2021091907.jpg)
+![](https://cdn.beea.com/blogimg/asset/202109/bg2021091907.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202109/bg2021091908.jpg)
+![](https://cdn.beea.com/blogimg/asset/202109/bg2021091908.jpg)
 
 可以想象，当地人并不喜欢住在这种房子里面。但是，它吸引了很多游客来参观，成为当地的一个景点。游客甚至愿意付费体验一下，住在这种未来派房屋的感觉。
 
-![](https://cdn.beekka.com/blogimg/asset/202109/bg2021091909.jpg)
+![](https://cdn.beea.com/blogimg/asset/202109/bg2021091909.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202109/bg2021091911.jpg)
+![](https://cdn.beea.com/blogimg/asset/202109/bg2021091911.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202109/bg2021091912.jpg)
+![](https://cdn.beea.com/blogimg/asset/202109/bg2021091912.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202109/bg2021091913.jpg)
+![](https://cdn.beea.com/blogimg/asset/202109/bg2021091913.jpg)
 
 ## 文摘
 
@@ -350,11 +350,11 @@ Redis 官方的用户展示厅，展示各种使用 Redis 的网络应用，并�
 
 1982年7月2日，他在自家后院的一把普通椅子上，绑了45个充满氦气的气球。然后，穿上降落伞，带着弹丸枪（用于在高空击破气球，从而降落）、收音机、三明治、啤酒和一台相机，坐上了椅子。
 
-![](https://cdn.beekka.com/blogimg/asset/202112/bg2021120810.webp)
+![](https://cdn.beea.com/blogimg/asset/202112/bg2021120810.webp)
 
 他让朋友剪断系着气球的绳子，就起飞了。气球迅速上升到4,900米的高度，并被两架商业客机发现。
 
-![](https://cdn.beekka.com/blogimg/asset/202112/bg2021120811.webp)
+![](https://cdn.beea.com/blogimg/asset/202112/bg2021120811.webp)
 
 由于他慢慢接近了机场的飞行通道，塔楼要求他降落。在空中飞行45分钟后，沃尔特斯就用弹丸枪，击破了几个气球，同时小心地保持着平衡。
 
@@ -368,11 +368,11 @@ Redis 官方的用户展示厅，展示各种使用 Redis 的网络应用，并�
 
 这次飞行引起了全世界媒体的关注，并激发了艺术家和模仿者的灵感，其中包括迪斯尼的著名电影《飞屋环游记》。
 
-![](https://cdn.beekka.com/blogimg/asset/202112/bg2021120812.webp)
+![](https://cdn.beea.com/blogimg/asset/202112/bg2021120812.webp)
 
 飞行中使用的椅子，被沃尔特斯送给了一位名叫杰瑞的男孩。二十年后，长大的男孩将这把椅子捐赠给了史密森学会博物馆。
 
-![](https://cdn.beekka.com/blogimg/asset/202112/bg2021120813.webp)
+![](https://cdn.beea.com/blogimg/asset/202112/bg2021120813.webp)
 
 ## 言论
 
@@ -422,7 +422,7 @@ Deno 其实比 Node.js 更易用。它没有 package.json，并且与浏览器�
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 
-![](https://cdn.beekka.com/blogimg/asset/202103/bg2021030402.jpg)
+![](https://cdn.beea.com/blogimg/asset/202103/bg2021030402.jpg)
 
 （完）
 

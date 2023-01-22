@@ -336,7 +336,7 @@ Youtube 有2000多万个活跃频道，2018年底，359个频道有超过1000万
 
 微信搜索“**阮一峰的网络日志**”或者扫描二维码，即可订阅。
 
-![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042311.jpg)
+![](http://www.ruanyieng.com/blogimg/asset/2018/bg2018042311.jpg)
 
 （完）
 

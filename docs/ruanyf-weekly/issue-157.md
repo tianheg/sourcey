@@ -8,7 +8,7 @@
 
 ## 封面图
 
-![](https://cdn.beekka.com/blogimg/asset/202104/bg2021041105.jpg)
+![](https://cdn.beea.com/blogimg/asset/202104/bg2021041105.jpg)
 
 上图为美国第一个海上风力发电场，位于罗德岛海域，2016年完工，是美国仅有的三个海上风电场之一。拜登政府最近宣布，计划到2030年，将美国的海上风电能力提升1000倍。（[via](https://www.instagram.com/p/CNCxCChDfa8/)）
 
@@ -16,15 +16,15 @@
 
 凯文·凯利（Kevin Kelly，网名 KK）是著名的科技评论家，曾经担任《连线》（Wired）杂志的第一任主编，他的著作《失控》在国内外都非常有名。
 
-![](https://cdn.beekka.com/blogimg/asset/202105/bg2021050403.jpg)
+![](https://cdn.beea.com/blogimg/asset/202105/bg2021050403.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202105/bg2021050404.jpg)
+![](https://cdn.beea.com/blogimg/asset/202105/bg2021050404.jpg)
 
 去年4月28日，是他68岁的生日。老爷子在个人网站上，发表了一篇[《给年轻人的68条建议》](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/)，谈自己的人生体会。文章很受欢迎，浏览量非常大，译成了十几种外语。
 
 今年4月28日，69岁生日时，他又续写了一篇[《给年轻人的99 条建议》](https://kk.org/thetechnium/99-additional-bits-of-unsolicited-advice/)。
 
-![](https://cdn.beekka.com/blogimg/asset/202105/bg2021050405.jpg)
+![](https://cdn.beea.com/blogimg/asset/202105/bg2021050405.jpg)
 
 这些建议，读起来很有意思。我觉得，他年纪大了以后，对传统的观点越来越不屑一顾了，更强调叛逆和逆向思维。大家看这一条。
 
@@ -56,7 +56,7 @@
 
 目前，就业市场的数据分析岗位非常多，从开发岗到业务岗，都招数据分析人员。它们要求的技能层次是不一样的，下图是不同岗位的技能图，供大家参考。
 
-![](https://cdn.beekka.com/blogimg/asset/202104/bg2021042803.jpg)
+![](https://cdn.beea.com/blogimg/asset/202104/bg2021042803.jpg)
 
 上图中，Python、Excel、SQL 这三项技能，处在开发岗和业务岗的临界点。它们都不需要复杂的编程知识，普通人能够在短时间内入门，快速上手数据分析。Python 的计算、SQL 的查询、Excel 的数据透视表，不管你是不是程序员，学会它们都对你的职业和财富，有立杠见影的好处。
 
@@ -75,11 +75,11 @@
 
 讲课内容完全是就业导向，与实战相结合，还会详细讲解一些经典的大厂面试题，希望有助于大家早日获到大厂 Offer。整门课一共是 6 天 7 节课，还有数据分析专家直播，以及 3 个实战练习 + 6 天社群服务 + 班主任督学答疑。
 
-![](https://cdn.beekka.com/blogimg/asset/202104/bg2021042806.jpg)
+![](https://cdn.beea.com/blogimg/asset/202104/bg2021042806.jpg)
 
 微信扫描下方二维码，添加助教老师，就可以领取该课程，仅需象征性支付 0.99 元报名费。由于报名人数较多，需要手工添加，助教老师会在24小时内联系大家。
 
-![](https://cdn.beekka.com/blogimg/asset/202104/bg2021042805.jpg)
+![](https://cdn.beea.com/blogimg/asset/202104/bg2021042805.jpg)
 
 前100位报名的同学，还会获赠价值99元的《Python数据分析手册》。
 
@@ -87,37 +87,37 @@
 
 [小鹏汽车](https://www.sohu.com/a/462090019_114760)发布电动载人飞行器：旅航者 X1，与普通汽车大小一样，可在车位上垂直起降。最大载重 200 公斤，续航 18-25 分钟，飞行高度 1000 米以下，抗风等级 5~6 级，速度 120 公里/小时。
 
-![](https://cdn.beekka.com/blogimg/asset/202104/bg2021042205.jpg)
+![](https://cdn.beea.com/blogimg/asset/202104/bg2021042205.jpg)
 
 [Telegram](https://telegram.org/blog/payments-2-0-scheduled-voice-chats) 真是一家很不一样的公司。它原来有一个 Web 客户端，最近一口气又发布了另外两个。现在，三个全功能的官方 Web 端同时运行（客户端[1](https://web.telegram.org)、[2](https://webk.telegram.org)、[3](https://webz.telegram.org)），这是内部的前端程序员太多的意思吗。
 
-![](https://cdn.beekka.com/blogimg/asset/202104/bg2021042701.jpg)
+![](https://cdn.beea.com/blogimg/asset/202104/bg2021042701.jpg)
 
 [亚马逊](https://www.aboutamazon.com/news/retail/amazon-one-continues-expansion-now-available-as-a-contactless-payment-option-at-initial-whole-foods-market-store-in-seattle)在西雅图的超市，继续推广它的掌纹付款。只要升出你的手掌，就能付款。
 
-![](https://cdn.beekka.com/blogimg/asset/202104/bg2021042202.jpg)
+![](https://cdn.beea.com/blogimg/asset/202104/bg2021042202.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202104/bg2021042201.jpg)
+![](https://cdn.beea.com/blogimg/asset/202104/bg2021042201.jpg)
 
 [一项研究](https://runrepeat.com/refereeing-analysis-post-covid-soccer)发现，自从欧洲足球联赛禁止观众入场以后，裁判给客队的黄牌明显下降，客队跟主队的被罚次数基本一致。研究人员认为，由于没有现场观众的压力，主队的主场优势就消失了。
 
-![](https://cdn.beekka.com/blogimg/asset/202104/bg2021042403.jpg)
+![](https://cdn.beea.com/blogimg/asset/202104/bg2021042403.jpg)
 
 [挪威](https://edition.cnn.com/travel/article/norway-ship-tunnel/index.html)将开工建设世界第一条船用隧道，长度为1.6公里，从山体里面穿过一个半岛，避免岬角巨大的风浪。
 
-![](https://cdn.beekka.com/blogimg/asset/202103/bg2021032302.jpg)
+![](https://cdn.beea.com/blogimg/asset/202103/bg2021032302.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202103/bg2021032303.jpg)
+![](https://cdn.beea.com/blogimg/asset/202103/bg2021032303.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202103/bg2021032304.jpg)
+![](https://cdn.beea.com/blogimg/asset/202103/bg2021032304.jpg)
 
 [iOS 14.5](https://www.imore.com/facebook-and-instagram-threaten-charge-access-ios-145-unless-you-give-it-your-data?hm=r) 开始，只有用户同意，app 才能追踪用户的活动。Facebook 在这个版本的手机上，会跳出警告，声称如果用户不同意被追踪，可能无法免费提供服务。（[@jwenjian](https://github.com/ruanyf/weekly/issues/1746) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202105/bg2021050407.jpg)
+![](https://cdn.beea.com/blogimg/asset/202105/bg2021050407.jpg)
 
 [国家卫健委](https://finance.sina.cn/7x24/2021-04-10/detail-ikmxzfmk5974459.d.html)规定，抗生素滥用将纳入医院考核，防止抗生素过分使用，让细菌产生耐药性。
 
-![](https://cdn.beekka.com/blogimg/asset/202105/bg2021050601.jpg)
+![](https://cdn.beea.com/blogimg/asset/202105/bg2021050601.jpg)
 
 ## [谷歌的新办公室设计](https://www.nytimes.com/2021/04/30/technology/google-back-to-office-workers.html)
 
@@ -125,59 +125,59 @@
 
 （1）工位上方增加风管，用来通风和供暖。
 
-![](https://cdn.beekka.com/blogimg/asset/202105/bg2021050208.jpg)
+![](https://cdn.beea.com/blogimg/asset/202105/bg2021050208.jpg)
 
 （2）需要私密性时，工位之间会自动升起半透明的玻璃纸气球壁，充气膨胀，以防窥视。
 
-![](https://cdn.beekka.com/blogimg/asset/202105/bg2021050209.jpg)
+![](https://cdn.beea.com/blogimg/asset/202105/bg2021050209.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202105/bg2021050210.jpg)
+![](https://cdn.beea.com/blogimg/asset/202105/bg2021050210.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202105/bg2021050211.jpg)
+![](https://cdn.beea.com/blogimg/asset/202105/bg2021050211.jpg)
 
 （3）对于不需要固定工位的人，设立流动办公桌。高度可以升降，既可以坐着办公，也可以站着办公。
 
-![](https://cdn.beekka.com/blogimg/asset/202105/bg2021050212.jpg)
+![](https://cdn.beea.com/blogimg/asset/202105/bg2021050212.jpg)
 
 （4）设立“团队仓”（Team Pod）。
 
-![](https://cdn.beekka.com/blogimg/asset/202105/bg2021050213.jpg)
+![](https://cdn.beea.com/blogimg/asset/202105/bg2021050213.jpg)
 
 这个空间可以自由组合，椅子、桌子、白板都可以快速重新布置，既可以分割成一间间独立办公室，也可以布置成开放式空间。
 
-![](https://cdn.beekka.com/blogimg/asset/202105/bg2021050606.jpg)
+![](https://cdn.beea.com/blogimg/asset/202105/bg2021050606.jpg)
 
 （5）创建新的会议室，方便办公室人员和远程人员一起开会。
 
-![](https://cdn.beekka.com/blogimg/asset/202105/bg2021050205.jpg)
+![](https://cdn.beea.com/blogimg/asset/202105/bg2021050205.jpg)
 
 所有与会者围成一圈，远程人员的位置上摆放大型显示屏，显示脸部，创造面对面交谈的体验。
 
-![](https://cdn.beekka.com/blogimg/asset/202105/bg2021050604.jpg)
+![](https://cdn.beea.com/blogimg/asset/202105/bg2021050604.jpg)
 
 （6）建立户外工作区，防止室内可能的病毒传播。
 
-![](https://cdn.beekka.com/blogimg/asset/202105/bg2021050206.jpg)
+![](https://cdn.beea.com/blogimg/asset/202105/bg2021050206.jpg)
 
 工作区有草皮和木围栏，遍布 Wi-Fi 信号。
 
-![](https://cdn.beekka.com/blogimg/asset/202105/bg2021050207.jpg)
+![](https://cdn.beea.com/blogimg/asset/202105/bg2021050207.jpg)
 
 室外也有搭建在帐篷里面的视频会议室。
 
-![](https://cdn.beekka.com/blogimg/asset/202105/bg2021050605.jpg)
+![](https://cdn.beea.com/blogimg/asset/202105/bg2021050605.jpg)
 
 ## 文章
 
 1、[你家的智能电视可能正在监视你](https://user.guancha.cn/main/content?id=505352)（中文）
 
-![](https://cdn.beekka.com/blogimg/asset/202105/bg2021050102.jpg)
+![](https://cdn.beea.com/blogimg/asset/202105/bg2021050102.jpg)
 
 网友在 V2ex 论坛上发帖说，自家的电视机正在监视所有联网设备。他发现一个叫做“勾正数据服务”的应用，每隔 10 分钟会扫一遍所有联网设备，然后打包将你的内网信息上传。
 
 2、[切尔诺贝利核电站的内部现状](https://petapixel.com/2021/04/24/exclusive-photos-inside-the-chernobyl-nuclear-power-plant/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202104/bg2021042610.jpg)
+![](https://cdn.beea.com/blogimg/asset/202104/bg2021042610.jpg)
 
 切尔诺贝利核电站由于核泄漏而被废弃，但是它里面其实现在有工作人员，监控整个遗址的安全指标。一个波兰摄影师获得同意，进入核电站大楼，拍摄内部状况。本文就是他的记录，以及大量的照片。
 
@@ -189,7 +189,7 @@
 
 4、[TypeScript 项目的基本操作](https://www.metachris.com/2021/04/starting-a-typescript-project-in-2021/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202104/bg2021042203.jpg)
+![](https://cdn.beea.com/blogimg/asset/202104/bg2021042203.jpg)
 
 本文面向初学者，介绍了 TypeScript 项目会用到的各种基本操作，帮助你启动一个 TypeScript 项目。
 
@@ -203,13 +203,13 @@ Tailwind CSS 是一个很有特点的 CSS 框架，本文介绍它的基本用�
 
 7、[如何用自然语言处理（NLP）推送广告？](https://netlabe.com/real-time-context-targeting-using-nlp-baceb4324fc4)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202104/bg2021042402.jpg)
+![](https://cdn.beea.com/blogimg/asset/202104/bg2021042402.jpg)
 
 本文演示了将网页文章的内容，推送给 NLP 的云服务，自动进行自然语言分析，返回文章主题。然后，页面脚本根据网页的不同主题，在网页上加载最相关的广告。
 
 8、[AVIF 图像格式指南](https://darekkay.com/blog/avif-images/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202104/bg2021042401.jpg)
+![](https://cdn.beea.com/blogimg/asset/202104/bg2021042401.jpg)
 
 AVIF 是一种新的图像格式，跟 JPG 和 PNG 类似，但可以压缩得更小。现在浏览器的支持已经比较好了，本文介绍这种格式的用法。
 
@@ -221,25 +221,25 @@ AVIF 是一种新的图像格式，跟 JPG 和 PNG 类似，但可以压缩得�
 
 1、[Puppeteer Console](pptrconsole.com)
 
-![](https://cdn.beekka.com/blogimg/asset/202104/bg2021041811.jpg)
+![](https://cdn.beea.com/blogimg/asset/202104/bg2021041811.jpg)
 
 这个网站提供一个虚拟浏览器的控制台，可以在线输入 Puppeteer 脚本，然后就会在网页上可视化打开浏览器，看到运行结果。
 
 2、[React Flow](https://github.com/wbkd/react-flow)
 
-![](https://cdn.beekka.com/blogimg/asset/202104/bg2021041905.jpg)
+![](https://cdn.beea.com/blogimg/asset/202104/bg2021041905.jpg)
 
 一个基于 React 的库，用来制作功能强大的、可交互、可编辑的节点图工具。
 
 3、[Pexels 视频制作器](https://shotstack.io/demo/pexels-slideshow/)
 
-![](https://cdn.beekka.com/blogimg/asset/202104/bg2021042101.jpg)
+![](https://cdn.beea.com/blogimg/asset/202104/bg2021042101.jpg)
 
 这个在线工具根据关键字，从图库里面找出相关图片，自动生成一段40秒的视频。
 
 4、[Cusdis](https://github.com/djyde/cusdis)
 
-![](https://cdn.beekka.com/blogimg/asset/202104/bg2021042104.jpg)
+![](https://cdn.beea.com/blogimg/asset/202104/bg2021042104.jpg)
 
 一个可以自己搭建的网页评论系统，类似于 Disqus。
 
@@ -249,13 +249,13 @@ AVIF 是一种新的图像格式，跟 JPG 和 PNG 类似，但可以压缩得�
 
 6、[Netdata](https://github.com/netdata/netdata)
 
-![](https://cdn.beekka.com/blogimg/asset/202104/bg2021042204.jpg)
+![](https://cdn.beea.com/blogimg/asset/202104/bg2021042204.jpg)
 
 Linux 服务器的一个开源的监控服务，功能非常强大。
 
 7、[Triangula](https://github.com/RH12503/Triangula)
 
-![](https://cdn.beekka.com/blogimg/asset/202104/bg2021042301.jpg)
+![](https://cdn.beea.com/blogimg/asset/202104/bg2021042301.jpg)
 
 这个开源软件可以将照片转为三角形图案。
 
@@ -271,13 +271,13 @@ Linux 服务器的一个开源的监控服务，功能非常强大。
 
 1、[这是越位吗？](https://offsideornot.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202104/bg2021041603.jpg)
+![](https://cdn.beea.com/blogimg/asset/202104/bg2021041603.jpg)
 
 该网站使用真实足球比赛的截图，让你一张张判断，是否存在越位。
 
 2、[Skyline Webcams](https://www.skylinewebcams.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202104/bg2021041702.jpg)
+![](https://cdn.beea.com/blogimg/asset/202104/bg2021041702.jpg)
 
 该网站提供世界五大洲的直播摄像头，可以看到世界各个地点的实况。
 
@@ -287,7 +287,7 @@ Linux 服务器的一个开源的监控服务，功能非常强大。
 
 4、[OpenCVE](https://www.opencve.io/cve)
 
-![](https://cdn.beekka.com/blogimg/asset/202104/bg2021041303.jpg)
+![](https://cdn.beea.com/blogimg/asset/202104/bg2021041303.jpg)
 
 该网站可以查询各种 CVE 编号的安全漏洞，并且可以根据操作系统和应用程序进行过滤。它的[源码](https://github.com/opencve/opencve)是开源的，你也可以自己架设。
 
@@ -303,7 +303,7 @@ Linux 服务器的一个开源的监控服务，功能非常强大。
 
 灰色是水泥道路和屋顶的主要颜色，而高收入社区往往有更多的树木和植被，呈现出绿色。
 
-![](https://cdn.beekka.com/blogimg/asset/202104/bg2021041602.jpg)
+![](https://cdn.beea.com/blogimg/asset/202104/bg2021041602.jpg)
 
 2、[吊运非洲犀牛](https://mp.weixin.qq.com/s/fiWK8SUpFOCUaur9tpUkGg?)
 
@@ -311,15 +311,15 @@ Linux 服务器的一个开源的监控服务，功能非常强大。
 
 经过研究，空运犀牛的最佳姿势，就是将它们麻醉后，四肢捆住，面罩遮盖眼睛，倒吊于直升机的下方。很多时候，只需半小时，犀牛就能成功抵达新家。得益于眼罩的遮蔽，犀牛下机之后，甚至都不知道自己上过天。
 
-![](https://cdn.beekka.com/blogimg/asset/202104/bg2021041606.jpg)
+![](https://cdn.beea.com/blogimg/asset/202104/bg2021041606.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202104/bg2021041607.jpg)
+![](https://cdn.beea.com/blogimg/asset/202104/bg2021041607.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202104/bg2021041608.jpg)
+![](https://cdn.beea.com/blogimg/asset/202104/bg2021041608.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202104/bg2021041609.jpg)
+![](https://cdn.beea.com/blogimg/asset/202104/bg2021041609.jpg)
 
-![](https://cdn.beekka.com/blogimg/asset/202104/bg2021041611.jpg)
+![](https://cdn.beea.com/blogimg/asset/202104/bg2021041611.jpg)
 
 ## 文摘
 
@@ -329,7 +329,7 @@ Linux 服务器的一个开源的监控服务，功能非常强大。
 
 切下一小块土豆，在上面插入一个铜片，作为阴极，再插入一个锌片，作为阳极。然后，使用电线，将一个小电珠连在阴极和阳极之间。这时，电珠就会发光。
 
-![](https://cdn.beekka.com/blogimg/asset/202104/bg2021041809.jpg)
+![](https://cdn.beea.com/blogimg/asset/202104/bg2021041809.jpg)
 
 以色列科学家发现，煮过的土豆有更长的通电时间。煮八分钟的土豆做成的电池，接上 LED 小灯泡，通电时间是没有煮过的土豆的十倍。
 
@@ -347,7 +347,7 @@ Linux 服务器的一个开源的监控服务，功能非常强大。
 
 根据同样的原理，只要是电解质液体，就能插入电极充当电池。因此，盐水也可以当作电池。事实上，盐水电池已经是一种成熟的商品，用来作为紧急情况下的应急照明。
 
-![](https://cdn.beekka.com/blogimg/asset/202104/bg2021041810.jpg)
+![](https://cdn.beea.com/blogimg/asset/202104/bg2021041810.jpg)
 
 ## 言论
 
@@ -401,6 +401,6 @@ Linux 服务器的一个开源的监控服务，功能非常强大。
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 
-![](https://cdn.beekka.com/blogimg/asset/202103/bg2021030402.jpg)
+![](https://cdn.beea.com/blogimg/asset/202103/bg2021030402.jpg)
 
 （完）
