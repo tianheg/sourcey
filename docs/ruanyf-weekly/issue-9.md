@@ -8,7 +8,7 @@
 
 （题图：星愿公园，上海，2017）
 
-一个网友看了我的新书[《未来世界的幸存者》](http://www.ruanyifeng.com/survivor/)，留言说："现在已经是未来了，大多数人不知道而已"。这也是我的感受，普通人不知道现在的技术先进到什么地步，很多神话般的功能都已经做到了。
+一个网友看了我的新书[《未来世界的幸存者》](www.ruanyifeng.com/survivor/)，留言说："现在已经是未来了，大多数人不知道而已"。这也是我的感受，普通人不知道现在的技术先进到什么地步，很多神话般的功能都已经做到了。
 
 举例来说，我看到一个[消息](http://news.mit.edu/2018/wireless-system-power-devices-inside-body-0604)，麻省理工学院发明了一种远程充电技术，可以隔空用无线电波给微型电子设备充电。他们做了一个实验，把传感器埋入一头猪的体内，大约皮下10公分的地方，然后相隔一米发送无线电波，居然就把传感器驱动起来了！
 
@@ -137,7 +137,7 @@ Ruby China 论坛的精华贴整理。
 
 上面是相关系数的计算公式，这是统计学的基础公式。我一直不知道它是怎么推导出来的，为什么这个公式就能断定两个矢量的相关性，我读过的教科书都不解释这一点。
 
-这里有一篇论文，给出相关系数的[十三种解释](https://www.stat.berkeley.edu/~rabbee/correlation.pdf)，但都写得不太容易理解。后来，我又读到了标题里面的那篇论文，指出相关系数就是两个矢量的[余弦相似性](http://www.ruanyifeng.com/blog/2013/03/cosine_similarity.html)，所以完全相关是+1或-1，完全不相关是0，一下子就看懂了。
+这里有一篇论文，给出相关系数的[十三种解释](https://www.stat.berkeley.edu/~rabbee/correlation.pdf)，但都写得不太容易理解。后来，我又读到了标题里面的那篇论文，指出相关系数就是两个矢量的[余弦相似性](www.ruanyifeng.com/blog/2013/03/cosine_similarity.html)，所以完全相关是+1或-1，完全不相关是0，一下子就看懂了。
 
 7、[PPT] [Docker and Go](https://www.slideshare.net/jpetazzo/docker-and-go-why-did-we-decide-to-write-docker-in-go)（英文）
 
@@ -267,11 +267,11 @@ Mixmax 公司写了一篇[文章](https://mixmax.com/blog/to-yarn-and-back-again
 
 ## 欢迎订阅
 
-这个专栏每周五发布，同步更新在我的[个人网站](http://www.ruanyifeng.com/blog)、[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)和[语雀](https://yuque.com/ruanyf/share/)。
+这个专栏每周五发布，同步更新在我的[个人网站](www.ruanyifeng.com/blog)、[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)和[语雀](https://yuque.com/ruanyf/share/)。
 
 微信搜索"__阮一峰的网络日志__"或者扫描二维码，即可订阅。
 
-![image | left](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042311.jpg "")
+![image | left](www.ruanyifeng.com/blogimg/asset/2018/bg2018042311.jpg "")
 
 （完）
 

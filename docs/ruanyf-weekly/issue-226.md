@@ -310,7 +310,7 @@ fast.ai 推出的最新线上公开课，向程序员介绍如何做一个深度
 
 ![](https://www.wangbase.com/blogimg/asset/201906/bg2019061429.jpg)
 
-我看过中译本，还挺喜欢这本书。[《周刊第 60 期》](http://www.ruanyifeng.com/blog/2019/06/weekly-issue-60.html)有我的读后感，还放了一段本书的“文摘”。
+我看过中译本，还挺喜欢这本书。[《周刊第 60 期》](www.ruanyifeng.com/blog/2019/06/weekly-issue-60.html)有我的读后感，还放了一段本书的“文摘”。
 
 感兴趣的朋友，可以回过头看看那一期。
 

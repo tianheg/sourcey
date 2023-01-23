@@ -435,13 +435,13 @@ ClojureScript 是基于 Clojure 的函数式网页脚本语言，本书是它的
 
 ## 回顾
 
-去年的本周：[《周刊第 31 期》](http://www.ruanyifeng.com/blog/2018/11/weekly-issue-31.html)
+去年的本周：[《周刊第 31 期》](www.ruanyifeng.com/blog/2018/11/weekly-issue-31.html)
 
 ![](https://www.wangbase.com/blogimg/asset/201811/bg2018111601.jpg)
 
 ## 订阅
 
-这个周刊每周五发布，同步更新在[阮一峰的网络日志](http://www.ruanyifeng.com/blog)、[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)和[语雀](https://yuque.com/ruanyf/share/)。
+这个周刊每周五发布，同步更新在[阮一峰的网络日志](www.ruanyifeng.com/blog)、[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)和[语雀](https://yuque.com/ruanyf/share/)。
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 

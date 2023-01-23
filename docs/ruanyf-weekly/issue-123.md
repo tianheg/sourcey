@@ -380,17 +380,17 @@ fast.ai 公司推出的深度学习教程。
 
 ## 回顾
 
-2019年的本周（第 72 期）：[当代人不再有手稿](http://www.ruanyifeng.com/blog/2019/09/weekly-issue-72.html)
+2019年的本周（第 72 期）：[当代人不再有手稿](www.ruanyifeng.com/blog/2019/09/weekly-issue-72.html)
 
 ![](https://www.wangbase.com/blogimg/asset/201909/bg2019090502.jpg)
 
-2018年的本周（第 20 期）：[不读大学的替代方案](http://www.ruanyifeng.com/blog/2018/08/weekly-issue-20.html)
+2018年的本周（第 20 期）：[不读大学的替代方案](www.ruanyifeng.com/blog/2018/08/weekly-issue-20.html)
 
 ![](https://www.wangbase.com/blogimg/asset/201808/bg2018083101.jpg)
 
 ## 订阅
 
-这个周刊每周五发布，同步更新在[阮一峰的网络日志](http://www.ruanyifeng.com/blog)和[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)。
+这个周刊每周五发布，同步更新在[阮一峰的网络日志](www.ruanyifeng.com/blog)和[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)。
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 

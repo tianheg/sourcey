@@ -400,17 +400,17 @@ Cloudflare Worker 是一个 Serverless 服务，可以使用很简单的代码�
 
 ## 回顾
 
-2020年的本周（第 91 期）：[印度孟买的房价，为什么跟北京一样高？](http://www.ruanyifeng.com/blog/2020/01/weekly-issue-91.html)
+2020年的本周（第 91 期）：[印度孟买的房价，为什么跟北京一样高？](www.ruanyifeng.com/blog/2020/01/weekly-issue-91.html)
 
 ![](https://www.wangbase.com/blogimg/asset/201912/bg2019120910.jpg)
 
-2019年的本周（第 39 期）：[苹果公司的两封公开信](http://www.ruanyifeng.com/blog/2019/01/weekly-issue-39.html)
+2019年的本周（第 39 期）：[苹果公司的两封公开信](www.ruanyifeng.com/blog/2019/01/weekly-issue-39.html)
 
 ![](https://www.wangbase.com/blogimg/asset/201901/bg2019011101.jpg)
 
 ## 订阅
 
-这个周刊每周五发布，同步更新在[阮一峰的网络日志](http://www.ruanyifeng.com/blog)和[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)。
+这个周刊每周五发布，同步更新在[阮一峰的网络日志](www.ruanyifeng.com/blog)和[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)。
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 

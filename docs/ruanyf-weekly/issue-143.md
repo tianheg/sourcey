@@ -14,7 +14,7 @@
 
 ##  本周话题：世界尽头与冷酷仙境
 
-[上一期周刊](http://www.ruanyifeng.com/blog/2021/01/weekly-issue-142.html)谈到，2020年是科技发展辉煌的一年。但是， **对于普通人来说，今后的日子其实更不容易了，生存难度变大了。**
+[上一期周刊](www.ruanyifeng.com/blog/2021/01/weekly-issue-142.html)谈到，2020年是科技发展辉煌的一年。但是， **对于普通人来说，今后的日子其实更不容易了，生存难度变大了。**
 
 让我从美国人不爱储蓄，开始说起。你可能听说过，美国人不存钱，钱到手就花了。
 
@@ -384,17 +384,17 @@ Chrome 浏览器插件，可以将“谷歌图片搜索”恢复成改版前的�
 
 ## 回顾
 
-2020年的本周（第 92 期）：[听觉暂留](http://www.ruanyifeng.com/blog/2020/01/weekly-issue-92.html)
+2020年的本周（第 92 期）：[听觉暂留](www.ruanyifeng.com/blog/2020/01/weekly-issue-92.html)
 
 ![](https://www.wangbase.com/blogimg/asset/201912/bg2019121006.jpg)
 
-2019年的本周（第 40 期）：[手动咖啡不属于电子时代](http://www.ruanyifeng.com/blog/2019/01/weekly-issue-40.html)
+2019年的本周（第 40 期）：[手动咖啡不属于电子时代](www.ruanyifeng.com/blog/2019/01/weekly-issue-40.html)
 
 ![](https://www.wangbase.com/blogimg/asset/201901/bg2019011801.jpg)
 
 ## 订阅
 
-这个周刊每周五发布，同步更新在[阮一峰的网络日志](http://www.ruanyifeng.com/blog)和[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)。
+这个周刊每周五发布，同步更新在[阮一峰的网络日志](www.ruanyifeng.com/blog)和[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)。
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 

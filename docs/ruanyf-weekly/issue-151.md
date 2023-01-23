@@ -380,13 +380,13 @@ GitBook 的 Rust 语言移植，可以将 markdown 源文件转成一个在线�
 
 ## 历史上的本周
 
-2020年（第 100 期）：[零利率时代](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-100.html)
+2020年（第 100 期）：[零利率时代](www.ruanyifeng.com/blog/2020/03/weekly-issue-100.html)
 
-2019年（第 48 期）：[著名程序员 Bill Joy 的人生启示](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-48.html)
+2019年（第 48 期）：[著名程序员 Bill Joy 的人生启示](www.ruanyifeng.com/blog/2019/03/weekly-issue-48.html)
 
 ## 订阅
 
-这个周刊每周五发布，同步更新在[阮一峰的网络日志](http://www.ruanyifeng.com/blog)和[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)。
+这个周刊每周五发布，同步更新在[阮一峰的网络日志](www.ruanyifeng.com/blog)和[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)。
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 

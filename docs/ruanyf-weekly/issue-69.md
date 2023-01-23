@@ -24,7 +24,7 @@
 
 ## 家庭保障规划
 
-周刊[第 60 期](http://www.ruanyifeng.com/blog/2019/06/weekly-issue-60.html)介绍了 **孙明展老师** 公众号。当时参与活动的朋友挺多的，现在活动搞第二期了，孙老师团队就联系我，想再发一次消息。
+周刊[第 60 期](www.ruanyifeng.com/blog/2019/06/weekly-issue-60.html)介绍了 **孙明展老师** 公众号。当时参与活动的朋友挺多的，现在活动搞第二期了，孙老师团队就联系我，想再发一次消息。
 
 孙老师毕业于广州中山大学，现在还是金融系、统计系的（兼职）硕士导师。他曾经在一家世界500强保险公司担任精算师，设计各种产品。
 
@@ -423,13 +423,13 @@ Leetcode 新增的多线程同步的题目。（@[DoctorLai](https://github.com/
 
 ## 回顾
 
-去年的本周：[《周刊第 17 期》](http://www.ruanyifeng.com/blog/2018/08/weekly-issue-17.html)
+去年的本周：[《周刊第 17 期》](www.ruanyifeng.com/blog/2018/08/weekly-issue-17.html)
 
 ![](https://www.wangbase.com/blogimg/asset/201808/bg2018081001.jpg)
 
 ## 订阅
 
-这个周刊每周五发布，同步更新在[阮一峰的网络日志](http://www.ruanyifeng.com/blog)、[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)和[语雀](https://yuque.com/ruanyf/share/)。
+这个周刊每周五发布，同步更新在[阮一峰的网络日志](www.ruanyifeng.com/blog)、[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)和[语雀](https://yuque.com/ruanyf/share/)。
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 

@@ -389,15 +389,15 @@ Linux 服务器的一个开源的监控服务，功能非常强大。
 
 ## 历史上的本周
 
-2020年（第 106 期）：[数字游民](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-106.html)
+2020年（第 106 期）：[数字游民](www.ruanyifeng.com/blog/2020/05/weekly-issue-106.html)
 
-2019年（第 54 期）：[可扩展性最好的活动](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-54.html)
+2019年（第 54 期）：[可扩展性最好的活动](www.ruanyifeng.com/blog/2019/05/weekly-issue-54.html)
 
-2018年（第 3 期）：[周刊的风格](http://www.ruanyifeng.com/blog/2018/05/weekly-issue-3.html)
+2018年（第 3 期）：[周刊的风格](www.ruanyifeng.com/blog/2018/05/weekly-issue-3.html)
 
 ## 订阅
 
-这个周刊每周五发布，同步更新在[阮一峰的网络日志](http://www.ruanyifeng.com/blog)和[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)。
+这个周刊每周五发布，同步更新在[阮一峰的网络日志](www.ruanyifeng.com/blog)和[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)。
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 

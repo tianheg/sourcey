@@ -46,7 +46,7 @@
 
 这告诉我们，如果你想真正地提高收入，努力仅仅是一部分的因素，更重要的是，你必须设法提升自己的资本、技能和环境的层次。
 
-就像[第21期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-21.html)说过的，你需要的不是“水平方向的努力”，而是“垂直方向的努力”。
+就像[第21期](www.ruanyifeng.com/blog/2018/09/weekly-issue-21.html)说过的，你需要的不是“水平方向的努力”，而是“垂直方向的努力”。
 
 ## Vue 3 PK React 17 特训营
 
@@ -405,17 +405,17 @@ C 语言很保守，变化和增长非常缓慢。这其实是一项吸引人的
 
 ## 回顾
 
-2020年的本周（第 93 期）：[漫游类的游戏，将会越来越多](http://www.ruanyifeng.com/blog/2020/02/weekly-issue-93.html)
+2020年的本周（第 93 期）：[漫游类的游戏，将会越来越多](www.ruanyifeng.com/blog/2020/02/weekly-issue-93.html)
 
 ![](https://www.wangbase.com/blogimg/asset/201912/bg2019121509.jpg)
 
-2019年的本周（第 41 期）：[如何看待互联网公司裁员？](http://www.ruanyifeng.com/blog/2019/01/weekly-issue-41.html)
+2019年的本周（第 41 期）：[如何看待互联网公司裁员？](www.ruanyifeng.com/blog/2019/01/weekly-issue-41.html)
 
 ![](https://www.wangbase.com/blogimg/asset/201901/bg2019012501.jpg)
 
 ## 订阅
 
-这个周刊每周五发布，同步更新在[阮一峰的网络日志](http://www.ruanyifeng.com/blog)和[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)。
+这个周刊每周五发布，同步更新在[阮一峰的网络日志](www.ruanyifeng.com/blog)和[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)。
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 

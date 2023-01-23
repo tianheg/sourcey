@@ -50,7 +50,7 @@
 
 **这就是现实，一方面，整体经济的增长速度放慢；另一方面，出现了前所未有的两极分化。** 作者提出了两个应对方法：第一，尽量减缓人口减少；第二，寻找新的技术突破，创造新的经济增长点，保证就业和刺激消费。
 
-人口趋势恐怕很难改变，但是，技术突破是可以追踪的，这也是我做这个周刊的一个目的， **尽可能追踪和理解新技术，丰富自己的技能，寻找新的机会，避免被微增长时代埋葬，做一个[未来世界的幸存者](http://www.ruanyifeng.com/survivor/)。**
+人口趋势恐怕很难改变，但是，技术突破是可以追踪的，这也是我做这个周刊的一个目的， **尽可能追踪和理解新技术，丰富自己的技能，寻找新的机会，避免被微增长时代埋葬，做一个[未来世界的幸存者](www.ruanyifeng.com/survivor/)。**
 
 ![](https://cdn.beea.com/blogimg/asset/202103/bg2021030315.jpg)
 
@@ -418,12 +418,12 @@ SVG 是一个非常臃肿的文件格式，规格文档厚达826页。如果要�
 
 ## 历史上的本周
 
-- 2020年（第 97 期）：[那些为了考试拼搏的年轻人](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-97.html)
-- 2019年（第 45 期）：[阿西莫夫回忆录《人生舞台》](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-45.html)
+- 2020年（第 97 期）：[那些为了考试拼搏的年轻人](www.ruanyifeng.com/blog/2020/03/weekly-issue-97.html)
+- 2019年（第 45 期）：[阿西莫夫回忆录《人生舞台》](www.ruanyifeng.com/blog/2019/03/weekly-issue-45.html)
 
 ## 订阅
 
-这个周刊每周五发布，同步更新在[阮一峰的网络日志](http://www.ruanyifeng.com/blog)和[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)。
+这个周刊每周五发布，同步更新在[阮一峰的网络日志](www.ruanyifeng.com/blog)和[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)。
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 

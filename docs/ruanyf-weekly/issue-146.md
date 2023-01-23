@@ -400,17 +400,17 @@ Twitter 的“浏览”选项卡是世界上最重要的报纸。
 
 ## 回顾
 
-2020年的本周（第 95 期）：[远程办公暴露冗余岗位](http://www.ruanyifeng.com/blog/2020/02/weekly-issue-95.html)
+2020年的本周（第 95 期）：[远程办公暴露冗余岗位](www.ruanyifeng.com/blog/2020/02/weekly-issue-95.html)
 
 ![](https://www.wangbase.com/blogimg/asset/201912/bg2019122902.jpg)
 
-2019年的本周（第 43 期）：[一篇好玩的论文](http://www.ruanyifeng.com/blog/2019/02/weekly-issue-43.html)
+2019年的本周（第 43 期）：[一篇好玩的论文](www.ruanyifeng.com/blog/2019/02/weekly-issue-43.html)
 
 ![](https://www.wangbase.com/blogimg/asset/201902/bg2019021501.jpg)
 
 ## 订阅
 
-这个周刊每周五发布，同步更新在[阮一峰的网络日志](http://www.ruanyifeng.com/blog)和[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)。
+这个周刊每周五发布，同步更新在[阮一峰的网络日志](www.ruanyifeng.com/blog)和[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)。
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 

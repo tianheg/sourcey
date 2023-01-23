@@ -6,7 +6,7 @@ ruanyieng.com/blogimg/asset/2018/bg2018042801.jpg)
 
 （题图：青岛火车站）
 
-上周发了[第一期](http://www.ruanyifeng.com/blog/2018/04/weekly-issue-1.html)以后，有朋友问为什么写这个专栏？
+上周发了[第一期](www.ruanyifeng.com/blog/2018/04/weekly-issue-1.html)以后，有朋友问为什么写这个专栏？
 
 我想了想，除了整理收藏夹，主要原因还是我希望自己多发声。长久以来，我一直努力，每周更新博客，但是现在做不到：简单的题材不值得写，复杂的题材一周时间不够准备。有了这个专栏，就能保证每周都有新内容发布。
 
@@ -209,7 +209,7 @@ ruanyieng.com/blogimg/asset/2018/bg2018042820.jpg)
 
 ## 欢迎订阅
 
-这个专栏会同步更新在我的[个人网站](http://www.ruanyifeng.com/blog)、[微信公众号](http://weixin.sogou.com/weixin?type=1&query=阮一峰的网络日志)和[语雀](https://yuque.com/ruanyf/share/)。
+这个专栏会同步更新在我的[个人网站](www.ruanyifeng.com/blog)、[微信公众号](http://weixin.sogou.com/weixin?type=1&query=阮一峰的网络日志)和[语雀](https://yuque.com/ruanyf/share/)。
 
 微信搜索"__阮一峰的网络日志__"或者扫描二维码，即可订阅。
 

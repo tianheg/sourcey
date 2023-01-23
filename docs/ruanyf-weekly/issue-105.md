@@ -376,12 +376,12 @@ Python 初学者的免费教材，教会读者编程概念，并用简单的小�
 
 ## 回顾
 
-- 2019年的本周：[第 54 期](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-54.html)
-- 2018年的本周：[第 2 期](http://www.ruanyifeng.com/blog/2018/04/weekly-issue-2.html)
+- 2019年的本周：[第 54 期](www.ruanyifeng.com/blog/2019/05/weekly-issue-54.html)
+- 2018年的本周：[第 2 期](www.ruanyifeng.com/blog/2018/04/weekly-issue-2.html)
 
 ## 订阅
 
-这个周刊每周五发布，同步更新在[阮一峰的网络日志](http://www.ruanyifeng.com/blog)和[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)。
+这个周刊每周五发布，同步更新在[阮一峰的网络日志](www.ruanyifeng.com/blog)和[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)。
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 

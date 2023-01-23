@@ -362,15 +362,15 @@ Prisma 是 Node.js 和 TypeScript 项目新一代的 ORM 库，用来操作数�
 
 ## 历史上的本周
 
-2020年（第 107 期）：[致富与杠杆](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-107.html)
+2020年（第 107 期）：[致富与杠杆](www.ruanyifeng.com/blog/2020/05/weekly-issue-107.html)
 
-2019年（第 55 期）：[不是反对 996，而要提倡远程办公](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-55.html)
+2019年（第 55 期）：[不是反对 996，而要提倡远程办公](www.ruanyifeng.com/blog/2019/05/weekly-issue-55.html)
 
-2018年（第 4 期）：[马克思研究的问题](http://www.ruanyifeng.com/blog/2018/05/weekly-issue-4.html)
+2018年（第 4 期）：[马克思研究的问题](www.ruanyifeng.com/blog/2018/05/weekly-issue-4.html)
 
 ## 订阅
 
-这个周刊每周五发布，同步更新在[阮一峰的网络日志](http://www.ruanyifeng.com/blog)和[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)。
+这个周刊每周五发布，同步更新在[阮一峰的网络日志](www.ruanyifeng.com/blog)和[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)。
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 

@@ -34,7 +34,7 @@
 
 他的意思是，即使他真心热爱数学，依然觉得数学研究非常艰苦。（注意，一个真心热爱的人还说艰苦，如果换成普通人，感受可想而知。）他能够坚持下去，并不是因为他觉得很容易，而是因为他可以忍受这些痛苦。
 
-这段话对我很有启发。大家往往只看到成功时的荣耀，而忽视成功之前那个痛苦的过程。英国著名作家[奥威尔](http://www.ruanyifeng.com/blog/2004/12/post_94.html)就说过：“一个人如果将他自己描述得很好的话，他十有八九是在撒谎，因为任何生命从内部审视都只不过是一系列的失败。”
+这段话对我很有启发。大家往往只看到成功时的荣耀，而忽视成功之前那个痛苦的过程。英国著名作家[奥威尔](www.ruanyifeng.com/blog/2004/12/post_94.html)就说过：“一个人如果将他自己描述得很好的话，他十有八九是在撒谎，因为任何生命从内部审视都只不过是一系列的失败。”
 
 实际上，一个人能够成功，仅有热爱是不够的，还必须有强大的忍受能力，能够吃苦。
 
@@ -387,17 +387,17 @@ Python 3.0 的首次发布发生在12年前（2008年），现在 Python 2 已�
 
 ## 回顾
 
-2020年的本周（第 96 期）：[在线教育不等于录制视频](http://www.ruanyifeng.com/blog/2020/02/weekly-issue-96.html)
+2020年的本周（第 96 期）：[在线教育不等于录制视频](www.ruanyifeng.com/blog/2020/02/weekly-issue-96.html)
 
 ![](https://cdn.beea.com/blogimg/asset/202001/bg2020011804.jpg)
 
-2019年的本周（第 44 期）：[高校“唯论文”导向的后果](http://www.ruanyifeng.com/blog/2019/02/weekly-issue-44.html)
+2019年的本周（第 44 期）：[高校“唯论文”导向的后果](www.ruanyifeng.com/blog/2019/02/weekly-issue-44.html)
 
 ![](https://cdn.beea.com/blogimg/asset/201902/bg2019022201.jpg)
 
 ## 订阅
 
-这个周刊每周五发布，同步更新在[阮一峰的网络日志](http://www.ruanyifeng.com/blog)和[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)。
+这个周刊每周五发布，同步更新在[阮一峰的网络日志](www.ruanyifeng.com/blog)和[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)。
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 

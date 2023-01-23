@@ -187,7 +187,7 @@ ruanyieng.com/blogimg/asset/2018/bg2018042310.jpg)
 
 ## 欢迎订阅
 
-这个专栏会同步更新在我的[个人网站](http://www.ruanyifeng.com/blog)、[微信公众号](http://weixin.sogou.com/weixin?type=1&query=阮一峰的网络日志)和[语雀](https://yuque.com/ruanyf/share/)。
+这个专栏会同步更新在我的[个人网站](www.ruanyifeng.com/blog)、[微信公众号](http://weixin.sogou.com/weixin?type=1&query=阮一峰的网络日志)和[语雀](https://yuque.com/ruanyf/share/)。
 
 微信搜索"__阮一峰的网络日志__"或者扫描二维码，即可手机订阅。
 

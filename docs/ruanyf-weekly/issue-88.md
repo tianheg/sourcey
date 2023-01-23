@@ -407,13 +407,13 @@ Tailwind CSS 框架的作者谈自己如何一步步探索，写出与 HTML 代�
 
 ## 回顾
 
-去年的本周：[《周刊第 36 期》](http://www.ruanyifeng.com/blog/2018/12/weekly-issue-36.html)
+去年的本周：[《周刊第 36 期》](www.ruanyifeng.com/blog/2018/12/weekly-issue-36.html)
 
 ![](https://www.wangbase.com/blogimg/asset/201812/bg2018122129.jpg)
 
 ## 订阅
 
-这个周刊每周五发布，同步更新在[阮一峰的网络日志](http://www.ruanyifeng.com/blog)、[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)和[语雀](https://yuque.com/ruanyf/share/)。
+这个周刊每周五发布，同步更新在[阮一峰的网络日志](www.ruanyifeng.com/blog)、[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)和[语雀](https://yuque.com/ruanyf/share/)。
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 

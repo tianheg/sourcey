@@ -18,7 +18,7 @@
 
 （图片：个人增值税发票）
 
-自从[上周](http://www.ruanyifeng.com/blog/2019/07/weekly-issue-64.html)说了这个设想以后，很多企业联系了我。我发现自己忽略了一个问题：我没法开发票。企业愿意花钱，但是需要发票。我现在还没注册公司，开不出发票。
+自从[上周](www.ruanyifeng.com/blog/2019/07/weekly-issue-64.html)说了这个设想以后，很多企业联系了我。我发现自己忽略了一个问题：我没法开发票。企业愿意花钱，但是需要发票。我现在还没注册公司，开不出发票。
 
 很多人不知道，国家其实允许个人开增值税发票（[国家税务总局官网](http://www.chinatax.gov.cn/n810351/n2038842/c2210589/content.html)），但必须本人亲自去税务局，由税务局代开，这个就很麻烦。全国只有深圳市，可以通过微信办理[网上代开个人增值税发票](http://www.chinatax.gov.cn/n810219/n810739/c2671114/content.html)，但前提是对方必须为注册在深圳的公司。
 
@@ -360,7 +360,7 @@ ECMO 不是永久性措施，而是一个过渡措施，为病人争取时间，
 
 ## 回顾
 
-去年的本周：[《周刊第 13 期》](http://www.ruanyifeng.com/blog/2018/07/weekly-issue-13.html)
+去年的本周：[《周刊第 13 期》](www.ruanyifeng.com/blog/2018/07/weekly-issue-13.html)
 
 ![](https://www.wangbase.com/blogimg/asset/201807/bg2018071301.jpg)
 
@@ -396,7 +396,7 @@ Email 联系 [yinchengzhi[AT]meituan.com](mailto://yinchengzhi@meituan.com)。
 
 ## 订阅
 
-这个周刊每周五发布，同步更新在[阮一峰的网络日志](http://www.ruanyifeng.com/blog)、[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)和[语雀](https://yuque.com/ruanyf/share/)。
+这个周刊每周五发布，同步更新在[阮一峰的网络日志](www.ruanyifeng.com/blog)、[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)和[语雀](https://yuque.com/ruanyf/share/)。
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 

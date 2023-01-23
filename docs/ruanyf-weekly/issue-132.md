@@ -397,17 +397,17 @@ Starlink（星联计划）将永远改变游戏规则。
 
 ## 回顾
 
-2019年的本周（第 81 期）：[子辈能大幅超越父辈吗？](http://www.ruanyifeng.com/blog/2019/11/weekly-issue-81.html)
+2019年的本周（第 81 期）：[子辈能大幅超越父辈吗？](www.ruanyifeng.com/blog/2019/11/weekly-issue-81.html)
 
 ![](https://www.wangbase.com/blogimg/asset/201911/bg2019110707.jpg)
 
-2018年的本周（第 29 期）：[公司的组织架构，决定了软件的复杂性](http://www.ruanyifeng.com/blog/2018/11/weekly-issue-29.html)
+2018年的本周（第 29 期）：[公司的组织架构，决定了软件的复杂性](www.ruanyifeng.com/blog/2018/11/weekly-issue-29.html)
 
 ![](https://www.wangbase.com/blogimg/asset/201811/bg2018110201.jpg)
 
 ## 订阅
 
-这个周刊每周五发布，同步更新在[阮一峰的网络日志](http://www.ruanyifeng.com/blog)和[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)。
+这个周刊每周五发布，同步更新在[阮一峰的网络日志](www.ruanyifeng.com/blog)和[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)。
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 

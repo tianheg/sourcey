@@ -14,7 +14,7 @@
 
 ## 微信小程序入门教程
 
-本周，我发布了[《微信小程序入门教程》](http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-one.html)，分成四次连载，帮助初学者学会写微信小程序。
+本周，我发布了[《微信小程序入门教程》](www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-one.html)，分成四次连载，帮助初学者学会写微信小程序。
 
 这是免费教程，不收任何费用，有兴趣的同学可以看看，相信比其他教程更简单清晰。
 
@@ -380,17 +380,17 @@ Django REST framework 中文教程。（[@521xueweihan](https://github.com/ruany
 
 ## 回顾
 
-2019年的本周（第 80 期）：[企业软件创业，为什么在中国不容易成功？](http://www.ruanyifeng.com/blog/2019/11/weekly-issue-80.html)
+2019年的本周（第 80 期）：[企业软件创业，为什么在中国不容易成功？](www.ruanyifeng.com/blog/2019/11/weekly-issue-80.html)
 
 ![](https://www.wangbase.com/blogimg/asset/201910/bg2019103101.jpg)
 
-2018年的本周（第 28 期）：[软件开发是真正的知识吗？](http://www.ruanyifeng.com/blog/2018/10/weekly-issue-28.html)
+2018年的本周（第 28 期）：[软件开发是真正的知识吗？](www.ruanyifeng.com/blog/2018/10/weekly-issue-28.html)
 
 ![](https://www.wangbase.com/blogimg/asset/201810/bg2018102601.jpg)
 
 ## 订阅
 
-这个周刊每周五发布，同步更新在[阮一峰的网络日志](http://www.ruanyifeng.com/blog)和[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)。
+这个周刊每周五发布，同步更新在[阮一峰的网络日志](www.ruanyifeng.com/blog)和[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)。
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 

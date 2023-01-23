@@ -54,7 +54,7 @@ Firefox 60 按照最新的标准，为 Cookie 新增了一个 SameSite 属性，
 
 文本文件的换行符，一直不统一。Unix 平台是 \n，Windows 平台是 \r\n，所以 Windows 打开其他平台的文本文件，都显示为一行。
 
-那么多年过去了，微软终于在今年宣布下一次 Windows 10 更新时，Notepad 将支持 [Unix 换行符](http://www.ruanyifeng.com/blog/2006/04/post_213.html)（LF）、Mac 换行符（CR）。
+那么多年过去了，微软终于在今年宣布下一次 Windows 10 更新时，Notepad 将支持 [Unix 换行符](www.ruanyifeng.com/blog/2006/04/post_213.html)（LF）、Mac 换行符（CR）。
 
 6、[Gmail 的智能回邮功能](https://www.businessinsider.sg/google-gmail-gets-smart-compose-automatic-reply-suggestion-service-2018-5/)
 
@@ -265,7 +265,7 @@ Facebook 公司推出Pyre，用来检查Python程序的静态类型错误，下�
 
 ## 欢迎订阅
 
-这个专栏每周五发布，同步更新在我的[个人网站](http://www.ruanyifeng.com/blog)、[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)和[语雀](https://yuque.com/ruanyf/share/)。
+这个专栏每周五发布，同步更新在我的[个人网站](www.ruanyifeng.com/blog)、[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)和[语雀](https://yuque.com/ruanyf/share/)。
 
 微信搜索"__阮一峰的网络日志__"或者扫描二维码，即可订阅。
 

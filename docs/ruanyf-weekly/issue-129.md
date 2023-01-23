@@ -400,17 +400,17 @@ DigitalOcean 发布应用程序平台，跟 GitHub 深度融合，可以直接�
 
 ## 回顾
 
-2019年的本周（第 78 期）：[下一个风口是什么行业？](http://www.ruanyifeng.com/blog/2019/10/weekly-issue-78.html)
+2019年的本周（第 78 期）：[下一个风口是什么行业？](www.ruanyifeng.com/blog/2019/10/weekly-issue-78.html)
 
 ![](https://www.wangbase.com/blogimg/asset/201910/bg2019101707.jpg)
 
-2018年的本周（第 26 期）：[DHH 的新书《工作何必疯狂》](http://www.ruanyifeng.com/blog/2018/10/weekly-issue-26.html)
+2018年的本周（第 26 期）：[DHH 的新书《工作何必疯狂》](www.ruanyifeng.com/blog/2018/10/weekly-issue-26.html)
 
 ![](https://www.wangbase.com/blogimg/asset/201810/bg2018101201.jpg)
 
 ## 订阅
 
-这个周刊每周五发布，同步更新在[阮一峰的网络日志](http://www.ruanyifeng.com/blog)和[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)。
+这个周刊每周五发布，同步更新在[阮一峰的网络日志](www.ruanyifeng.com/blog)和[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)。
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 

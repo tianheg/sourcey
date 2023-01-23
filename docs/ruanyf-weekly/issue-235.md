@@ -362,7 +362,7 @@ VSCode 的 Markdown 渲染插件，特点是完全按照 GitHub 的 Markdown 效
 
 ## 说明
 
-周刊每周五发布在[我的个人网站](http://www.ruanyifeng.com/blog)和微信公众号《阮一峰的网络日志》，欢迎订阅。
+周刊每周五发布在[我的个人网站](www.ruanyifeng.com/blog)和微信公众号《阮一峰的网络日志》，欢迎订阅。
 
 周刊是开源的，自由使用，仓库在 GitHub: [ruanyf/weekly](https://github.com/ruanyf/weekly)，投稿请到仓库提交 issue。我们还开设了[《谁在招人？》](https://github.com/ruanyf/weekly/issues/2771)服务，欢迎发布或查看程序员招聘信息。
 

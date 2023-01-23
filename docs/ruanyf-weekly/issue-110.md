@@ -414,17 +414,17 @@ Tencent 这个名字模仿朗讯（Lucent），而且左右对称。
 
 ## 回顾
 
-2019年的本周（第 59 期）：[未来交不到朋友](http://www.ruanyifeng.com/blog/2019/06/weekly-issue-59.html)
+2019年的本周（第 59 期）：[未来交不到朋友](www.ruanyifeng.com/blog/2019/06/weekly-issue-59.html)
 
 ![](https://www.wangbase.com/blogimg/asset/201906/bg2019060701.jpg)
 
-2018年的本周（第 7 期）：[垃圾星球](http://www.ruanyifeng.com/blog/2018/06/weekly-issue-7.html)
+2018年的本周（第 7 期）：[垃圾星球](www.ruanyifeng.com/blog/2018/06/weekly-issue-7.html)
 
 ![](https://www.wangbase.com/blogimg/asset/201805/bg2018053001.jpg)
 
 ## 订阅
 
-这个周刊每周五发布，同步更新在[阮一峰的网络日志](http://www.ruanyifeng.com/blog)和[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)。
+这个周刊每周五发布，同步更新在[阮一峰的网络日志](www.ruanyifeng.com/blog)和[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)。
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 

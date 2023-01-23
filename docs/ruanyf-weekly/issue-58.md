@@ -358,13 +358,13 @@ Haskell 语言开源教程的中译本，针对初学者。
 
 ## 回顾
 
-去年的本周：[《每周分享第 6 期》](http://www.ruanyifeng.com/blog/2018/05/weekly-issue-6.html)
+去年的本周：[《每周分享第 6 期》](www.ruanyifeng.com/blog/2018/05/weekly-issue-6.html)
 
-[![](https://www.wangbase.com/blogimg/asset/201805/bg2019052502.jpg)](http://www.ruanyifeng.com/blog/2018/05/weekly-issue-6.html)
+[![](https://www.wangbase.com/blogimg/asset/201805/bg2019052502.jpg)](www.ruanyifeng.com/blog/2018/05/weekly-issue-6.html)
 
 ## 订阅
 
-这个专栏每周五发布，同步更新在我的[个人网站](http://www.ruanyifeng.com/blog)、[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)和[语雀](https://yuque.com/ruanyf/share/)。
+这个专栏每周五发布，同步更新在我的[个人网站](www.ruanyifeng.com/blog)、[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)和[语雀](https://yuque.com/ruanyf/share/)。
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 

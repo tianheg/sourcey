@@ -388,13 +388,13 @@ Facebook 出品的 Markdown 静态文档网站的建站工具，前端使用 Rea
 
 ## 回顾
 
-去年的本周：[《周刊第 12 期》](http://www.ruanyifeng.com/blog/2018/07/weekly-issue-12.html)
+去年的本周：[《周刊第 12 期》](www.ruanyifeng.com/blog/2018/07/weekly-issue-12.html)
 
 ![](https://www.wangbase.com/blogimg/asset/201807/bg2018070601.jpg)
 
 ## 订阅
 
-这个周刊每周五发布，同步更新在[阮一峰的网络日志](http://www.ruanyifeng.com/blog)、[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)和[语雀](https://yuque.com/ruanyf/share/)。
+这个周刊每周五发布，同步更新在[阮一峰的网络日志](www.ruanyifeng.com/blog)、[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)和[语雀](https://yuque.com/ruanyf/share/)。
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 

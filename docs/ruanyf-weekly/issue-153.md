@@ -363,13 +363,13 @@ C++17 比 C++98 多了近80%的内容，而最新版 C++20 比 C++98 多了近10
 
 ## 历史上的本周
 
-2020年（第 102 期）：[工作热情从何而来？](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-102.html)
+2020年（第 102 期）：[工作热情从何而来？](www.ruanyifeng.com/blog/2020/04/weekly-issue-102.html)
 
-2019年（第 50 期）：["时间换收入"是一个陷阱](http://www.ruanyifeng.com/blog/2019/04/weekly-issue-50.html)
+2019年（第 50 期）：["时间换收入"是一个陷阱](www.ruanyifeng.com/blog/2019/04/weekly-issue-50.html)
 
 ## 订阅
 
-这个周刊每周五发布，同步更新在[阮一峰的网络日志](http://www.ruanyifeng.com/blog)和[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)。
+这个周刊每周五发布，同步更新在[阮一峰的网络日志](www.ruanyifeng.com/blog)和[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)。
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 

@@ -352,17 +352,17 @@ SSD 固态硬盘变成主流，导致 Windows 10 在 HDD 机械硬盘上几乎�
 
 ## 回顾
 
-2019年的本周（第 69 期）：[做得好 vs 做得快](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-69.html)
+2019年的本周（第 69 期）：[做得好 vs 做得快](www.ruanyifeng.com/blog/2019/08/weekly-issue-69.html)
 
 ![](https://www.wangbase.com/blogimg/asset/201908/bg2019081403.jpg)
 
-2018年的本周（第 17 期）：[全球变暖，在劫难逃](http://www.ruanyifeng.com/blog/2018/08/weekly-issue-17.html)
+2018年的本周（第 17 期）：[全球变暖，在劫难逃](www.ruanyifeng.com/blog/2018/08/weekly-issue-17.html)
 
 ![](https://www.wangbase.com/blogimg/asset/201808/bg2018081001.jpg)
 
 ## 订阅
 
-这个周刊每周五发布，同步更新在[阮一峰的网络日志](http://www.ruanyifeng.com/blog)和[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)。
+这个周刊每周五发布，同步更新在[阮一峰的网络日志](www.ruanyifeng.com/blog)和[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)。
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 

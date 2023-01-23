@@ -26,7 +26,7 @@
 
 1982年还没有互联网和手机，个人电脑也才刚刚诞生（第一台 IBM PC 发布于1981年暑假）。那个时候他就预言，人类社会很快就将从工业社会进入信息社会。
 
-2007年，我读了这本书，很受震动，做了许多[摘录](http://www.ruanyifeng.com/blog/2007/03/megatrends_by_john_naisbitt_part_i.html)。现在翻出来看看，依然觉得他当年的描述，直到今天都有启发意义。下面就是他的一些观点。
+2007年，我读了这本书，很受震动，做了许多[摘录](www.ruanyifeng.com/blog/2007/03/megatrends_by_john_naisbitt_part_i.html)。现在翻出来看看，依然觉得他当年的描述，直到今天都有启发意义。下面就是他的一些观点。
 
 **（1） 信息的地位**
 
@@ -362,13 +362,13 @@ Linux 服务器经常发生磁盘已满的错误，我的解决方法是，在�
 
 ## 历史上的本周
 
-2020年（第 103 期）：[信息的半衰期](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-103.html)
+2020年（第 103 期）：[信息的半衰期](www.ruanyifeng.com/blog/2020/04/weekly-issue-103.html)
 
-2019年（第 51 期）：[为什么过去10年，笔记本硬件发展缓慢？](http://www.ruanyifeng.com/blog/2019/04/weekly-issue-51.html)
+2019年（第 51 期）：[为什么过去10年，笔记本硬件发展缓慢？](www.ruanyifeng.com/blog/2019/04/weekly-issue-51.html)
 
 ## 订阅
 
-这个周刊每周五发布，同步更新在[阮一峰的网络日志](http://www.ruanyifeng.com/blog)和[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)。
+这个周刊每周五发布，同步更新在[阮一峰的网络日志](www.ruanyifeng.com/blog)和[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)。
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 

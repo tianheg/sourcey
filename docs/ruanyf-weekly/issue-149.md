@@ -380,12 +380,12 @@ Alyce 夫人得到消息后，立即出发前往美国。可悲的是，约翰·
 
 ## 历史上的本周
 
-- 2020年（第 98 期）：[怎样清晰地表达自己的观点？](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-98.html)
-- 2019年（第 46 期）：[推荐算法的副作用](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-46.html)
+- 2020年（第 98 期）：[怎样清晰地表达自己的观点？](www.ruanyifeng.com/blog/2020/03/weekly-issue-98.html)
+- 2019年（第 46 期）：[推荐算法的副作用](www.ruanyifeng.com/blog/2019/03/weekly-issue-46.html)
 
 ## 订阅
 
-这个周刊每周五发布，同步更新在[阮一峰的网络日志](http://www.ruanyifeng.com/blog)和[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)。
+这个周刊每周五发布，同步更新在[阮一峰的网络日志](www.ruanyifeng.com/blog)和[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)。
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 

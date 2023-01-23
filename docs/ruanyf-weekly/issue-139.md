@@ -399,17 +399,17 @@ Linkedin 工程团队专门写给新人的 SRE （站点可靠性工程）教程
 
 ## 回顾
 
-2019年的本周（第 88 期）：[如果你遇到一条蛇](http://www.ruanyifeng.com/blog/2019/12/weekly-issue-88.html)
+2019年的本周（第 88 期）：[如果你遇到一条蛇](www.ruanyifeng.com/blog/2019/12/weekly-issue-88.html)
 
 ![](https://www.wangbase.com/blogimg/asset/201911/bg2019113002.jpg)
 
-2018年的本周（第 36 期）：[程序员将来会不会过剩？](http://www.ruanyifeng.com/blog/2018/12/weekly-issue-36.html)
+2018年的本周（第 36 期）：[程序员将来会不会过剩？](www.ruanyifeng.com/blog/2018/12/weekly-issue-36.html)
 
 ![](https://www.wangbase.com/blogimg/asset/201812/bg2018122129.jpg)
 
 ## 订阅
 
-这个周刊每周五发布，同步更新在[阮一峰的网络日志](http://www.ruanyifeng.com/blog)和[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)。
+这个周刊每周五发布，同步更新在[阮一峰的网络日志](www.ruanyifeng.com/blog)和[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)。
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 

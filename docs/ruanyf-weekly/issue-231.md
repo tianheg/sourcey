@@ -396,7 +396,7 @@ USB2.0、USB3.0、USB4.0 这种混乱的命名应该改掉，改成 USB 0.5Gbps�
 
 ## 说明
 
-周刊每周五发布在[我的个人网站](http://www.ruanyifeng.com/blog)和微信公众号《阮一峰的网络日志》，欢迎订阅。
+周刊每周五发布在[我的个人网站](www.ruanyifeng.com/blog)和微信公众号《阮一峰的网络日志》，欢迎订阅。
 
 周刊内容开源，自由使用，仓库在 GitHub: [ruanyf/weekly](https://github.com/ruanyf/weekly)，欢迎提交 issue 投稿。另有[《谁在招人？》](https://github.com/ruanyf/weekly/issues/2715)服务，提供程序员就业信息。
 

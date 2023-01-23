@@ -8,7 +8,7 @@
 
 ## 本周话题：周刊为什么只谈技术？
 
-自从我[认定](http://www.ruanyifeng.com/blog/2018/07/my-books.html)，未来二三十年，人类社会将有天翻地覆的大变。我的所有时间，就都投在技术领域了。因为变化是技术引起的，只有了解技术，才可能应对变化。
+自从我[认定](www.ruanyifeng.com/blog/2018/07/my-books.html)，未来二三十年，人类社会将有天翻地覆的大变。我的所有时间，就都投在技术领域了。因为变化是技术引起的，只有了解技术，才可能应对变化。
 
 我相信，未来最大的那些机会，一定是技术带来的机会。底层的年轻人要想翻身，当工程师是比较可能的途径。当然，医生和律师依然可以赚钱，但我觉得前景不如工程师，因为将来一定是机器帮你看病，帮你打官司。
 
@@ -285,11 +285,11 @@ Google Reader 是谷歌的线上 RSS 阅读器，2013年关闭。现在，有人
 
 ## 欢迎订阅
 
-这个专栏每周五发布，同步更新在我的[个人网站](http://www.ruanyifeng.com/blog)、[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)和[语雀](https://yuque.com/ruanyf/share/)。
+这个专栏每周五发布，同步更新在我的[个人网站](www.ruanyifeng.com/blog)、[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)和[语雀](https://yuque.com/ruanyf/share/)。
 
 微信搜索"__阮一峰的网络日志__"或者扫描二维码，即可订阅。
 
-![image | left](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042311.jpg)
+![image | left](www.ruanyifeng.com/blogimg/asset/2018/bg2018042311.jpg)
 
 （完）
 

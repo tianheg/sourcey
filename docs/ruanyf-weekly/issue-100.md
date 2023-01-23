@@ -32,7 +32,7 @@
 
 由于投资回报很低，大部分人的财富只能主要依靠工资积累，一有大的消费，或者生活变故，那点钱顿时就会化为乌有。所以对于年轻人来说，想要生活自立，就必须尽早开始工作，获取工资。越晚工作，经济处境就会越困难，因为你找不到快速积累资金的方法，年龄在增长，但是资产却增长很慢。
 
-回到[上一期话题](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-99.html)，应不应该读研？我认为，如果等到24岁才研究生毕业，去就业市场找人生第一份工作，就真的有点太晚了。至少在读研期间，就要想办法去挣钱。
+回到[上一期话题](www.ruanyifeng.com/blog/2020/03/weekly-issue-99.html)，应不应该读研？我认为，如果等到24岁才研究生毕业，去就业市场找人生第一份工作，就真的有点太晚了。至少在读研期间，就要想办法去挣钱。
 
 ## 前端培训课程
 
@@ -158,7 +158,7 @@
 
 面对2月以来新冠肺炎疫情在全球范围内的快速蔓延，赫拉利撰写了这篇文章，在《三联生活周刊》独家中文刊发。
 
-他的核心观点是，关闭国界不是阻止病毒传播的好办法，人类应该加强合作，而不是互相指责。对病毒的最佳防御不是隔离，而是信息。另外，他在《金融时报》发表的长文[《冠状病毒之后的世界》](http://www.ruanyifeng.com/blog/2020/03/the-world-after-coronavirus.html)也可以参考。
+他的核心观点是，关闭国界不是阻止病毒传播的好办法，人类应该加强合作，而不是互相指责。对病毒的最佳防御不是隔离，而是信息。另外，他在《金融时报》发表的长文[《冠状病毒之后的世界》](www.ruanyifeng.com/blog/2020/03/the-world-after-coronavirus.html)也可以参考。
 
 3、[日历版本的实施方案](https://blog.dgraph.io/post/dgraph-calendar-versioning/)（英文）
 
@@ -399,13 +399,13 @@ Covid-19 出现之前，常见的冠状病毒有4种，对于大多数人来说�
 
 ## 回顾
 
-去年的本周：[《周刊第 49 期》](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-49.html)
+去年的本周：[《周刊第 49 期》](www.ruanyifeng.com/blog/2019/03/weekly-issue-49.html)
 
 ![](https://www.wangbase.com/blogimg/asset/201903/bg2019032901.jpg)
 
 ## 订阅
 
-这个周刊每周五发布，同步更新在[阮一峰的网络日志](http://www.ruanyifeng.com/blog)和[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)。
+这个周刊每周五发布，同步更新在[阮一峰的网络日志](www.ruanyifeng.com/blog)和[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)。
 
 微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
 
